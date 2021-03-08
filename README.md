@@ -1,10 +1,10 @@
 # Internship AI Engineer Training Program
 
+#### Task
 
-#### Name:       TRẦN HOÀNG VŨ
+#### Duration: 8/3/2021 - 14/3/2021
 
-#### Contact:    0964819653
+1. Setup env.
+2. Pre-training BERT on PubMed and MIMIC-III with initial weights BERT (pretrained on Wikipedia and Bookcorpus).
 
-#### Duration:   8/3/2021 - 8/6/2021
-
-#### Objectives:
+#### Result:
