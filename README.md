@@ -1,8 +1,9 @@
 # Internship AI Engineer Training Program
 
-#### Task
 
 #### Duration: 8/3/2021 - 14/3/2021
+
+#### Task:
 
 1. Setup env.
 2. Pre-training BERT on PubMed and MIMIC-III with initial weights BERT (pretrained on Wikipedia and Bookcorpus).
