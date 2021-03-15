@@ -10,4 +10,5 @@
 3. Pre-training Tiny-BERT on PubMed and MIMIC-III with initial weights BERT (pretrained on Wikipedia and Bookcorpus). Model is trained [here](https://drive.google.com/drive/folders/1ZClRxCT2mMjpwPV3cQZQdt-Ha0p0M2NV?usp=sharing)
 
 #### Result:
+
 ![](images/loss.PNG)
