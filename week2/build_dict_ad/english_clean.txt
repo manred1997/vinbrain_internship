@@ -1,0 +1,180 @@
+Presence of opacity
+Opacity in 0
+Presence of atelectasis
+Atelectasis in 0
+Opacities with feature of consolidation
+Opacities with feature of consolidation in 0
+Presence of enlarged heartPresence of enlarged cardiomediastinum
+Opacities with feature of edema
+Opacities with feature of edema in 0
+Imaging of pulmonary fibrosis
+Imaging of pulmonary fibrosis in 0
+Presence of pleural effusion
+The suggestive of pneumonia
+The suggestive of pneumonia in 0
+Presence of pleural other
+Presence of pleural other in 0
+There is a suspected Tuberculosis abnormality
+There is a suspected Tuberculosis abnormality in 0
+The suggestive of interstitial lesion
+The suggestive of interstitial lesion in 0
+Presence of 0 pleural effusion in the left side
+Presence of 0 pleural effusion in the right side
+Presence of 0 pleural effusion in the both sides
+Presence of 0 pleural effusion in the left side 1 pleural effusion in the right side
+Presence of enlarged heart
+Imaging of fracture
+0 fracture in 1
+0 fracture in 1 2 fracture in 3
+Image of fracture rib bone number 0 on the left
+Image of fracture rib bone number 0 on the right
+Image of fracture rib bone number 0 on the right rib bone number 1 on the left
+Image of fracture 0 1 rib bone number 2 on the left
+Image of fracture 0 1 rib bone number 2 on the right
+Image of fracture 0 1 rib bone number 2 on the right rib bone number 3 on the left
+0 compared to Xray image taken on 1
+0 compared to Xray image taken on 1
+0 compared to Xray image taken on 1
+0 compared to Xray image taken on 1
+0 compared to Xray image taken on 1
+0 compared to Xray image taken on 1
+0 compared to Xray image taken on 1
+0 compared to Xray image taken on 1
+0 compared to Xray image taken on 1
+0 compared to Xray image taken on 1
+0 compared to Xray image taken on 1
+0 compared to Xray image taken on 1
+appear 0 new abnormal area compared to Xray image taken on 1
+appear 0 new abnormal area compared to Xray image taken on 1
+appear new abnormal area on 0 compared to Xray image taken on 1
+appear new abnormal area on 0 compared to Xray image taken on 1
+appear 0 new abnormal area compared to Xray image taken on 1
+appear 0 new abnormal area compared to Xray image taken on 1
+appear 0 new abnormal area compared to Xray image taken on 1
+appear 0 new abnormal area compared to Xray image taken on 1
+appear 0 new abnormal area compared to Xray image taken on 1
+appear 0 new abnormal area compared to Xray image taken on 1
+appear 0 new abnormal area compared to Xray image taken on 1
+appear 0 new abnormal area compared to Xray image taken on 1
+disappear 0 abnormal area compared to Xray image taken on 1
+disappear 0 abnormal area compared to Xray image taken on 1
+disappear abnormal area on 0 compared to Xray image taken on 1
+disappear abnormal area on 0 compared to Xray image taken on 1
+disappear 0 abnormal area compared to Xray image taken on 1
+disappear 0 abnormal area compared to Xray image taken on 1
+disappear 0 abnormal area compared to Xray image taken on 1
+disappear 0 abnormal area compared to Xray image taken on 1
+disappear 0 abnormal area compared to Xray image taken on 1
+disappear 0 abnormal area compared to Xray image taken on 1
+disappear 0 abnormal area compared to Xray image taken on 1
+disappear 0 abnormal area compared to Xray image taken on 1
+this abnormal is new compared to Xray image take on 0
+no presence of cavity compared to Xray image taken on 0
+no presence of massnodule compared to Xray image taken on 0
+no presence of pleural effusion compared to Xray image taken on 0
+no presence of pneumothorax compared to Xray image taken on 0
+no presence of enlarged heart compared to Xray image taken on 0
+no suggestive of pneumonia compared to Xray image taken on 0
+no opacities with feature of consolidation compared to Xray image taken on 0
+no opacities with feature of consolidation compared to Xray image taken on 0
+no presence of atelectasis compared to Xray image taken on 0
+no presence of opacity compared to Xray image taken on 0
+no presence of enlarged mediastinum compared to Xray image taken on 0
+no imaging of pulmonary fibrosis compared to Xray image taken on 0
+no suggestive of pulmonary tuberculosis compared to Xray image taken on 0
+no presence of pleural other compared to Xray image taken on 0
+no imaging of fracture compared to Xray image taken on 0
+no suggestive of interstitial lesion compared to Xray image taken on 0
+no presence of mass compared to Xray image taken on 0
+no presence of nodule compared to Xray image taken on 0
+No change with previous Xray image taken on 0
+increase
+decrease
+clavicle
+rib
+the left side
+the right side
+the both sides
+the left side
+the right side
+the both sides
+Presence of cavity
+Presence of cavity in 0
+Presence of cavity 0 mm x 1 mm in 2
+0 pulmonary cavities the largest cavity approximately 1 mm x 2 mm in 3
+Finding favoring COVID19 occupies approximately 0 of the left side
+Finding favoring COVID19 occupies approximately 0 of the right side
+Finding favoring COVID19 occupies approximately 0 of the left side 1 of the right side
+The suggestive of COVID19
+Presence of massnodule
+Presence of massnodule in 0
+Nodule approximately 0 mm x 1 mm in 2
+Mass approximately 0 mm x 1 mm in 2
+Multiple pulmonary nodules the largest nodule approximately 0 mm x 1 mm in 2
+Multiple pulmonary masses the largest mass approximately 0 mm x 1 mm in 2
+Multiple pulmonary massesnodules the largest massnodule approximately 0 mm x 1 mm in 2
+Presence of mass
+Presence of mass in 0
+Mass approximately 0 mm x 1 mm in 2
+Multiple pulmonary masses the largest mass approximately 0 mm x 1 mm in 2
+Presence of nodule
+Presence of nodule in 0
+Nodule approximately 0 mm x 1 mm in 2
+Multiple pulmonary nodules the largest nodule approximately 0 mm x 1 mm in 2
+Presence of pneumothorax
+Pneumothorax occupies approximately 0 of the left side
+Pneumothorax occupies approximately 0 of the right side
+Pneumothorax occupies approximately 0 of the left side 1 of the right side
+Presence of enlarged mediastinum
+Presence of enlarged mediastinum in 0
+Presence of other abnormality
+Presence of other abnormality in 0
+Presence of 0
+Presence of 0 in 1
+Normal heart shadow
+Normal mediastinum
+Normal transparency of both lungs no parenchymal lesion seen
+No abnormality of the costodiaphragmatic angles
+No lesion seen of the skeleton and thoracic wall soft tissue
+No evidence of abnormality visualized on Xray
+Echocardiography is recommended to support diagnosis
+A CT scanner is recommended to support diagnosis
+Pleural Ultrasound is recommended to support diagnosis
+A PCR scanner is recommended to support diagnosis
+small
+moderate
+large
+the left side
+the right side
+the both sides
+the left apical  upper zone
+the right apical  upper zone
+the left lower zone
+the right lower zone
+the both apical zone
+the both upper zone
+the both mid zone
+the both lower zone
+the left upper zone
+the left mid zone
+the left lower zone
+the right upper zone
+the right mid zone
+the right lower zone
+the left apical zone
+the left peripheral upper zone
+the left central upper zone
+the left peripheral mid zone
+the left central mid zone
+the left peripheral lower zone
+the left central lower zone
+the right apical zone
+the right peripheral upper zone
+the right central upper zone
+the right peripheral mid zone
+the right central mid zone
+the right peripheral lower zone
+the right central lower zone
+top
+mid
+bottom
