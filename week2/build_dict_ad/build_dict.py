@@ -1,6 +1,7 @@
 import nltk
 import numpy as np
 import argparse
+import json
 
 def largest_indices(array: np.ndarray, n: int) -> tuple:
     """Returns the n largest indices from a numpy array.
@@ -44,6 +45,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--input_file", type=str, default="./english_clean.txt", help="Input file")
     parser.add_argument("--output_file", type=str, default="./list_long_form.txt", help="Output file")
+    parser.add_argument("--dict_arc", type=str, default="./dict_acronym.json", help="Json file")
     args = parser.parse_args()
 
 
@@ -65,8 +67,18 @@ if __name__ == "__main__":
     # print(vocab)
     vocab = list(map(lambda x: x.lower(), vocab))
     unique = np.unique(vocab, return_counts=True)
-    top_k_indice = largest_indices(unique[1], 30)[0] # top 30
+    top_k_indice = largest_indices(unique[1], 40)[0] # top 30
     top_k_words = unique[0][[top_k_indice.tolist()]]
-    print(top_k_words)
-    with open(args.ouput_name, "w") as f:
+    # print(top_k_words)
+    with open(args.output_file, "w") as f:
         f.write("\n".join(top_k_words))
+    dict_file = {}
+    for i in top_k_words:
+        if len(i.split(" ")) == 1 : dict_file[i] = None
+        else:
+            token = i.split(" ")
+            acronym = "".join([j[0] for j in token])
+            dict_file[i] = acronym
+    # print(dict_file)
+    with open(args.dict_arc, "w") as f:
+        json.dump(dict_file, f)

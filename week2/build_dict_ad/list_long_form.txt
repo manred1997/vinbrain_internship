@@ -9,22 +9,32 @@ no presence
 abnormal area
 the right side
 the left side
-number
 bone
-nodule
+number
 rib
 the left
-mass
+nodule
 pleural effusion
+mass
 feature
 multiple
-pneumothorax
-cavity
-the right
 the suggestive
-diagnosis
+cavity
+pneumothorax
+the right
 opacities
 massnodule
+mid
+diagnosis
 covid19
 both sides
 consolidation
+interstitial lesion
+pneumonia
+abnormality
+imaging
+occupies
+enlarged mediastinum
+no suggestive
+opacity
+pulmonary fibrosis

@@ -9,22 +9,32 @@ kích thước
 hình ảnh tổn thương
 hình
 ngoại vi
-vùng phổi
-trung tâm
-hình ảnh hình
-giữa phổi
 dịch
 đòn phổi
+vùng phổi
+giữa phổi
+trung tâm
+hình ảnh hình
 kích thước bóng tim
-mức độ
 bên phổi
+mức độ
 khí
-khoang màng phổi
 vùng đỉnh phổi
 mờ kích thước
+khoang màng phổi
 trung thất
-lượng
 mờ dạng phù phổi
-mờ dạng xẹp phổi
+xơ
+xương vi trí
+xương 0
+hang
+số
+vi trí xương sườn số
+hình ảnh khốinốt
 kẽ
 hình ảnh khối
+lượng
+mờ dạng xẹp phổi
+khối
+hình ảnh nốt
+khối khối
