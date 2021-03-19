@@ -70,7 +70,7 @@ giảm đi 0 tổn thương so với lần chụp ngày 1
 giảm đi 0 tổn thương so với lần chụp ngày 1
 mới xuất hiện so với lần chụp ngày 0
 không còn thấy hình ảnh tổn thương tạo hang so với lần chụp ngày 0
-không còn thấy hình ảnh khốinốt mờ trên phổi so với lần chụp ngày 0
+không còn thấy hình ảnh khối nốt mờ trên phổi so với lần chụp ngày 0
 không còn thấy hình ảnh tràn dịch khoang màng phổi so với lần chụp ngày 0
 không còn thấy hình ảnh tràn khí màng phổi so với lần chụp ngày 0
 không còn thấy kích thước bóng tim to so với lần chụp ngày 0
@@ -106,8 +106,8 @@ Nghi ngờ nhiễm COVID19 phổi tổn thương 0 ở bên trái
 Nghi ngờ nhiễm COVID19 phổi tổn thương 0 ở bên phải
 Nghi ngờ nhiễm COVID19 phổi tổn thương 0 ở bên trái 1 ở bên phải
 Nghi ngờ nhiễm COVID19
-Hình ảnh khốinốt mờ trên phổi
-Hình ảnh khốinốt mờ ở 0
+Hình ảnh khối nốt mờ trên phổi
+Hình ảnh khối nốt mờ ở 0
 Nốt mờ kích thước 0 mm x 1 mm ở 2
 Khối mờ kích thước 0 mm x 1 mm ở 2
 Tổn thương đa nốt nốt mờ lớn nhất có kích thước 0 mm x 1 mm ở 2
