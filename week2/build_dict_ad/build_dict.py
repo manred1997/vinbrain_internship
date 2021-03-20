@@ -1,6 +1,7 @@
 import nltk
 import numpy as np
 import argparse
+from util.crf.pos_tag import pos_tag # refe to https://github.com/undertheseanlp/pos_tag
 import json
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -38,19 +39,44 @@ def POS(string):
             continue
     return result
 
+def POS_vn(text):
+
+    regex = """
+    NP: {<N|Ni|Np|NNP>+}
+    """
+    chunkParser = nltk.RegexpParser(regex)
+    token_pos = pos_tag(text)
+    ner = chunkParser.parse(token_pos)
+    result = []
+    for i in ner:
+        # print(i.label())
+        try: 
+            if i.label() == "NP": result.append(i)
+            # elif i.label() == "NNP": result.append(i)
+            # elif i.label() == "NN": result.append(i)
+            else: continue
+        except: 
+            continue
+    return result
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--input_file", type=str, default="./english_clean.txt", help="Input file")
-    parser.add_argument("--output_file", type=str, default="./list_long_form.txt", help="Output file")
-    parser.add_argument("--dict_arc", type=str, default="./dict_acronym.json", help="Json file")
+    parser.add_argument("--input_file", type=str, default="../vietnam_clean.txt", help="Input file")
+    parser.add_argument("--output_file", type=str, default="../list_long_form_vn.txt", help="Output file")
+    parser.add_argument("--dict_arc", type=str, default="../dict_acronym_vn.json", help="Json file")
     parser.add_argument("--top_k", type=int, default=40, help="Top k words that can be abbreviated")
+    parser.add_argument("--mode", type=int, default="eng")
     args = parser.parse_args()
 
-    with open(args.input_file, 'r') as f:
+
+    with open(args.input_file, 'r', encoding="utf8") as f:
         results = []
         for line in f.readlines():
-            results.extend(POS(line))
-    
+            if args.mode == "vn":
+                results.extend(POS_vn(line))
+            else:
+                results.extend(POS(line))
+
     vocab = []
     for i in results:
         if len(i) == 1: vocab.append(i[0][0])
@@ -59,8 +85,8 @@ if __name__ == "__main__":
             for j in i:
                 tmp.append(j[0])
             vocab.extend([" ".join(tmp)])
-
     vocab = list(map(lambda x: x.lower(), vocab))
+
     unique = np.unique(vocab, return_counts=True)
     # top_k_indice = largest_indices(unique[1], 40)[0] # top 30
     # top_k_words = unique[0][[top_k_indice.tolist()]]
@@ -87,14 +113,14 @@ if __name__ == "__main__":
     plt.xticks(np.linspace(1,len(sorted_unique), 10, dtype=int))
     plt.ylabel("Number of words")
     plt.title("Histogram of words that can be abbreviated")
-    plt.savefig("histogram_eng_cxrv_arconym.png")
+    plt.savefig("../histogram_vn_arconym.png")
     plt.show()
 
     top_k_words = []
     for i in range(args.top_k):
         top_k_words.append(sorted_unique[i]["unique"])
 
-    with open(args.output_file, "w") as f:
+    with open(args.output_file, "w", encoding="utf8") as f:
         f.write("\n".join(top_k_words))
     dict_file = {}
     for i, value in enumerate(top_k_words):
@@ -104,8 +130,5 @@ if __name__ == "__main__":
             acronym = "".join([j[0] for j in token])
             dict_file[acronym] = value
     # print(dict_file)
-    with open(args.dict_arc, "w") as f:
+    with open(args.dict_arc, "w", encoding="utf8") as f:
         json.dump(dict_file, f)
-    # with open("tmp.txt") as f:
-    #     for item in sorted_unique:
-    #         f.write("%s\n" % item)
