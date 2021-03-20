@@ -68,7 +68,7 @@ if __name__ == "__main__":
     parser.add_argument("--mode", type=int, default="eng")
     args = parser.parse_args()
 
-
+################## Part of Speech Tagging ########################
     with open(args.input_file, 'r', encoding="utf8") as f:
         results = []
         for line in f.readlines():
@@ -91,6 +91,7 @@ if __name__ == "__main__":
     # top_k_indice = largest_indices(unique[1], 40)[0] # top 30
     # top_k_words = unique[0][[top_k_indice.tolist()]]
 
+###################### Top - K ###########################
     sorted_unique = []
     for i in range(len(unique[0])):
         sorted_unique.append({
@@ -98,6 +99,8 @@ if __name__ == "__main__":
             "unique": unique[0][i]
         })
     sorted_unique = sorted(sorted_unique, key= lambda x: x["freq"], reverse=True)
+
+###################### PLOT HISTOGRAM ####################
     x = list(range(1, len(sorted_unique)+1))
     y = []
     tmp = 0
@@ -116,6 +119,8 @@ if __name__ == "__main__":
     plt.savefig("../histogram_vn_arconym.png")
     plt.show()
 
+
+####################### Write File ######################
     top_k_words = []
     for i in range(args.top_k):
         top_k_words.append(sorted_unique[i]["unique"])
