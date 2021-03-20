@@ -1,0 +1,10000 @@
+patient
+pt
+evidence
+admission
+discharge
+x
+time
+pneumothorax
+pneumonia
+xx
+cxr
+pleural effusion
+floor
+left
+impression
+pulmonary edema
+findings
+atelectasis
+day
+right
+ed
+setting
+pain
+micu
+icu
+infection
+lungs
+ct
+vancomycin
+concern
+history
+home
+study
+transfer
+antibiotics
+comparison
+x.x
+family
+xxx
+outpatient
+baseline
+aspiration
+size
+tip
+arrival
+lobe
+hypotension
+improvement
+place
+cardiac silhouette
+lasix
+pcp
+pna
+pericardial effusion
+chf
+heart size
+note
+left atrium
+aortic valve leaflets
+aortic regurgitation
+levofloxacin
+hospitalization
+dr.
+bilateral pleural effusions
+prior study
+consolidation
+effusion
+coumadin
+course
+diuresis
+mitral regurgitation
+abdominal pain
+hct
+pleural effusions
+ekg
+fever
+diarrhea
+chest
+pe
+tube
+signs
+heart
+metoprolol
+symptoms
+exam
+stomach
+mental status
+carina
+x days
+breath
+treatment
+blood cultures
+bp
+xl
+fevers
+cough
+mitral valve leaflets
+zosyn
+lvef xx
+addition
+change
+systems
+leukocytosis
+creatinine
+review
+normal limits
+bipap
+ceftriaxone
+wbc
+blood
+aorta
+systolic hypertension
+mild
+fluid
+lung
+cardiomegaly
+osh
+xxs
+edema
+dose
+low lung volumes
+right atrium
+care
+right lung
+growth
+appearance
+hospital
+inr
+flagyl
+cta
+right ventricular chamber size
+shortness
+resolution
+ventricular systolic function
+days
+nausea
+stay
+echo
+nasogastric tube
+chills
+tte
+free wall motion
+plan
+medications
+chest pain
+ct head
+ventricular hypertrophy
+level
+anemia
+cefepime
+room air
+surgery
+sob
+abdomen
+x day course
+endotracheal tube
+infiltrate
+respiratory status
+rehab
+cardiomediastinal silhouette
+xxx urean xx creat x.x
+denies
+labs
+previous radiograph
+small bilateral pleural effusions
+hypoxia
+left lung
+liver
+above
+right pleural effusion
+ra
+possibility
+xx xx
+pressors
+episode
+xxxs
+cultures
+changes
+ivf
+mediastinum
+evaluation
+steroids
+hospital course
+contrast
+hd
+dvt
+patient s
+palpitations
+cr
+xx day course
+further evaluation
+constipation
+intubation
+atrial fibrillation
+volume overload
+picc line
+xx.x
+lung volumes
+further management
+sepsis
+azithromycin
+mri
+svc
+lisinopril
+blood pressure
+home dose
+aortic stenosis
+opacity
+tachycardia
+night
+bibasilar atelectasis
+presentation
+vitals
+x.x cm
+lobe atelectasis
+hypertension
+cardiology
+abg
+dyspnea
+acute cardiopulmonary process
+morning
+anticoagulation
+insulin
+images
+foley
+sputum
+ng tube
+respiratory distress
+x cm
+urine culture
+decision
+rate
+mass
+mitral valve prolapse
+repeat
+date
+area
+asa
+cavity size
+dysuria
+house
+position
+ascites
+report
+scale
+tube feeds
+head ct
+full code
+ccu
+combination
+etiology
+mid
+post
+sbp
+extubation
+iv lasix
+prednisone
+afib
+hilar contours
+discussion
+code
+renal failure
+point
+lfts
+speech
+opacification
+id
+procedure
+left pleural effusion
+acute
+right upper lobe
+daughter
+sedation
+focal consolidation
+small amount
+gi
+hr
+statin
+x weeks
+vanc
+mediastinal contours
+left base
+episodes
+rest
+cm
+beta blocker
+copd
+ppi
+presence
+significant change
+view
+heparin gtt
+right lung base
+r
+xl nc
+xx hours
+left ventricular cavity size
+myalgias
+difficulty
+congestion
+mild pulmonary edema
+week
+aspirin
+areas
+fluid overload
+total
+ct chest
+hospital stay
+repeat cxr
+urine
+bronchoscopy
+trivial mitral regurgitation
+htn
+small right pleural effusion
+today
+goal
+cardiac enzymes
+heparin
+right ventricle
+systolic pressure
+amiodarone
+urine cultures
+oxygen
+placement
+lung bases
+risk
+hematocrit
+nrb
+question
+diffuse
+previous tracing
+absence
+line
+left lung base
+region
+vanco
+source
+lactate
+mitral valve
+free air
+acute process
+need
+pulmonary embolism
+increase
+severity
+levaquin
+remainder
+weeks
+abx
+picc
+vascular congestion
+xxmg
+regimen
+diaphragm
+mass effect
+head
+ldh
+dialysis
+obstruction
+culture
+fluids
+pa
+masses
+multifocal pneumonia
+rr xx
+volume
+fracture
+examination
+goals
+cpk
+moderate pulmonary artery
+right base
+x units
+air
+rvr
+trace
+tricuspid valve leaflets
+meropenem
+infectious process
+pulmonary vascular congestion
+ventricular wall thicknesses
+pulmonary vasculature
+neurology
+pod x
+pulmonary artery
+good leaflet excursion
+several days
+vs
+moderate cardiomegaly
+rhinorrhea
+systolic function
+monitoring
+hemorrhage
+hydronephrosis
+retrocardiac opacity
+anxiety
+pelvis
+renal function
+right ventricular cavity
+arf
+albuterol
+code status
+ua
+x.xx
+radiograph
+plavix
+sinus rhythm
+mrsa
+sats
+clinical correlation
+mild pulmonary artery
+degree
+previous study
+bb
+wife
+bases
+gallbladder
+son
+cp
+night sweats
+ischemia
+bnp
+osseous structures
+tpn
+stool
+tubes
+effusions
+times
+vent
+aspiration pneumonia
+cpap
+lobe opacity
+extent
+mild cardiomegaly
+bowel regimen
+lack
+ox sats
+acute renal failure
+past
+x xx
+bp xxx/xx
+ptx
+xxx/xx
+ef
+tracheostomy tube
+home regimen
+ventilator
+electrolytes
+weakness
+cath
+hemoptysis
+cause
+d/c
+xx urean xx creat x.x
+removal
+cardiac
+l
+mid svc
+depression
+management
+thoracic aorta
+extremity
+component
+lobes
+cad
+colon
+malignancy
+ox
+rate control
+diltiazem
+headache
+regular diet
+standard position
+tylenol
+results
+telemetry
+appointment
+pre
+bibasilar opacities
+congestive heart failure
+lobe consolidation
+meds
+arthralgias
+oxygen requirement
+mr.
+sinus tachycardia
+unit
+xx days
+duodenum
+bactrim
+morphine
+xd
+secretions
+uti
+bowel
+s
+agitation
+ards
+catheter
+hyponatremia
+ngt
+sputum culture
+medication
+unchanged position
+lad
+opacities
+po
+hcp
+prominence
+ventricular wall thickness
+urine output
+k x.x cl xxx hcox xx angap xx xx xxam blood glucose
+cardiomediastinal contours
+atrial septal defect
+ecg
+heart failure
+digoxin
+cipro
+hypothyroidism
+rash
+intervention
+sinus tenderness
+access
+abscess
+medical floor
+tamponade
+ef xx
+elevation
+platelets
+ct abdomen
+bleeding
+part
+xl ns
+infiltrates
+interval increase
+right hemidiaphragm
+esophagus
+mi
+pod
+hematuria
+tachypnea
+orthopnea
+propofol
+small left pleural effusion
+vegetations
+color doppler
+physical therapy
+status post
+diet
+thrombocytopenia
+tsh
+patent
+progression
+ativan
+complaints
+diagnosis
+pleural fluid
+small pericardial effusion
+complications
+focal wall motion abnormality
+lp
+sputum cultures
+frequency
+ventricular systolic dysfunction
+nutrition
+respiratory failure
+bed
+ct scan
+denies headache
+neck
+cavoatrial junction
+low xxs
+interval improvement
+right side
+failure
+trachea
+normal cavity size
+tee
+aortic arch
+breathing
+tricuspid regurgitation
+acei
+egd
+good effect
+leads
+wbc count
+aortic valve
+unclear etiology
+degenerative changes
+melena
+suggestive
+cx
+stroke
+troponin
+ventricular septal defect
+et tube
+left hemidiaphragm
+regional/global systolic function
+cxr findings
+bedside
+evening
+interstitial markings
+technical quality
+volume loss
+ciprofloxacin
+iv fluids
+film
+nasal cannula
+thoracentesis
+trach
+gain
+heparin drip
+nitro gtt
+rhythm
+interval
+left ventricle
+recent weight loss
+cardiac size
+hr xx
+pseudomonas
+ultrasound
+bleed
+cholecystitis
+decrease
+diuretics
+hx
+interval change
+end
+sinus
+biopsy
+chronic disease
+lesion
+aeration
+x x
+lateral views
+extremities
+left side
+shift
+aortic valve stenosis
+hemodialysis
+high xxs
+pressures
+yesterday
+delirium
+finding
+comfort
+d/c d
+oxygenation
+relevant change
+renal
+broad spectrum antibiotics
+ns
+yeast
+hd x
+body
+ir
+pacemaker
+pancreas
+ros
+interstitial edema
+site
+blood culture
+eeg
+reports
+tracheostomy
+exertion
+folate
+blood pressures
+flow
+followup
+ox requirement
+rashes
+seizure
+small bowel
+i
+lvef xx xx
+left upper lobe
+upper lungs
+kidneys
+swallow
+vital signs
+bladder
+ng tube tip
+syncope
+tx
+lovenox
+cmo
+foley catheter
+lateral view
+trial
+significant interval change
+mr
+urgency
+use
+x.he
+endocarditis
+iv
+moderate tricuspid regurgitation
+chest pressure
+inpatient
+previous examination
+future
+hyperlipidemia
+instructions
+interval development
+normal size
+peg
+little change
+result
+work
+further care
+standard placement
+worsening
+differential
+nebs
+recommendations
+central line
+enlargement
+gas
+last admission
+questions
+seizures
+chest ct
+hpi denies
+hypernatremia
+nebulizers
+left hemithorax
+plans
+afebrile
+diabetes
+hyperkalemia
+psychiatry
+stent
+trend
+xx s
+hydralazine
+nsr
+trivial/physiologic pericardial effusion
+acute intracranial process
+clinic
+cr x.x
+following day
+vanc/zosyn
+wound
+likely atelectasis
+vegetation
+pulmonary hypertension
+team
+median sternotomy
+ventricular wall motion
+cirrhosis
+order
+complication
+development
+lobe pneumonia
+briefly
+sodium
+xx xxam blood pt xx.x ptt xx.x inr
+basilar atelectasis
+dopamine
+year
+prn
+wall
+small pleural effusions
+x months
+technique
+base
+lopressor
+nc
+skin changes
+stable condition
+transfusion
+dizziness
+emphysema
+hours
+left ventricular cavity
+assessment
+blood cx
+blood sugars
+cbc
+commands
+control
+poor po
+pulmonary vascularity
+support devices
+x week
+hematoma
+loss
+ambulation
+xxxcc
+diastolic dysfunction
+outpt
+right middle lobe
+xxxx
+aortic root
+apex
+impression ap chest
+superior vena cava
+x liters
+overt pulmonary edema
+colonoscopy
+event
+metformin
+spironolactone
+dm
+fib
+levo
+medicine floor
+consistent
+cxr impression
+lasix gtt
+prophylaxis
+bal
+pain control
+thoracic spine
+bands
+disease
+doses
+estimated pulmonary artery
+heart rate
+iron studies
+malignant cells
+osteomyelitis
+ip
+prior history
+warfarin
+x ray
+x.she
+coverage
+x hours
+lobe collapse
+mid xxs
+thin liquids
+ck
+day x
+initiation
+pulm edema
+active bleeding
+dehydration
+lesions
+ventricles
+vx
+aspiration pna
+chest tube
+correlation
+ent
+consideration
+ct torso
+erythema
+gram
+prbcs
+thrombus
+rca
+reason
+age
+bradycardia
+case
+echocardiogram
+white count
+appreciable pleural effusion
+bowel habits
+denies nausea
+drainage
+c. diff
+costophrenic angle
+ekg changes
+x mm
+cap
+cvvh
+indication
+issue
+metastatic disease
+pulmonary vessels
+chemotherapy
+pcwp xxmmhg
+differential diagnosis
+lll
+ctx
+hematochezia
+rll
+studies
+urine cx
+x l
+ett
+confusion
+family meeting
+imaging
+po intake
+vx vx
+acute intracranial hemorrhage
+blunting
+spleen
+fact
+hpi
+stress
+therapy
+copd exacerbation
+mild chf
+pancreatitis
+venous thrombosis
+acyclovir
+focal parenchymal opacities
+iii
+upper limits
+xl ivf
+basal
+lasix drip
+pneumomediastinum
+acute intrathoracic process
+hct xx.x
+moderate pulmonary edema
+rigors
+xxxmg
+appropriate clinical setting
+estimated right atrial pressure
+haldol
+hr xxx
+insulin gtt
+other review
+response
+cabg
+cardiac cath
+echocardiographic signs
+high risk
+large amount
+parenchymal opacities
+social work
+carvedilol
+density
+intracranial hemorrhage
+ischemic changes
+urology
+ventricular hypokinesis
+xx mg
+events
+gerd
+hctz
+midline structures
+prior examination
+supplemental oxygen
+ct abd/pelvis
+midline
+pressure
+stable appearance
+assistance
+insulin drip
+k
+number
+years
+dnr/dni
+er
+neurosurgery
+oxycodone
+xmg
+bacteremia
+bronch
+cardiac review
+fluconazole
+ms.
+records
+retrocardiac atelectasis
+right hemithorax
+months
+soft tissues
+suspicion
+brbpr
+hemodynamics
+hydrocephalus
+lines
+rectum
+xx xxam blood glucose
+community
+lantus
+small pleural effusion
+solumedrol
+spine
+few days
+good position
+states
+xx/xx
+aggressive diuresis
+black stools
+context
+junction
+month
+oxygen saturation
+portable ap
+regional biventricular systolic function
+tissue doppler
+background
+bone
+cellulitis
+views
+xxx xxx
+chronic renal failure
+clindamycin
+potassium
+suggestion
+acs
+amlodipine
+current study
+fall
+fentanyl
+pathology
+upper lobe
+advair
+hiv
+limited study
+patients
+peg tube
+workup
+x.x x.x
+cardiologist
+lcx
+same day
+subcutaneous emphysema
+ileus
+legionella
+nature
+soft tissue
+withdrawal
+calcification
+g tube
+hcap
+npo
+recent fevers
+weight
+dissection
+fen
+husband
+prior exam
+right ventricular systolic function
+sbps
+light
+satisfactory position
+stones
+ventilation
+ace i
+mastoid air cells
+ap
+bicarb
+collapse
+definite evidence
+lightheadedness
+sicu
+thrombi
+xxxxx field
+imdur
+inflammation
+left kidney
+hydration
+lung fields
+units
+bxx
+calf pain
+fluid collection
+sputum cx
+cardiac catheterization
+contact
+coronary artery disease
+cytology
+hypoglycemia
+mm
+palliative care
+upper abdomen
+cta chest
+fluid resuscitation
+gib
+hemolysis
+home medications
+productive cough
+sign
+differences
+dr
+gtt
+infectious disease
+outpatient regimen
+presyncope
+trop
+[
+hct xx
+paroxysmal nocturnal dyspnea
+pneumothoraces
+radiology
+red stools
+x week course
+free fluid
+keppra
+tia
+transitional issues
+adrenal insufficiency
+good response
+joint pains
+kub
+pneumoboots
+transaminitis
+vna
+borderline
+ill
+right costophrenic angle
+rll infiltrate
+swallow evaluation
+thoracic inlet
+vre
+further episodes
+physical exam
+pts
+thoracic surgery
+transition
+troponins
+focal infiltrate
+hap
+issues
+nstemi
+throat
+altered mental status
+borderline size
+bps
+clot
+gi bleed
+improved aeration
+iv vancomycin
+lobe opacities
+oxygen saturations
+sludge
+administration
+amount
+c spine
+chf exacerbation
+dka
+prior studies
+repeat echo
+sensitivities
+ep
+location
+meningitis
+patient reports
+side
+stenosis
+sulci
+tumor
+anion gap
+bilateral effusions
+brain
+consolidations
+dilantin
+inability
+xxx cc
+acoustic shadowing
+distal tip
+evident pneumothorax
+food
+atn
+right kidney
+tightness
+x.xl
+attempts
+concerns
+hdx
+hyperglycemia
+impression.no evidence
+last day
+return
+rib fractures
+suction
+tf
+vomiting
+afternoon
+albumin
+ams
+metabolic acidosis
+possible pneumonia
+atenolol
+f/u
+fatigue
+hour
+hypercarbia
+likely etiology
+lll infiltrate
+mg
+pairs
+right middle
+slight improvement
+volume status
+bilateral infiltrates
+drop
+metronidazole
+patchy opacity
+portion
+pt s
+right ventricular
+sinus level
+vascular engorgement
+xx ra
+xx stenosis
+zyprexa
+abnormalities
+acute pulmonary process
+af
+ge junction
+interval removal
+narcotics
+re
+dvt prophylaxis
+initial vs
+levothyroxine
+methadone
+recent change
+temperature
+xx minutes
+ankle edema
+ffp
+attempt
+compressive atelectasis
+gram stain
+na
+next day
+prbc
+read
+right picc line
+twi
+crackles
+exertional buttock
+gout
+small effusion
+suboptimal image quality
+acute cardiopulmonary abnormality
+calcium
+distal svc
+element
+encephalopathy
+enzymes
+fractures
+h/o
+ii
+lactulose
+mild mitral regurgitation
+recurrence
+abd pain
+ivc filter
+k x.x cl xx hcox xx angap xx xx xxam blood glucose
+little overall change
+lung parenchyma
+prednisone taper
+bcx
+avf
+eyes
+hemidiaphragm
+inr x.x
+pulmonary congestion
+sided pleural effusion
+stage
+desaturation
+enhancement
+extremity edema
+ms
+risks
+stools
+abdominal ct
+antibiotic coverage
+bilateral pleural effusion
+lenis
+liquids
+peep
+temp
+wound care
+x metas
+demand ischemia
+et tube tip
+low svc
+pulmonary arteries
+st depressions
+tube tip
+xu prbc
+xxx.x
+airway protection
+communication
+dx
+hypovolemia
+icu stay
+vision changes
+ace inhibitor
+acute cholecystitis
+air bronchograms
+bladder habits
+code dnr/dni
+death
+diameter
+discomfort
+furosemide
+gabapentin
+hypokinesis
+normal egd
+podx
+interval placement
+primary care physician
+problem
+c diff
+cards
+close monitoring
+dose steroids
+iv contrast
+left retrocardiac opacity
+liver disease
+pneumoperitoneum
+xxx s
+acute pneumonia
+field
+infarction
+lmca
+none
+positioning
+thiamine
+ace
+apical pneumothorax
+dementia
+further work
+gnr
+health care proxy
+hiatal hernia
+length
+lingula
+lvef
+pfts
+scale insulin
+ventricular filling pressure
+video
+xx xxx
+c
+dispo
+further workup
+hila
+home meds
+le edema
+mssa
+ox sat
+protonix
+gastroesophageal junction
+klebsiella
+medicine service
+non
+origin
+third
+abnormality
+lx
+nursing home
+supratherapeutic inr
+boluses
+c.diff
+clusters
+esrd
+flash pulmonary edema
+humalog
+hypoxemia
+large pleural effusion
+meals
+mild pulmonary vascular congestion
+normal ef
+notes
+slight increase
+vap
+xx units
+effect
+focus
+image
+loops
+outpatient setting
+side port
+t xx.x
+upper lobes
+vascular surgery
+x day
+hilar
+lipase
+mediastinal structures
+mild fluid overload
+rul
+acute focal pneumonia
+bacteria
+incentive spirometry
+motion
+non rebreather
+shows
+subsegmental atelectasis
+unchanged appearance
+upper svc
+urinary retention
+diameters
+iv antibiotics
+levels
+mouth
+psych
+radiographic evidence
+right mid
+seizure activity
+significant improvement
+t
+xx mm
+anterior space
+collection
+cvl
+drain
+recommendation
+xx creat x.x sodium xxx potassium x.x chloride xxx
+candidate
+day course
+mediastinal widening
+persistent
+retrocardiac region
+rv
+sigmoid colon
+x xl
+cervical spine
+fluid status
+function
+hematology
+k x.x
+transfusions
+admit
+dysphagia
+interventional pulmonology
+last week
+tid
+wnl
+cath lab
+emesis
+ercp
+facility
+ha
+large bowel
+mental status changes
+ppx
+right upper
+ventricular cavity size
+x baso x
+afterload reduction
+arch levels
+atorvastatin
+fiox
+iron
+ortho
+prelim
+service
+sternal wires
+svt
+unchanged size
+activity
+associated atelectasis
+influenza
+large right pleural effusion
+levophed
+mild interstitial edema
+pnd
+portal vein
+stable cardiomegaly
+surgical clips
+x x days
+ef xx xx
+lactate x.x
+lytes
+pacer
+pneumonitis
+simvastatin
+wbc xx.x
+zofran
+limitations
+lipitor
+low grade fevers
+low suspicion
+overload
+pos
+pulmonary nodules
+right dominant system
+right mid lung
+attention
+captopril
+completion
+ct.
+details
+drip
+levo/flagyl
+microbiology
+moderate bilateral pleural effusions
+nebulizer treatments
+paracentesis
+repeat ct
+rml
+seroquel
+steroid taper
+taper
+aspiration precautions
+avl
+cholelithiasis
+costophrenic angles
+gentamicin
+lumbar spine
+right upper quadrant
+severe cardiomegaly
+sytems
+arm
+lobe infiltrate
+patchy opacities
+septic shock
+st changes
+xxmg iv lasix
+xxxs xxxs
+cardiomyopathy
+good condition
+ground glass opacities
+lasix xxmg iv
+linear atelectasis
+loose stools
+lvh
+pleural thickening
+plts
+urean xx creat x.x
+acidosis
+acute illness
+atelectatic changes
+aztreonam
+cmv
+colitis
+free wall
+measures
+pm
+weight loss
+antihypertensives
+complete resolution
+diabetic diet
+mask
+mother
+pressure support
+rij
+sister
+somnolence
+status
+tortuosity
+trauma
+urinalysis
+x unit
+allergy
+body habitus
+bones
+gastritis
+lung exam
+mild vascular congestion
+nephrology
+osa
+recovery
+bun xx
+ct abd
+dobhoff
+home lasix
+hospice
+micu course
+n/v
+normal range
+right picc
+bp control
+cont
+cva
+dilaudid
+fentanyl patch
+further monitoring
+hypoxic
+infectious etiology
+ivfs
+nl axis
+omr
+periods
+pod xx
+ssi
+xpm
+bp xx/xx
+deep vein thrombosis
+glucose
+increased opacification
+j tube
+micu stay
+midodrine
+mild aortic valve stenosis
+normal saline
+procedures
+rehab facility
+sputum production
+strength
+sugars
+xx cm
+acute fracture
+clonidine
+common bile duct
+fluid restriction
+mediastinal silhouettes
+monitor
+neg
+nph
+pulmonary
+terms
+wheezing
+x mg
+appointments
+caliber
+central venous catheter
+chronic pain
+feeding tube
+medical management
+moderate pulmonary hypertension
+patchy
+prescription
+rr
+simple atheroma
+sx
+tb
+uop
+x month
+xx pmns
+bronchiectasis
+ddx
+free water
+levoquin
+mechanical ventilation
+mild edema
+neuro
+ruq
+saturations
+swan ganz catheter
+urine color
+vna services
+x mr
+xx mmhg
+cdiff
+ct head impression
+d/c ed
+diff
+echo conclusions
+exacerbation
+face mask
+filling pressures
+hct drop
+home doses
+interval decrease
+left mid lung
+lll pna
+low xxxs
+lymphoma
+negative blood culture
+tele
+u/a
+urine lytes
+acute changes
+adjacent atelectasis
+clear source
+gpc
+interval worsening
+port
+problems
+pulmonary hemorrhage
+right chest tube
+stability
+trach mask
+allopurinol
+aspiration pneumonitis
+azithro
+comfort measures
+conjunction
+duration
+gallstones
+hepatology
+inspiration
+life
+main pulmonary artery
+moderate amount
+obscuration
+peak
+percocet
+possible pna
+small right
+stone
+urine legionella
+vitamin k
+x l ns
+chronic
+colace
+complete opacification
+dxw
+focal parenchymal opacity
+pulmonary venous pressure
+range
+segments contract
+vasopressin
+xxx mg
+antrum
+asthma
+augmentin
+cbd
+ceftazidime
+clears
+dislocation
+distribution
+intra
+left ventricular inflow pattern
+normal sinus rhythm
+platelet count
+process
+standard placements
+tenderness
+vessel
+ckd
+large pleural effusions
+last dose
+period
+prior chest x ray
+rates
+sgot
+sgpt
+subcutaneous heparin
+upright position
+varices
+verapamil
+video swallow
+b
+ce
+enterococcus
+increased opacity
+large hiatal hernia
+lateral aspect
+left arm
+nitrite neg protein neg
+norepinephrine
+portable view
+radiographs
+record
+rheumatology
+xxx organisms/ml
+ampicillin
+basilar opacity
+cardiogenic shock
+cpr
+described
+electrographic seizures
+gap
+infections
+lateral chest
+lymphs xx.x monos x.x
+overt chf
+pulmonary status
+torsemide
+urinary tract infection
+vessels
+volume depletion
+x.x x x.x cm
+anasarca
+back
+bandemia
+below
+cefpodoxime
+configuration
+discontinuation
+early pneumonia
+fingersticks
+gradient
+icd
+l pleural effusion
+outside hospital
+positive cocci
+r pleural effusion
+clinical picture
+daily weights
+goal inr
+low grade fever
+neg urobiln neg ph x.x
+ox saturation
+prior admission
+prior day
+senna
+shock
+splenomegaly
+support
+tips
+valsartan
+antibiotic course
+cardiac decompensation
+coagulase
+coagulopathy
+cvp
+empiric coverage
+infarct
+kidney
+left brachiocephalic vein
+leg
+multifocal pna
+neo
+organisms
+pills
+protocol
+rapid ventricular response
+superior cavoatrial junction
+surgical intervention
+xlnc
+xx xxpm blood glucose
+clinical concern
+condition
+ct abdomen/pelvis
+good control
+inferior wall
+interstitial pulmonary edema
+right kidney measures
+several episodes
+vent settings
+cessation
+d
+dexamethasone
+elevated lactate
+glargine
+hyperinflation
+legs
+monday
+patient s creatinine
+pulmonary embolus
+renal ultrasound
+supplemental ox
+ventricle
+ability
+appetite
+asymmetric pulmonary edema
+femoral line
+global systolic function
+heparin sc
+interstitial lung disease
+involvement
+lll opacity
+new consolidation
+outpatient dose
+poor prognosis
+resuscitation
+system
+tortuous aorta
+atrial appendage
+fluid boluses
+good urine output
+initial vitals
+orthopedics
+pancytopenia
+vanco/zosyn
+wbc xx
+xx.he
+acute infarct
+antibiotic regimen
+basal atelectasis
+broad spectrum abx
+conclusion
+face
+feels
+high dose steroids
+hip
+interstitial opacities
+patient s history
+pattern
+repeat tte
+request
+surgical changes
+xxs xxs
+xxx ck
+borderline pulmonary artery
+clinical status
+correlate
+exception
+iss
+main portal vein
+mild congestive heart failure
+mild global free wall hypokinesis
+output
+pressor support
+previous images
+pulmonology
+relief
+small bilateral effusions
+small bilateral pleural effusion
+valium
+vanc/cefepime
+xam
+xu prbcs
+active issues
+airways
+bun
+calcifications
+catheterization
+clinical suspicion
+csf
+culture data
+decadron
+expected location
+further intervention
+headaches
+ivc
+leak
+metolazone
+mvi
+nodule
+prior radiograph
+right lobe
+ruq u/s
+titration
+water seal
+way
+xx bpm
+airway
+nitro drip
+normal axis
+palpation
+perforation
+pigtail catheter
+rbbb
+semi
+several hours
+third part
+underlying infection
+vats
+wire
+aspiration risk
+ciwa scale
+clear evidence
+extension
+fibrosis
+fs
+fundus
+h
+hematemesis
+mediastinal vascular engorgement
+pulmonologist
+right ij
+right subclavian line
+stool cultures
+xray
+ac
+beta blockade
+bony structures
+cortisol
+counts
+discussions
+epithelial cells/xxxx field
+fat pad
+global hypokinesis
+incident
+left lobe
+minimal atelectasis
+nasogastric tubes
+overhydration
+phone
+prior ct
+riss
+small effusions
+systolic dysfunction
+xxx xxxs
+b/l pleural effusions
+bolus
+citalopram
+deep venous thrombosis
+dilatation
+diverticulitis
+elevated pulmonary venous pressure
+empiric treatment
+endoscopy
+lft s
+low dose
+lung apices
+mid portion
+movement
+pulse
+sparse growth
+supine
+week course
+albuterol nebs
+aspiration event
+bibasilar consolidations
+cardioversion
+dermatology
+empyema
+further diuresis
+information
+linezolid
+mediastinal contour
+microorganisms
+mild improvement
+moderate mitral regurgitation
+nectar
+reaccumulation
+second part
+urine blood neg
+abd
+antibiotic therapy
+autopsy
+bottles
+bursts
+cardiac index
+cell
+clinical improvement
+doxycycline
+fistula
+foot
+left shift
+operating room
+parenchymal opacity
+previous exam
+recent admission
+single view
+sinus tach
+spiriva
+st elevations
+swallow eval
+well
+wet read
+xmm
+xx ast
+xx bands
+xx.she
+agreement
+atrium
+brachiocephalic vein
+diaphoresis
+focal consolidations
+hepatic encephalopathy
+likely cause
+pericholecystic fluid
+pulmonary nodule
+radiation
+renal team
+respiratory symptoms
+right ij line
+room
+sc heparin
+services
+spontaneous echo contrast
+thoracic
+tubefeeds
+vision
+acute cardiopulmonary disease
+amio
+atrial flutter
+continued enlargement
+difference
+free intraperitoneal air
+high xx s
+illness
+interim
+kayexalate
+lactic acidosis
+lung base
+mediastinal silhouette
+next week
+other day
+pacu
+reaction
+right bundle branch block
+right pneumothorax
+staples
+status post cabg
+thoracics
+tissue velocity
+x xx pm
+xxx nrb
+chemo
+distal esophagus
+epileptiform
+fena
+hospital day x
+impaired relaxation
+lll atelectasis
+metabolic alkalosis
+micro
+moderate right pleural effusion
+na xxx
+q waves
+x dose
+artifact
+blood loss
+call
+chronic inflammation
+criteria
+drug reaction
+dry weight
+ekgs
+free wall hypokinesis
+glyburide
+initial concern
+iron deficiency
+left kidney measures
+majority
+median sternotomy wires
+minimal improvement
+morphine drip
+necrosis
+please
+pleural space
+portable ap chest radiograph
+pulmonary process
+pulmonary vascular engorgement
+right upper extremity
+ulcers
+x.patient
+acute hemorrhage
+akinesis
+aneurysm
+aortic dissection
+appropriate position
+bilirubin
+clips
+diaphragms
+dilated loops
+discharge labs
+distress
+gi bleeding
+glipizide
+home oxygen
+interval progression
+lab
+last hospitalization
+normal flow
+oxygen requirements
+person
+retrocardiac density
+rifaximin
+sick contacts
+sinus bradycardia
+white matter differentiation
+abdominal aorta
+anesthesia
+anything
+asymmetric edema
+blood products
+consult
+feeds
+final read
+hemolysis labs
+iv ppi
+left upper quadrant
+lethargy
+lymph nodes
+marked improvement
+mild prominence
+mild volume overload
+oncology
+peripheral edema
+qtc
+subcutaneous edema
+transvenous right atrial
+unasyn
+urinary frequency
+wishes
+bowel obstruction
+brachiocephalic veins
+chronic kidney disease
+doe
+e. coli
+ext veins
+films
+follow
+icu course
+ij
+left effusion
+levoflox
+low bp
+nadolol
+nl intervals
+nsaids
+perihilar haziness
+periphery
+recs
+reglan
+right effusion
+rll pna
+shoulder
+soft tissue structures
+state
+aortic knob
+axis deviation
+frontal view
+hardware
+option
+right apex
+situ
+x xxpm
+abnormal eeg
+alt
+cardiomediastinal contour
+crowding
+gentle diuresis
+ground glass opacity
+hit
+interval resolution
+ipratropium nebs
+left mid
+low voltage
+metastasis
+mobility
+narrowing
+neg ketone neg bilirub
+new infiltrate
+portal hypertension
+previous admission
+prognosis
+recent hospitalization
+sacrum
+severe pulmonary artery
+sleep
+small left
+tachypneic
+tobramycin
+xx xl
+xxmmhg
+ama
+anemia hct
+benzos
+blood pressure control
+broad coverage
+chair
+chest pt
+fatty infiltration
+floors
+gpcs
+heme/onc
+likely source
+maps
+nasal canula
+nephrocaps
+neutropenia
+nodular opacities
+phenylephrine
+po lasix
+po meds
+proximal svc
+recent study
+severe pulmonary edema
+ulcer
+walker
+widening
+]
+adrenal glands
+alcohol
+augmentation
+bedside echo
+contour
+cxr impression ap chest
+diastolic chf
+free water flushes
+friday
+haart
+hemidiaphragms
+hemothorax
+hilar mass
+hypercalcemia
+increased density
+increased gradient consistent
+lll pneumonia
+losartan
+mds
+osh records
+patient s symptoms
+pcox
+pleural surfaces
+possible aspiration
+pt reports
+several times
+thickening
+x x cm
+blood glucose
+chest x ray
+copious secretions
+dictation
+help
+hepatitis
+hospital day
+lul
+mild increase
+mucous plugging
+normal mucosa
+picture
+right ij catheter tip
+septic emboli
+subclavian vein
+x/
+alert
+clear infiltrate
+clinical history
+colchicine
+dilt
+eval
+good uop
+heme
+hilar lymphadenopathy
+hiss
+hodx
+home ox
+ipratropium
+lasix xxmg
+midline shift
+nafcillin
+next few days
+nifedipine
+normal left ventricular filling pressure
+observation
+past few days
+ph
+ptt
+right upper lung
+small bowel obstruction
+staff
+successful placement
+tfs
+abdominal exam
+air fluid levels
+benefits
+bilateral small pleural effusions
+clinical signs
+compression
+features
+feet
+large bilateral pleural effusions
+lasix xx mg iv
+limitation
+line placement
+low xx s
+neosynephrine
+nothing
+peep x
+physician
+plastics
+preparation
+renal insufficiency
+small vessel
+supportive care
+thrombosis
+voriconazole
+x x sitter
+x.pt
+xx xxmmhg
+airspace disease
+ceftaz
+cri
+dc
+drug
+gram positive cocci
+hazy opacity
+impression x
+increased work
+intensive care unit
+known history
+last night
+mrcp
+obvious source
+optimal placement
+pan
+patient underwent
+post op
+primary care doctor
+qd
+right ij catheter
+rll opacity
+spinal cord
+terminate
+vasculitis
+x x weeks
+aldactone
+atrial abnormality
+benefit
+cardiac arrest
+chronic renal insufficiency
+daptomycin
+dxx
+etoh
+fullness
+hold
+hypertension patient
+icu team
+incision
+indistinctness
+mild pulmonary hypertension
+nasogastric tube passes
+paranasal sinuses
+po bid
+primary team
+prior film
+pseudoaneurysm
+reduction
+renal disease
+respiratory motion
+sips
+slight decrease
+soft solids
+trazodone
+type
+unchanged course
+urinary bladder
+xu
+acute kidney injury
+aggressive bowel regimen
+alveolar hemorrhage
+alveolar opacities
+ankle
+asa xxxmg
+ast
+atypical pneumonia
+benzodiazepines
+bph
+celexa
+detail
+distention
+estimated cardiac index
+following morning
+iv morphine
+lll consolidation
+past week
+pcwp
+right internal jugular
+scarring
+severe emphysema
+ventricular function
+x.the patient
+acute bleed
+barium
+clots
+coags
+contaminant
+continuation
+drug fever
+foci
+hd line
+hypoperfusion
+inhalers
+iv steroids
+k x.x cl xxx hcox xx angap xx xx xxpm blood glucose
+multiple episodes
+new left
+oncologist
+recent baseline
+refer
+respiratory
+respiratory standpoint
+retrocardiac opacification
+right basilar atelectasis
+right internal jugular line
+s disease
+single ap
+subclavian line
+subdural hematoma
+thick liquids
+wall thickening
+water
+x doses
+x.xx/xx/xx
+xcm
+arms
+benadryl
+beta blockers
+bowel movements
+c/w
+cancer
+central venous line
+clear lungs
+extremity dvt
+falls
+fever curve
+gnrs
+importance
+lv
+ms changes
+multiple myeloma
+ng lavage
+nodules
+portable cxr
+prednisone xxmg
+pulm
+quadrant
+replacement
+siadh
+sinusitis
+skin
+small area
+small bowel loops
+smoking
+test
+transverse colon
+urine urine culture
+urosepsis
+visualized osseous structures
+wbc x.x
+amylase
+anti coagulation
+bicarbonate
+bilateral opacities
+bone marrow biopsy
+cholangitis
+clonazepam
+congestive failure
+d/c d.
+diastolic heart failure
+discharge patient
+febrile
+hypertensive urgency
+iv flagyl
+iv lopressor
+large right
+linear opacities
+lobe infiltrates
+mediastinal lymphadenopathy
+mild aortic regurgitation
+moderate global free wall hypokinesis
+neurontin
+organism
+osteoporosis
+other signs
+piv
+prostate
+recent surgery
+right chest wall
+right hilum
+right hilus
+solids
+sputum gram stain
+superimposed infection
+total xx day course
+tricuspid valve
+unchanged moderate cardiomegaly
+worrisome
+xx hrs
+xx xxam blood ck
+xx.x lymphs xx.x
+abnormal septal motion/position consistent
+afterwards
+anemia patient
+atrovent nebs
+chest tubes
+clinical exam
+ct findings
+descending thoracic aorta
+diltiazem drip
+endocrine
+endotracheal
+flu
+focal opacity
+hemodynamic instability
+hrs
+hypodensity
+interventions
+k x.x cl xxx hcox xx angap xx xx xxam blood calcium x.x phos x.x mg x.x
+large pericardial effusion
+lateral radiographs
+mild atelectasis
+multifocal opacities
+next several days
+occlusion
+other complaints
+pole
+recurrent
+regular insulin
+relative hypotension
+right arm
+right upper lobe opacity
+status post sternotomy
+thought
+tracing
+transplant
+upper lung
+upper stomach
+xg
+atovaquone
+ccb
+clearance
+contusion
+d dimer
+doppler
+ferritin
+frequent suctioning
+hypokalemia
+keflex
+lung opacities
+metastases
+minimal blunting
+needs
+normocytic anemia
+ns bolus
+og tube
+right ventricular pressure/volume overload
+rll pneumonia
+role
+stable vital signs
+synthroid
+t waves
+telephone
+voice
+xxxxcc
+atropine
+awake
+bs
+c.
+cardiac output
+clavicles
+coag
+contraction alkalosis
+coronary artery
+depressed free wall contractility
+desire
+dobbhoff tube
+flatus
+focal area
+ich
+initial presentation
+iron supplementation
+knee
+last few days
+lung mass
+lymphs x.x monos x.x
+mucomyst
+nh
+normal free wall contractility
+nursing
+onset
+other findings
+persistence
+po vancomycin
+poor r wave progression
+pulmonary fibrosis
+renal transplant
+study date
+upper extremity
+urinary antigen
+wbcs
+x bands
+x/x bottles
+afb
+avr
+cellcept
+clinical evidence
+daughters
+defect
+definite pneumothorax
+fluid level
+hospice care
+hypothermia
+injury
+iv heparin
+lead
+left chest tube
+lung opacity
+lymphadenopathy
+mediastinal veins
+mra
+mri head
+opiates
+pleural abnormality
+rectal tube
+shunt
+stable hct
+sw
+trop x.xx
+wheezes
+x.x l
+xx s.
+xx xxpm
+xx xxpm blood pt xx.x ptt xx.x inr
+xxmg iv
+calcium gluconate
+combivent
+complete collapse
+ct surgery
+dmx
+duonebs
+epo
+free water boluses
+further treatment
+fx
+impression findings
+infectious source
+inversions
+iv solumedrol
+left costophrenic angle
+left retrocardiac region
+lidocaine patch
+mediastinal shift
+mild interstitial pulmonary edema
+milrinone
+new opacity
+normal intervals
+rate xx
+regional wall motion abnormalities
+specimen
+stabilization
+transmitral doppler
+valvular regurgitation
+x l nc
+xx mm hg
+xx xx range
+acute change
+acute exacerbation
+anti hypertensives
+baseline creatinine
+baseline x.x
+bridge
+chronic issues
+cyst
+dc d
+desaturations
+general surgery
+insulin regimen
+ivf boluses
+lateral chest radiographs
+lateral leads
+lorazepam
+lot
+low grade temps
+low sodium diet
+lung cancer
+meantime interval
+mild elevation
+minimal increase
+other symptoms
+oxycontin
+patient s daughter
+patient s hct
+pea arrest
+recent echo
+same date
+sternotomy wires
+therapeutic inr
+top
+total course
+ventricular chamber size
+xxth
+b/l
+basis
+bp meds
+chronic aspiration
+ck mb
+continued diuresis
+corpus callosum
+dic
+duodenal bulb
+endotracheal tube tip
+half
+hypercholesterolemia
+hypoxic respiratory failure
+ischemic disease
+large amounts
+large effusion
+lbbb
+leg pain
+low albumin
+lung zone
+multiple times
+negative rods
+normal colonoscopy
+obstructive pneumonia
+other causes
+persistent bilateral pleural effusions
+picc tip
+podiatry
+ps
+r ij
+regard
+regional left
+right apical pneumothorax
+right subclavian catheter
+risk factors
+s/he
+staph
+structures
+tissue
+transaminases
+ventricular ejection fraction
+wedge
+x.x liters
+xrt
+anterior fascicular block
+antibiotic treatment
+appearances
+baseline cr
+bm
+brother
+cannula
+chronic lung disease
+clearing
+coag negative staph
+coffee ground emesis
+dilaudid pca
+drug rash
+epidural abscess
+favor
+further history
+hepatic veins
+jvp
+last echo
+likely pneumonia
+midazolam
+negative staph
+normal wbc
+patient positioning
+patient s blood pressure
+pharmacy
+pylorus
+re intubation
+recording
+regards
+regions
+rehabilitation
+right basal
+right jugular line
+rise
+rll consolidation
+sdh
+seen.the mitral valve leaflets
+success
+swallow study
+upper right atrium
+x minutes
+bowel movement
+ces
+consultation
+delerium
+discharge home
+distal
+dobutamine
+ecg changes
+empiric antibiotics
+ems
+further details
+hbaxc
+healthy diet
+htn pt
+hypercarbic respiratory failure
+medication effect
+minor fissure
+negative cardiac enzymes
+negative x x
+neupogen
+patient motion
+prelim read
+pulmonic valve
+respiratory acidosis
+stable position
+staff radiologist
+stents
+tamponade physiology
+tender
+trouble
+tube feedings
+unclear reasons
+vx x
+abnormal septal motion/position
+anterior wall
+cks
+cocaine
+common causes
+copd flare
+decompensation
+elevated wbc
+further characterization
+hcox xx
+inferior leads
+iv metoprolol
+linear opacity
+lung zones
+malalignment
+minute
+mrs.
+nebs prn
+orogastric tube
+pa lat
+persistent fevers
+plastic surgery
+proximal stomach
+right heart border
+stomach body
+surveillance cultures
+systolic blood pressure
+tamiflu
+upper zone redistribution
+valve area x.x x.xcmx
+x gram
+xxg
+abnormal enhancement
+acute issues
+airspace opacities
+atrovent
+bowel gas
+carotid
+caspofungin
+ck xxx
+cl xxx
+code status dnr/dni
+creatinine x.x
+direct comparison
+echo.the
+emg
+feeling
+few hours
+home metoprolol
+hsv
+interpretation
+intervals
+intravenous contrast
+iron deficiency anemia
+lasix dose
+lasix iv
+lateral radiograph
+micu team
+mid xx s
+minimal aortic valve stenosis
+minutes
+moderate growth
+nurse
+patency
+patient rotation
+pericardiocentesis
+perihilar opacities
+post procedure
+ppd
+proximal
+resp status
+set
+stairs
+stress test
+vt
+wires
+x tr
+x.the mitral valve leaflets
+x.xmg
+xx ld
+xx xxs
+alcohol abuse
+baseline hct
+cardiac surgery
+cecum
+central catheter
+comm
+complete blood count
+conversation
+cuff
+diverticulosis
+emergency room
+esbl
+fiox xx
+fluid removal
+ground solids
+haziness
+hd xx
+health care
+hida scan
+hydrocortisone
+large left pleural effusion
+last x days
+limited examination
+methylprednisolone
+mets
+negative xx
+neutrophils
+pericardium
+prerenal etiology
+pulmonary arterial hypertension
+pus
+rib fracture
+right basal atelectasis
+sensation
+sets
+several weeks
+severe copd
+small amounts
+small left effusion
+thorax
+total x day course
+ultrafiltration
+vegetation/mass
+visualized paranasal sinuses
+active infection
+acute infection
+antibody
+arrest
+attending
+balloon
+bilateral parenchymal opacities
+biopsies
+blood transfusions
+bundle branch block
+complaint
+demand
+difficulty breathing
+documentation
+dysfunction
+hallucinations
+infectious work
+iv ceftriaxone
+l r
+mediastinal clips
+mod
+multiple
+myocardial infarction
+neuro exam
+oral contrast
+po diet
+pulmonary infiltrates
+rapid improvement
+reintubation
+right heart strain
+right lung apex
+rotation
+route
+s.
+segments
+significant changes
+single frontal view
+small right effusion
+superior mediastinum
+tr
+u/s impression
+vitamin d
+wound culture
+x x mmhg
+x.this
+acute pathology
+ag
+alk phos
+anca
+atherosclerotic calcification
+atrial fibrillation patient
+central venous access line
+chronic anemia
+cxrs
+definite consolidation
+dense
+dfa
+distal lead tip
+ekg nsr
+epistaxis
+esophagitis
+final report
+focal areas
+full sentences
+further assessment
+general medical floor
+heparin products
+id recs
+iv hydration
+kidney function
+left atrial appendage
+left chest
+long history
+lung atelectasis
+lung consolidation
+major change
+patient s pcp
+perihilar
+plt xxx
+pneumonic consolidation
+primary oncologist
+protein
+pulmonary artery hypertension
+pulmonary opacities
+recent history
+renal consult
+renal service
+repeat abg
+repeat study
+requirement
+restraints
+saturation
+sbo
+settings
+severe hypokinesis
+slight worsening
+stim test
+syndrome
+tail
+therefore
+trach collar
+u/s
+upper portion
+xxhrs
+xxx urean x creat x.x
+abdominal ultrasound
+acetaminophen
+active extravasation
+albicans
+apnea
+bilateral pulmonary opacifications
+bronchitis
+cardiac function
+chart
+ct evidence
+ct neck
+dry cough
+evolution
+floor patient
+focal hypokinesis
+followup radiographs
+further imaging
+gvhd
+heterogeneous opacification
+infusion
+labetalol
+mediastinal lymph nodes
+ophthalmology
+patient states
+portable findings
+positive ua
+possible infiltrate
+posterior
+pureed solids
+right basilar opacity
+ruq ultrasound
+scoliosis
+secondary
+subsequent improvement
+svg
+toprol
+transplant surgery
+type ii
+upper pole
+vancomycin/zosyn
+volume resuscitation
+wet
+xx creat x.x sodium xxx potassium x.x chloride xx
+xxcc/hr
+xxxml
+abd ct
+abgs
+acute pulmonary edema
+apices
+arterial line
+bathroom
+bony thorax
+bronchovascular markings
+cardiac enlargement
+central adenopathy
+cephalization
+chronic changes
+clear sp x.xxx xx xxpm
+combivent nebs
+comments
+compliance
+costophrenic sinus
+cxr comparison
+depression/anxiety
+dual lead pacemaker
+electrolyte abnormalities
+fluid balance
+free water deficit
+large left
+last year
+left picc line
+limited views
+low urine output
+medicine
+neg xx xxpm
+next morning
+other etiologies
+other evidence
+overall appearance
+peg placement
+penetration
+preserved ef
+pulsus
+repeat ekg
+repeat head ct
+rn
+s/p
+septum
+subcutaneous air
+suctioning
+tacrolimus
+thyroid gland
+tip projecting
+tomorrow
+top normal size
+toprol xl
+uremia
+video swallow study
+xx xxam
+acute pancreatitis
+and/or consolidation
+anemia pt
+ar
+back pain
+bibasal atelectasis
+bronchospasm
+correction
+coughing
+cysts
+difficulties
+ekg sinus rhythm
+escherichia coli
+etiologies
+facemask
+finger sticks
+focal infiltrates
+focal weakness
+gram negative rods
+hemithorax
+high cardiac output
+incidental note
+le
+medical service
+nadir
+nectar thick liquids
+new areas
+normal appearance
+occlusive thrombus
+octreotide
+other changes
+overnight
+ox requirements
+past year
+pleura
+pleuritic chest pain
+portable technique
+pt/ot
+pulmonary vascular markings
+rapid afib
+repeat egd
+respiratory decompensation
+retrocardiac area
+right internal jugular catheter
+rule
+same time
+sequela
+sequelae
+significant pulmonic regurgitation
+sphenoid sinus
+tbili
+tube placement
+txx
+underwent bronchoscopy
+urine legionella antigen
+x unit prbcs
+xl ox
+bg
+cardiac silhouette persists
+center
+communication patient
+diffusion
+ectopy
+emergency department
+epileptiform features
+epinephrine
+factor
+famotidine
+findings comparison
+gadolinium
+gastroparesis
+iabp
+icu admission
+intermittent episodes
+left pneumothorax
+likely represent
+lung disease
+material
+nasogastric tube terminates
+new opacities
+normal free wall function
+pancreatic head
+pigtail
+priors
+prominent fat pad
+recent ct
+renal artery stenosis
+renal u/s
+respiratory rate
+second day
+spinal canal
+stool studies
+subarachnoid hemorrhage
+thick secretions
+ucx
+v
+viral infection
+weaning
+x.xcm
+xx xxpm blood
+a. fib
+access piv
+acute ischemia
+anc
+anterior abdominal wall
+appt
+ast xx
+baclofen
+bilateral pulmonary edema
+boop
+chronicity
+consciousness
+defects
+depakote
+discitis
+dnr
+family members
+fluid collections
+full course
+gentamycin
+granuloma
+hcox
+herniation
+hospital admission
+ibuprofen
+impression cardiomegaly
+inactive issues
+incentive spirometer
+intermittent
+la
+left upper extremity
+levofloxacin xxxmg iv
+liters
+long term
+low hct
+magnesium
+mb
+metabolic disturbances
+micafungin
+mild bibasilar atelectasis
+moderate
+new right
+nitropaste
+ogt
+omeprazole
+omx
+oropharyngeal flora
+other change
+paf
+pca
+perihilar opacity
+po flagyl
+popliteal veins
+pump
+rbc
+sensitivity
+short interval change
+spike
+superior segment
+tamsulosin
+tension
+thyroid
+troponin leak
+unclear source
+understanding
+vss
+x sets
+x xxam
+access picc
+area x.x x.xcmx
+asd
+ast xxx
+atherosclerotic disease
+azygos vein
+baseline artifact
+biliary stent
+blood sugar
+bloody stools
+bubble study
+bun/cr
+cardiac diet
+cardiac etiology
+cefazolin
+ciwa
+coronaries
+couple
+double lumen
+effort
+emphysematous changes
+endotracheal tube projects
+enoxaparin
+esr
+gout flare
+home insulin regimen
+home levothyroxine
+home pt
+hx blocker
+inflammatory process
+interventional radiology
+mild blunting
+new pneumonia
+obvious infiltrate
+oral hypoglycemics
+patent foramen ovale
+possible aspiration pneumonia
+rectal exam
+repletion
+respiratory culture
+severe pulmonary hypertension
+short course
+silent aspiration
+smear
+superficial femoral
+transvalvular gradients
+tuesday
+urine electrolytes
+wall edema
+weekend
+x episodes
+accessory muscles
+active issue
+acute findings
+analysis
+anterior septum
+assess
+bibasilar infiltrates
+biliary tree
+blood transfusion
+cardiopulmonary process
+chest.no evidence
+coreg
+coronary arteries
+desats
+detection
+diagnostic paracentesis
+drainable fluid collection
+dvts
+endotracheal tube terminates
+findings suggestive
+flow cytometry
+further discussion
+hand
+infectious pneumonia
+interventional pulmonary
+latter
+likelihood
+limited evaluation
+low attenuation
+lvedp
+meeting
+mild lvh
+mild symmetric lvh
+motion artifact
+mucous plug
+negative rod
+ot
+pancreatic enzymes
+past x months
+patient s age
+perihilar regions
+ph x.xx
+pneumonectomy
+po vanco
+presumed pneumonia
+primary care
+proteus
+pulmonary htn
+pulmonary infection
+pushbutton activations
+repeat imaging
+right groin
+right hip
+right internal jugular line tip
+right neck
+screen
+several months
+severe aortic valve stenosis
+shovel mask
+sitter
+steroid
+substantial change
+symmetric lvh
+torso
+upper lung zones
+vac
+valvular aortic stenosis
+vbg
+viral load
+waxing
+wounds
+xx xx hours
+acute infarction
+aicd
+aricept
+cefipime
+clear liquids
+clear secretions
+clinical symptoms
+definite pleural effusion
+dense consolidation
+diazepam
+dilation
+ecg sinus rhythm
+epogen
+fat stranding
+few bacteria
+flare
+fluticasone
+fungus
+hyperthyroidism
+id consult
+indicative
+interatrial septum
+k x.x cl xx hcox xx angap xx xx xxpm blood glucose
+left chest wall
+left heart border
+lobe volume loss
+low inspiratory volumes
+lung collapse
+marrow suppression
+middle
+near future
+new lung abnormalities
+nitro
+normalization
+p xx
+paroxysmal atrial fibrillation
+past month
+peaked t waves
+peep xx
+post extubation
+precautions
+prior
+pulmonary toilet
+qhs
+radiologist
+sbp xxx
+self
+sphincterotome
+splenic vein
+sq heparin
+st
+stemi
+stenting
+stridor
+supplements
+ttp
+unchanged cardiomegaly
+upon transfer
+vasculature
+ventricular cavity
+waveforms
+xxx ra
+acute decompensation
+admission patient
+advancement
+aggressive chest pt
+ap single view
+ascending
+atypical infection
+bibasilar consolidation
+bid
+colonization
+confluent opacity
+debridement
+definite focal consolidation
+device clinic
+dialysis catheter
+displacement
+effects
+ejection fraction
+engorgement
+euvolemia
+fatty liver
+felt
+healthcare
+hernia
+intake
+left apex
+likely aspiration
+liver failure
+lucency
+moderate right
+neg staph
+neg urobilngn neg ph x.x
+neg xx xxam
+negative blood cultures
+negative urine culture
+old woman
+perfusion
+persistent opacification
+pneumatosis
+poor nutritional status
+prerenal azotemia
+prosthesis
+pupils
+quality
+r lung
+right foot
+right heart failure
+right mainstem
+sbp xx
+sore throat
+speech therapy
+stigmata
+stricture
+surgical candidate
+swan
+tox screen
+xx mg iv lasix
+xx neutrophils
+acute episode
+acute intracranial pathology
+adenopathy
+appreciable change
+axis
+bibasilar atelectases
+biliary duct
+br
+cardiology fellow
+cardiology service
+chronic pancreatitis
+clonidine patch
+comments.selective coronary angiography
+compressibility
+coumadin dose
+cox
+creat
+cx x
+cystic lesion
+dig
+distal stomach
+dobhoff tube
+dopamine drip
+echo ef xx
+elevated creatinine
+elevated inr
+elevated lfts
+fibrinogen
+first day
+flight
+general medicine floor
+gent
+grade i
+ground glass
+hemostasis
+hepatorenal syndrome
+imipenem
+incontinence
+infant
+inferior hypokinesis
+interstitial abnormality
+jet
+klebsiella pneumoniae
+left leg
+leni
+line infection
+medial aspect
+medical team
+moderate aortic valve stenosis
+moderate left
+mri brain
+mrsa pneumonia
+nasal congestion
+negative cultures
+ng
+nodular opacity
+normal systolic function
+options
+orthostatic hypotension
+others
+outpatient cardiologist
+pain medications
+parkinson
+patient cmo
+photophobia
+plate
+pleural plaques
+poor appetite
+post intubation
+proportion
+replete electrolytes
+ribs
+right chest
+right internal jugular vein
+right pic line
+right subclavian
+rpr
+seizure disorder
+speciation
+specific st t wave changes
+st t
+staphylococcus
+start
+tramadol
+type x
+underlying consolidation
+unknown etiology
+urine blood lg
+visit
+visualized portions
+while
+x lymphs xx monos x
+xx day
+xx xxpm blood ck
+xxk
+xxx bpm
+agents
+albuterol nebulizers
+alt xx
+appropriate
+atelectasis versus pneumonia
+beta
+bms
+brief episode
+chains
+confluence
+cough productive
+daily basis
+decline
+diagnostic considerations
+dispo patient
+etomidate
+fen npo
+fevers/chills
+focal calcifications
+guaiac
+hodxx
+immunosuppression
+insertion
+intermittent fevers
+ivig
+jvd
+k x.x cl xxx hcox xx angap xx
+k x.x cl xxx hcox xx angap xx xx xxam blood alt xx ast xx ld
+labetolol
+last drink
+left foot
+lumen
+lung field
+middle lobe
+midnight
+mirtazapine
+mucosa
+mucus
+neck pain
+nonrebreather
+normal biventricular cavity
+ox saturations
+periventricular white matter
+pre renal etiology
+q
+rare growth
+renal biopsy
+repeat pa
+resistance
+respiratory alkalosis
+retrocardiac
+right hydropneumothorax
+routine
+scope
+series x
+serosanguinous fluid
+sirs
+slow background
+stent placement
+subsequent cxr
+transaortic gradient
+tremor
+unchanged evidence
+underlying collapse and/or consolidation
+valvular disease
+x.the
+xx urean x creat x.x
+abdominal distension
+abdominal distention
+acute respiratory distress
+adjustment
+adjustments
+aid
+aortic valve replacement
+appropriate diuresis
+arthritis
+atrial tachycardia
+beginning
+bone marrow
+bp support
+bright red blood
+code blue
+correct clinical setting
+ct examination
+ct head.no
+ct pelvis
+discharge plan
+dnr/dni status
+dosing
+eating
+epileptiform activity
+esophageal stent
+etoh withdrawal
+final angiography
+fiox xxx
+folic acid
+free tx
+generalized slowing
+home antihypertensives
+lasix xx mg
+left internal jugular vein
+leukocytes
+loculation
+low dose beta blocker
+low grade temp
+map
+mild degree
+new focal consolidation
+next preceding
+nippv
+occupational therapy
+perihilar region
+peripheral iv
+possible aspiration pna
+projects
+recent radiograph
+repair
+right shoulder
+severe global free wall hypokinesis
+sigmoid
+situation
+state lab
+ste
+tip terminating
+transparency
+tv xxx
+urean xx creat x.x cl xxx hcox xx xx xxam blood glucose
+valve
+vessel disease
+x times
+xx cc/hr
+xx xxam blood pt xx.x inr
+xx year
+xxunits
+y
+a.
+abnormal portable eeg
+adenocarcinoma
+aggressive pulmonary toilet
+amiodarone drip
+atelectatic change
+basal half
+baseline mental status
+bilateral atelectasis
+bilateral lungs
+bronchodilators
+carcinoma
+cardiac ischemia
+cavitation
+chronic interstitial lung disease
+chronic issue
+clinda
+collaterals
+contribution
+cord compression
+dependent edema
+dispo pt
+embolization
+enlarged heart
+extra axial hemorrhage
+face tent
+few weeks
+flexible bronchoscopy
+foreign body
+good rate control
+graft
+increased secretions
+infectious infiltrate
+jp drain
+levofloxacin xxxmg
+little interval change
+lle
+lobe opacification
+low blood pressures
+low platelets
+mild hypokinesis
+mri/mra
+nasogastric tube courses
+neck stiffness
+new infiltrates
+non contrast
+nsvt
+obstructive pna
+old man
+operative note
+outpatient colonoscopy
+overt edema
+parapneumonic effusion
+partial opacification
+patient denies
+peripheral smear
+physiologic mitral regurgitation
+pox
+pulmonary team
+pulmonary vascular redistribution
+re evaluation
+repeat radiography
+resistant
+respiratory function
+right picc line tip
+shock liver
+slight interval increase
+small right pneumothorax
+staph aureus
+systolic blood pressures
+tachycardic
+technical differences
+temperatures
+third spacing
+vertebral bodies
+vtach
+w
+wall motion abnormalities
+warmth
+xxx s.
+abdominal discomfort
+abg x.xx/xx/xx
+acute disease
+aggressive fluid resuscitation
+amp
+argatroban
+atherosclerotic calcifications
+atrophy
+b blocker
+bicarb xx
+breakdown
+capacity
+cells
+cephalosporins
+chest radiograph
+chronic pulmonary disease
+complains
+consequence
+crp
+definitive evidence
+diffuse encephalopathy
+dimer
+displaced fracture
+dopamine gtt
+downwards
+eeg impression
+elevated bnp
+epi
+fe studies
+fen pt
+frontal
+geriatrics
+granulomas
+hands
+hepatitis serologies
+home lisinopril
+hopes
+inferolateral walls
+insomnia
+ivf hydration
+lateral pleural sinuses
+low probability
+lue
+major papilla
+md
+name
+non compliance
+normal duodenum
+nurses
+pain patient
+pantoprazole
+patient feels
+patient s body habitus
+patient s bp
+patient s respiratory status
+pci
+pericardial fluid
+persistent cardiomegaly
+persistent tachycardia
+pip/tazo
+qxh
+recent travel
+relevant changes
+repeat bronchoscopy
+resection
+resistive indices
+right heart cath
+right subclavian catheter tip
+ruq pain
+samples
+sbp s
+side hole
+significant amount
+small right apical pneumothorax
+spox
+sr
+sutures
+swelling
+timing
+transitional issues patient
+upper mediastinum
+upper xxs
+urinary symptoms
+vanc/levo/flagyl
+vancomycin xg
+ventilatory support
+w/u
+x amp
+x rays
+x unit prbc
+x xx p.m.
+xu ffp
+xx.x cm
+acute abnormality
+alveolar edema
+anticipation
+arch
+arrhythmia
+aware
+bblocker
+bp s
+cardiology consult
+care facility
+compressions
+courses
+creat x.x
+dapsone
+demonstrate
+discharge instructions
+extravasation
+f/u cxr
+glucose xxx
+ground
+hypotension patient
+icu transfer
+induced sputum
+initial abg
+intracardiac shunt
+irritation
+l side
+left common femoral vein
+left perihilar
+left subclavian line tip
+likely anemia
+lithium
+lobe consolidations
+low iron
+low salt diet
+main bronchus
+mild dilatation
+multilevel degenerative changes
+multiple attempts
+negative ua
+nephrotoxins
+normal compressibility
+norvasc
+operation
+other forms
+other medications
+oxygen sats
+pain medication
+past x days
+patchy atelectasis
+patient s hematocrit
+pd
+plt
+poor perfusion
+previous studies
+prior imaging
+qid
+r arm
+radiation therapy
+rehabilitation facility
+relative sparing
+resp distress
+retrocardiac opacities
+right internal jugular central venous catheter
+right leg
+right picc tip
+right ventricular pacer
+rv function
+sat
+sent
+severe mitral annular calcification
+short term
+slight interval improvement
+sma
+spinal stenosis
+surgical site
+ten day course
+terminates
+tibc xxx
+tsicu
+uptake
+width
+wrist
+x gpc
+x year
+xx xl nc
+xxd course
+xxx ml
+ablation
+acidemia
+active ischemia
+ap chest
+apical hypokinesis
+atrial enlargement
+av fistula
+b test
+bacterial pneumonia
+blood pressure medications
+bowel gas pattern
+bowels
+branches
+check
+chem x
+chronic small vessel
+cll
+comfort care
+conservative management
+cox xx
+ct head findings
+demonstrates
+desat
+diagnostic interim change
+diamox
+discharge summary
+early infiltrate
+elevated lipase
+et
+findings pa
+flomax
+further evidence
+glaucoma
+guaifenesin
+hld
+infiltration
+ipf
+isordil
+iv abx
+kayexelate
+ketones
+large area
+last month
+lateral chest radiograph
+law
+likely diagnosis
+lv systolic function
+main stem bronchus
+major fissure
+map xx
+mcv
+mg tid
+morphine gtt
+multilobar pneumonia
+negative c diff
+new baseline
+new diagnosis
+normal variant
+oxsat xx
+pcp prophylaxis
+persistent elevation
+phenytoin
+physical therapy service
+ppx ppi
+projection
+right chest tubes
+s examination
+s s
+s wife
+septic physiology
+serum
+sevelamer
+severe tricuspid regurgitation
+sides
+single ap view
+sleep study
+standard positions
+thursday
+tongue
+toxicology
+transverse
+trials
+tube removal
+unclear baseline
+underlying atelectasis
+underlying pneumonia
+v/q scan
+vascular calcifications
+vertebral arteries
+vertebral body
+wellbutrin
+whole stomach
+wma
+xr
+xx/
+xxmg prednisone
+a.fib
+acinetobacter
+acute chf
+acute distress
+anginal symptoms
+asa xxx
+atrial pressure
+bibasal opacities
+brace
+breakfast
+cannulation
+cardiac silhouette size
+central line placement
+central lines
+chest xray
+coag neg staph
+coccyx
+color
+contrast material
+correct position
+current dose
+derm
+des
+descending colon
+diltiazem gtt
+e coli
+ed course
+endotracheal gram stain
+eosinophilia
+erosion
+exposure
+ferritin xxx
+further fevers
+global left
+good results
+hd catheter
+htn patient
+hypertensive emergency
+hypotensive episode
+initial cxr
+intraventricular conduction delay
+iv fluid
+likely consistent
+limits
+list
+low ef
+lumbar puncture
+lytic lesions
+maneuvers
+maxillary sinuses
+mild leukocytosis
+neoplasm
+neurologic exam
+new consolidations
+new small right pleural effusion
+nl x.x cm
+non invasive ventilation
+non tender
+oob
+op
+pa/lat
+parameters
+paranasal
+patient position
+paucity
+pcp s office
+persistent hypotension
+pic line
+po levofloxacin
+pocket
+possible infection
+post pull cxr
+pressor requirement
+prior cxr
+pseudocyst
+psychiatrist
+rales
+rapid af
+rbcs
+repeat radiograph
+restrictive filling abnormality
+rhonchi
+right frontal lobe
+right perihilar region
+right pleural fluid
+right upper lobe pneumonia
+schedule
+seconds
+seizure prophylaxis
+seizure threshold
+septal thickening
+sertraline
+severe aortic stenosis
+shape
+similar study
+small hiatal hernia
+splenium
+sternal rub
+supine position
+symptomatic improvement
+systolics
+thrombocytosis
+thrush
+transfer vitals
+transplant list
+upright view
+xxmg po
+ambisome
+amikacin
+aortic valve prosthesis
+apical ptx
+atherosclerotic plaque
+bacterial infection
+barium swallow
+bibasilar airspace opacities
+bibasilar crackles
+blood culture blood culture
+bone scan
+cad s/p cabg
+ce s
+cmv viral load
+conclusions.the
+cyclosporine
+data
+decompression
+definite pleural effusions
+degrees
+descending aorta
+discharge teaching
+double coverage
+early ambulation
+enterobacter
+exercise
+fen patient
+feurea
+final respiratory culture
+focal airspace consolidation
+fungal infection
+good po
+hcc
+high residuals
+hope
+hsv pcr
+id recommendations
+interval extubation
+intraparenchymal hemorrhage
+ivcd
+lateral wall
+left hip
+left ij
+left retrocardiac atelectasis
+left shoulder
+localizing symptoms
+low likelihood
+lung nodules
+lv function
+malnutrition
+many bacteria
+mid lung
+mild atelectatic changes
+nephrologist
+nicotine patch
+oral analgesics
+peg tube placement
+perihilar consolidation
+poor inspiratory effort
+poor nutrition
+positive blood cultures
+possible sepsis
+ppx sc heparin
+present
+psa
+pulmonary disease
+pulmonary service
+pulmonary symptoms
+pyuria
+renal dysfunction
+replete lytes
+resident
+respective positions
+retrocardiac consolidation
+retroperitoneal
+rhabdomyolysis
+sbp xxxs
+serial cxrs
+show
+significant increase
+sinuses
+small vessel disease
+social worker
+somnolent
+spep
+sphincterotomy
+suicidal ideation
+swab
+transaortic velocity
+tremors
+trigger
+upper lobe opacity
+upper zone
+vascular
+x.the aortic valve leaflets
+x.there
+x.x baso x.x xx xxam blood pt xx.x ptt xx.x inr
+xx x.he
+xx xx a.m.
+xx xx p.m.
+abscesses
+acetazolamide
+aggressive ivf
+aggressive measures
+asymmetry
+atalectasis
+atheroma
+ativan prn
+atypicals
+axilla
+band
+betablocker
+bile
+biliary dilatation
+breakthrough pain
+broad spectrum
+broad spectrum coverage
+bronchial wall thickening
+bronchial washings
+chronic steroids
+cl xx
+confirmation
+consistencies
+dinner
+diverticulum
+dvt ppx
+echogenicity
+end stage
+factors
+flattening
+gallbladder wall
+gi prophylaxis
+granulation tissue
+great vessels
+height
+home inhalers
+hydroureter
+hyperventilation
+hypoventilation
+inferior aspect
+injection
+interstitial disease
+intravenous fluids
+invasive procedures
+ipratropium nebulizers
+l spine
+lasix diuresis
+last xx hours
+lat
+ldh xxx
+left mid lung zone
+likely represent atelectasis
+limb
+limited exam
+liter
+lll collapse
+lymphocytes
+mass lesion
+meropenum
+mid stomach
+mild enlargement
+mild tortuosity
+moderate chf
+nausea/vomiting
+neuro icu
+new pcp
+next xx hours
+nitrates
+nitroglycerin gtt
+normal course
+normal leaflet/disc motion
+normal wbc count
+office
+olanzapine
+oral vancomycin
+orbits
+organ failure
+other preperations
+oxx
+peritoneal fluid
+portal vein thrombosis
+possible consolidation
+pox xx
+precordial leads
+prior examinations
+progress
+repeat mri
+right perihilar
+right ventricular pacer leads
+rightward mediastinal shift
+rp bleed
+rul infiltrate
+runs
+schistocytes
+schizophrenia
+sepsis protocol
+several doses
+signal
+small pneumothorax
+small r
+splenic flexure
+substantial enlargement
+thoracolumbar spine
+top normal/borderline
+total occlusion
+toxicity
+transient hypotension
+understanding verbalized
+urine sediment
+uterus
+widened mediastinum
+x amps
+x pm
+xxs xxxs
+xxs/xxs
+admission labs
+anoxic brain injury
+anterior
+apparent loculation
+appreciable pneumothorax
+attenuation
+axillary vein
+azathioprine
+balance
+bibasilar atelectatic change
+bilateral pneumonia
+bit
+bnp xx
+bnp xxxx
+c. diff toxin
+cardiomediastinum
+catheters
+cavitary lesion
+ceftazadime
+cholecystectomy
+clear sp x.xxx xx xxam
+communication daughter
+contamination
+cox retention
+cta.no evidence
+cvicu
+day xx
+definite acute
+definite effusion
+dietary indiscretion
+drains
+drugs
+ebv
+elevations
+escalation
+esophageal varices
+evaluate
+exudate
+final inpatient blood culture blood culture
+focal opacities
+focal pneumonia
+grade ii
+groin
+hdl xx
+health
+heparin bridge
+hepatopetal flow
+high doses
+hilum
+hips
+hr xxxs
+hydropneumothorax
+hypothyroidism tsh
+infectious workup
+iron xx
+ischemic colitis
+jejunum
+k x.x cl xxx hcox xx angap x xx xxam blood glucose
+klonopin
+l lung
+lasix xx
+left basilar atelectasis
+left lung apex
+levofloxacin xxx mg iv
+lvot gradient
+mental status patient
+metoprolol dose
+nephrolithiasis
+new hemorrhage
+nutrition consult
+obstructive sleep apnea
+oral care
+osteo
+osteopenia
+ostomy
+outpatient pfts
+pacemaker device
+patchy consolidation
+pcox xx
+pericarditis
+persistent low lung volumes
+plain films
+pleural fluid negative
+po tid
+portal hypertensive gastropathy
+postoperative changes
+prescriptions
+pressor
+presumed aspiration pneumonia
+proximal right atrium
+pulmonary standpoint
+pvd
+recent vitals
+remeron
+reticular opacities
+right atrial
+right atrial appendage
+right ij central venous catheter
+right picc terminates
+rll collapse
+rvedp
+sarcoidosis
+serous fluid
+sternum
+stress dose steroids
+supplementation
+symptomatic relief
+tachy
+thecal sac
+toes
+total cox xx anion gap xx xx xxpm
+total cox xx base xs x
+trivial pericardial effusion
+tsh wnl
+tuberculosis
+tylenol prn
+upper extremities
+uptitration
+urine hours
+visual changes
+wish
+xxu
+xxx xxx range
+xxx/xxx
+zones
+adjacent compressive atelectasis
+alcohol withdrawal
+alveolar infiltrates
+angina
+apical free wall
+asthma exacerbation
+atypical coverage
+benzo
+bilateral perihilar opacities
+bilateral pulmonary infiltrates
+bili
+biventricular systolic function
+bowel loops
+brain parenchyma
+c. difficile
+cerebral edema
+chronic liver disease
+clinical presentation
+collar
+continue
+creatine
+cx cx
+cxr pa
+depressed ef
+device
+distension
+doctor
+echo impression
+enteroccocus
+etoh abuse
+eye
+f
+fall risk
+fistulogram
+focal lesions
+further bleeding
+further review
+fusion
+guaiac positive stool
+hr xxs
+image xx
+initial labs
+interval changes
+lasix xxmg po
+left picc
+legionella antigen
+likely atn
+loculated pleural effusion
+low bps
+low dose metoprolol
+mcv xx
+mediastinal mass
+mediastinal position
+medicine floors
+mesenteric
+mg po bid
+micu patient
+mild pulm edema
+mrsa screen
+multifocal areas
+nitrite neg protein tr
+npo status
+numbness
+oral medications
+ortho spine
+overdiuresis
+overt evidence
+paralysis
+parenchymal consolidation
+patch
+patient s inr
+pericardial drain
+persistent leukocytosis
+picc line placement
+please note
+poor quality
+possible source
+posterior segment
+ppx pneumoboots
+pt s pcp
+pulmonary consult
+rapid development
+reflux
+repeat hct
+retroperitoneal hematoma
+right apical chest tubes
+right subclavian central venous catheter
+right upper lobe consolidation
+rll atelectasis
+rrxx
+rue
+rv strain
+s creatinine
+s/p cabg
+saox
+serum sodium
+significance
+small foci
+sphenoid
+temps
+tpa
+ua neg
+unsure
+upper lobe pneumonia
+vancomycin/cefepime
+vein
+ventricular rate
+viral culture
+visualized portion
+x hour
+x/x
+xxs systolic
+zone
+a.m.
+abdominal tenderness
+acd
+acute inflammation
+acute onset
+adls
+aggressive hydration
+ain
+alkalosis
+alt xxx
+ambulance
+b/c
+basilar opacities
+bilateral areas
+blood pressure support
+branch
+bumex
+cardiac failure
+cath tip
+ceftriaxone/azithromycin
+cerebral hemispheres
+cipro/flagyl
+circle
+clear etiology
+coffee grounds
+compazine
+complicated uti
+contraindication
+conversion
+ct head w/o contrast
+current examination
+current regimen
+dc ed
+definite pneumonia
+deformity
+discharge pt
+dressings
+e.coli
+echo findings
+fluoxetine
+friability
+glucose control
+good oxygenation
+guaiac positive stools
+guidewire
+hypoalbuminemia
+i/os
+infarcts
+iv vanco
+iv zosyn
+jaundice
+k x.x cl xx hcox xx angap xx
+last discharge
+lateral ventricles
+left atrial mass/thrombus
+left hilus
+likely multifactorial
+loc
+lr
+lx x
+macrocytic anemia
+malaise
+max
+mediastinal drains
+mid abdomen
+mind
+minimal amount
+mode
+morphology
+multifocal infection
+multiple areas
+multiple foci
+negative hbsab
+neurologist
+ng tubes
+nitrite neg protein xx
+nitro paste
+normal caliber
+normal stomach
+orientation
+pain management
+persistent cough
+planned x day course
+polyps
+poor definition
+poor r
+portable chest radiograph
+post median sternotomy
+previous ct
+prn nebs
+prophylaxis ppi
+pulm htn
+pulmonary clinic
+pyelonephritis
+quadrants
+r effusion cxr
+rate xxx
+re expansion
+redistribution
+renal arteries
+retention
+right basal opacity
+right brachiocephalic vein
+right ij central line
+right subclavian vein
+salmonella
+severe global hypokinesis
+sinemet
+single portable radiograph
+small l pleural effusion
+spikes
+subacute
+subclavian catheter
+subcutaneous gas
+substance abuse
+suggests
+suicide attempt
+suppression
+tap
+time course
+today s study
+transport
+transudate
+transvenous pacemaker
+tree
+tube terminates
+uncertain etiology
+uncertain significance
+uti pt
+vascular redistribution
+visualization
+vit k
+weight gain
+wound vac
+x wbc
+x xxmmhg
+xx iv lasix
+xx.x rbc x.xx hgb xx.x hct xx.x mcv xx mch xx.x mchc xx.x rdw xx.x xx xxpm
+xxmg qd
+xxx fiox
+acute blood loss
+acute worsening
+albumin x.x
+aneurysmal dilatation
+antihypertensive medications
+cardiac mri
+cdx
+chin
+chronic cough
+chronic diarrhea
+chronic systolic heart failure
+clavicular heads
+comorbidities
+conclusions
+coronary calcifications
+ct impression
+cvvhd
+cxr cardiomegaly
+cxr lung volumes
+diagnostic thoracentesis
+disposition
+distal obstruction
+dni
+effexor
+efforts
+f/c
+fingers
+focal abnormalities
+foley placement
+full code status
+further w/u
+gallbladder wall edema
+glucose xx
+good result
+hemangioma
+hep gtt
+home ppi
+humalog insulin
+hypothyroid
+i/o
+impression persistent
+infectious etiologies
+inferior septum
+inr goal
+interstitial process
+intracranial bleed
+intrahepatic ducts
+iv access
+large pneumothorax
+left maxillary sinus
+light growth
+likely reactive
+low blood pressure
+low limb lead voltage
+manifestation
+marrow
+mild congestion
+mild mr
+minimal response
+mood
+multiple occasions
+neurology team
+next x days
+optimal positioning
+other acute process
+other possibilities
+oxygen supplementation
+pancreatic duct
+passy muir valve
+past xx hours
+patchy infiltrates
+patient afebrile
+patient s hypotension
+patient s son
+picc placement
+pleural eff
+po metoprolol
+portable impression
+ppx heparin sc
+prednisone xx mg
+previous film
+prior cabg
+prn lasix
+pruritis
+quetiapine
+r wave progression
+reexpansion
+renal mass
+repeat cbc
+residual atelectasis
+residuals
+respiratory issues
+retrocardiac lung areas
+right port
+rle
+rx
+sample
+sclerosis
+second episode
+second portion
+sedatives
+shigella
+significant growth
+singulair
+sleep apnea
+slow taper
+small areas
+small volume
+spite
+spoke
+st elevation
+staph aureus coag
+stranding
+superior portion
+sweats
+technical factors
+tfts
+tiotropium
+total bilirubin
+total cox xx anion gap xx xx xxpm alt
+transesophageal echocardiography
+treatments
+underlying malignancy
+underwent
+values
+vascular markings
+vasogenic edema
+ventricular tachycardia
+ventriculography
+vp shunt
+waking
+washout
+x.x basos x.x xx xxpm
+xx beats
+xx fiox
+xx mg iv
+xxam
+xxbpm
+xxh
+xxl
+xxxcc/hr
+acute events
+acute intracranial abnormality
+addendum
+alignment
+amio gtt
+anorexia
+aortic aneurysm
+ap technique
+ap view
+aspirin xxxmg
+atrial ectopy
+basal ganglia
+bilateral moderate pleural effusions
+bioprosthetic aortic valve prosthesis
+blasts
+board
+bp xxx/xxx
+breath sounds
+calculi
+cardiac event
+cardiac history
+case management
+children
+chronic respiratory acidosis
+coronary artery calcifications
+coumadin xmg
+definite signs
+diovan
+discharges
+discoid atelectasis
+echocardiographic evidence
+echotexture
+extensive opacification
+few episodes
+fistulous tract
+flovent
+focal findings
+full diet
+good pulmonary toilet
+haptoglobin
+hypotension pt
+hypovolemic hyponatremia
+icd placement
+indeterminate age
+inferolateral hypokinesis
+inpatient blood culture blood culture
+iv nurse
+labwork
+lead vx
+levoxyl
+likely infection
+likely pna
+lobe bronchus
+loculations
+lung nodule
+lx vertebral body
+medicine team
+mesenteric ischemia
+metoprolol xxmg
+micu admission
+mid lad
+moderate ascites
+moreover
+myelos x xx xxam blood neuts
+n/v/d
+nasogastric tube tip
+neurology service
+new area
+nitroglycerin drip
+nodal agents
+normal.the aortic valve leaflets
+nursing staff
+other monitoring
+outpatient issues
+pasp
+patchy opacification
+pfo
+popliteal
+portions
+posterior aspect
+pre renal azotemia
+prednisone xx
+prior chest radiographs
+prior hospitalization
+propofol gtt
+proximal portion
+pt denies
+q t interval
+radiographic findings
+ratio
+relation
+repeat ua
+respiration
+results section
+right atrium/right
+right basilar
+right heart
+right mid lung zone
+rt
+s hct
+sclerotic lesions
+serial cardiac enzymes
+serial cxr
+several liters
+several years
+sheath
+side effect
+similar appearance
+slight elevation
+soft tissue density
+spox xx
+stable blood pressure
+stool culture
+stress response
+subcortical white matter
+tests
+therapeutic range
+thick
+tips shunt
+toxic
+toxin
+tract obstruction
+troponin elevation
+troponin x.xx
+urine rbc x x
+valvular vegetations
+venlafaxine
+ventilator settings
+xd course
+xday course
+xx wbc
+xxmg tid
+xxpm
+acalculous cholecystitis
+acute setting
+adrenals
+appropriate response
+artifacts
+aureus coag
+auto
+b.
+bactrim prophylaxis
+bedtime
+bibasilar atelectatic changes
+bilateral basal
+blood cx coag
+blood gas
+blurry vision
+bmt service
+bronchus intermedius
+c/w chf
+calcitriol
+cardiac monitor
+casts
+ccu stay
+ceftriaxone xg
+complain
+continued improvement
+current exam
+dedicated pa
+diagnostic abnormalities
+diffuse osteopenia
+digoxin level
+distended gallbladder
+echo dense
+enalapril
+epileptiform discharges
+feeding
+filter
+floor pt
+flutter
+focal abnormality
+followup ct
+glycemic control
+good ox sats
+gross effusion
+haldol prn
+hazy opacification
+hepatic flexure
+high suspicion
+hyperexpansion
+hypotensive episodes
+imaged portion
+incisors
+increased pulmonary venous pressure
+insulin pump
+iv diltiazem
+iv furosemide
+ivf bolus
+ivf resuscitation
+joint effusion
+large mass
+lasix xx iv
+lasix xx mg iv x x
+lateral st depressions
+leakage
+left frontal lobe
+left subclavian line
+left ventricular systolic function
+leukopenia
+likely pre renal
+loose stool
+low threshold
+low tibc
+mac
+microcytic anemia
+mild congestive failure
+moderate enlargement
+moderate pleural effusion
+mrsa pna
+multifocal consolidations
+multivitamin
+muscle
+nebulizer treatment
+new changes
+new findings
+new medications
+nonspecific bowel gas pattern
+normal valve morphology
+nsr xx
+oral intake
+other cellular elements
+other source
+outpatient sleep study
+partial collapse
+patient s chin
+patient s hcp
+patient s wbc
+pcwp xx
+perihepatic ascites
+pneumovax
+polyp
+positive stools
+possible pe
+potassium repletion
+potential
+preload
+presumed pna
+previous baseline
+prior radiographs
+pseudomonas aeruginosa
+puree
+ranitidine
+rapid progression
+recent bleeding
+repeat chest ct
+repeat labs
+respiratory therapy
+retic count
+right internal jugular vein catheter
+right ventricular diastolic collapse
+rituxan
+rul consolidation
+s image
+safety
+sah
+saox xx
+scopolamine patch
+score
+shoulder pain
+single dose
+small focus
+sons
+st depression
+subcutaneous tissues
+suprapubic catheter
+t bili
+t xxx.x
+tidal volumes
+timi x flow
+tip culture
+tizanidine
+transitions
+transverse diameter
+truvada
+tx vertebral body
+upper gi bleed
+upper margin
+vanco/cefepime
+vasopressors
+vicodin
+wednesday
+x x months
+x.x x x.x x x.x cm
+x.xx x.xx
+x/xx
+xl oxygen
+xmg iv
+xx face mask
+xx.the patient
+xx.xmg
+xxxcc bolus
+zoloft
+abdominal u/s
+abg x.xx/xx/xxx
+abx coverage
+acute infarcts
+acute infiltrate
+acute mi
+airspace opacity
+albuterol/atrovent nebs
+ambien
+aml
+aortic valve area
+area x.xcmx
+aspect
+assist control
+asterixis
+banana bag
+bilateral chest tubes
+bilateral lenis
+bilateral pulmonary opacities
+bipap mask
+bloody
+bowel function
+cad pt
+catheter tip
+chest ct.
+choledocholithiasis
+coag staph
+compression fracture
+constellation
+continued fevers
+contrast w/in abdomen
+costophrenic sulcus
+count
+current radiograph
+cystoscopy
+definite change
+diastolic hypertension
+dilt gtt
+direct communication
+distal end
+distal lad
+dominant system
+dressing changes
+duct
+ed resident
+epigastric pain
+expected region
+extensive discussion
+ferrous sulfate
+fever/chills
+fistulogram loop
+fungal culture
+further followup
+gastric fundus
+good diuresis
+group home
+hemorrhoids
+heparin sq
+heterogeneity
+high fevers
+honey
+id team
+impression mild
+increased prominence
+internal carotid arteries
+internal hemorrhoids
+iv vanc
+jp
+knees
+last several days
+lavage
+lead iii
+left eye
+little improvement
+low uop
+lung biopsy
+maintenance
+mb xx
+mediastinal adenopathy
+medical icu
+minimal decrease
+multiple surgical clips
+neg bnzodzp neg barbitr
+neg ethanol neg acetmnp
+neg ketone neg bilirubin
+nml axis
+non contrast study
+notdone ctropnt x.xx xx xxam blood ck
+old films
+old male
+oliguria
+p.m.
+partial atelectasis
+patient s code status
+penicillins
+peripheral access
+persistent retrocardiac opacity
+po medications
+po vanc
+poor mental status
+precipitant
+previous day
+primary cardiologist
+prior report
+ptt xx.x
+pulmonary parenchyma
+rapid atrial fibrillation
+renal diet
+residual stenosis
+respiratory drive
+retroperitoneum
+rheum
+right infrahilar region
+right lung bases
+rigid bronchoscopy
+ritalin
+rml infiltrate
+sildenafil
+small apical pneumothorax
+small right pleural effusions
+sputum sample
+st segment changes
+st t changes
+strep viridans
+subtherapeutic inr
+systolic
+tape
+tib/fib
+trace ar
+tube ends
+unknown baseline
+upper lobe consolidation
+urine cx citrobacter
+urine cx enterococcus
+velocity
+visual hallucinations
+walking
+warm compresses
+white matter
+x liter
+x lymphs x monos x
+x xl nc
+x xx xx
+x.x mg
+x.xm/s
+x/x ns
+xst
+xx lesion
+xx pm
+xx x xx mm
+xx xx xx
+xxx wbc
+xxx.she
+xxxx cc
+aaa
+abnormal signal
+acuity
+airspace consolidation
+anaerobes
+assist
+basal cisterns
+borderline cardiomegaly
+bowel perforation
+broad antibiotic coverage
+bump
+c/w pulmonary edema
+calf
+campylobacter
+cardiac biomarkers
+cardiac echo
+cardiomegaly unchange
+catheter projects
+cdx count
+cea
+chronic chf
+chronic diastolic heart failure
+chronic lll collapse
+clinical findings
+clinical team
+code dnr
+confluent areas
+congestive heart
+coronary sinus
+cortisol stimulation test
+ct criteria
+cystic duct
+diff colitis
+discretion
+distal rca
+dopa
+dr. office
+echocardiography
+edge
+encephalomalacia
+eosinophils
+erosions
+expiration
+family wishes
+fena x.xx
+fibrotic changes
+first few days
+fungal
+further events
+ggt
+good candidate
+gu
+hcv
+hence
+hiccups
+home simvastatin
+incentive spirrometry
+indications
+inferior vena cava
+initial lactate
+intention
+interaction
+interest
+interval appearance
+iron supplements
+iv ativan
+iv cefepime
+l ij
+lasix xx mg po
+last bm
+ldl xx
+leftward mediastinal shift
+leni s
+likely component
+likely demand ischemia
+lipid panel
+liver team
+lobe aeration
+low grade temperatures
+low risk
+lul infiltrate
+lx x level
+maximum
+medical examiner
+mentation
+metoprolol xx.xmg
+mild decrease
+mild encephalopathy
+mild luminal irregularities
+miralax
+moderate left pleural effusion
+mom
+multifocal infiltrates
+murmur
+new cough
+nitrate
+nodular density
+normal lactate
+nutrition recs
+nutritional status
+old infarct
+one
+oral regimen
+other sources
+outpatient medications
+oxsats
+oxycodone prn
+pa/lat impression
+pap
+patchy areas
+patient comfort
+patient s baseline
+patient s pain
+pauses
+peripheral dopamine
+pivs
+pleural fluid cytology
+pneumonic infiltrate
+podxx
+portal veins
+positive stool
+posterior wall
+pravastatin
+prbc s
+preliminary report
+prior baseline
+prior chest radiograph
+pt s hct
+qrs
+r side
+radiopaque foreign body
+rheumatoid arthritis
+right cephalic vein
+right heart catheterization
+right lung field
+right pleural effusions
+right pulmonary artery
+risperdal
+rsr pattern
+scar
+showed
+si
+single lumen
+slowing
+small region
+soft diet
+soft tissue mass
+stable bp
+stenotrophomonas
+step
+steroid use
+subcortical dysfunction
+superinfection
+superior aspect
+superior svc
+switch
+thigh
+thin liquid
+torso ct
+tract
+upright radiograph
+uri symptoms
+uric acid
+utility
+valve area
+vecuronium
+veins
+viral pneumonia
+vitamin
+wakefulness
+white blood cell count
+x x liters
+x x supervision
+xx xxam blood plt ct xxx xx xxam blood pt xx.x ptt xx.x inr
+xx/x
+xxcc
+xxx xl
+y stent
+abnormal video eeg study
+accumulation
+acute flare
+acute fractures
+acute sinusitis
+adequate position
+albuterol/ipratropium nebs
+allergic reaction
+allergies
+anxiety w/haldol
+apical akinesis
+apical area
+atelectases
+axc
+background activity
+basilar opacification
+biliary ductal dilatation
+bony
+brachial veins
+breast
+bronchi
+c/w cad
+c/w pna
+calf veins
+chemistries
+clavicle
+clopidogrel
+co
+collaboration
+complete occlusion
+cord
+current presentation
+decortication
+definite fracture
+degenerative change
+depressions
+dilantin level
+distal half
+docusate
+dominant vessel
+doppler parameters
+empiric therapy
+empiric vancomycin
+encephalopathies
+end diastolic
+ertapenem
+ethmoid air cells
+family discussion
+feces
+first set
+floor transfer
+free water restriction
+full xx day course
+gb
+gj tube
+gradual improvement
+h. pylori
+high dose
+histiocytes
+home bp meds
+idea
+incidental finding
+intravascular volume depletion
+ischemic event
+iv fluid boluses
+l arm
+lafb
+left ankle
+left base consistent
+left subclavian catheter
+left upper lobe opacity
+left ventricular configuration
+leg swelling
+likely contaminant
+likely sepsis
+limited visualization
+low doses
+low salt
+marked cardiomegaly
+mediastinal fat
+medication changes
+metoprolol xxmg tid
+mg x.x
+mild moderate mitral regurgitation
+mild pulmonary congestion
+minimal left pleural effusion
+mitral annular calcification
+mitral annulus
+moderate bilateral pleural effusion
+moxifloxacin
+much improvement
+mucus plug
+multiple pulmonary nodules
+myocardial ischemia
+nad
+new abnormalities
+new finding
+new ox requirement
+nights
+nightsweats
+obesity
+other issues
+outpatient basis
+overall improvement
+oversedation
+packed red blood cells
+past few months
+past several days
+patchy area
+patient s family
+patient s mental status
+pericardial effusions
+peritoneal dialysis
+peritoneum
+permanent pacemaker
+pet ct
+phlegmon
+phos
+picc terminates
+plt count
+pmns
+pneumonia/aspiration
+po s
+poor po intake
+presumed sepsis
+prior asbestos exposure
+prozac
+psv
+pulmonary artery pressures
+pulmonary metastases
+pulmonic regurgitation velocity
+radiation oncology
+recent gi bleed
+recheck
+red blood cells
+redness
+renal cell carcinoma
+repeat ct chest
+repeat ercp
+respiratory compensation
+rhc
+right b/l
+right eye
+right frontal
+right maxillary sinus
+right pneumonectomy
+run
+septic picture
+severe degenerative changes
+significant pleural effusion
+similar findings
+single portable chest radiograph
+single portable view
+small component
+sources
+st t wave changes
+standing
+stim
+stress dose
+structure
+subsequent areas
+tbili x.x
+thyroid ultrasound
+toprol xl xxmg
+trace ascites
+trach placement
+tracheal deviation
+tracheobronchomalacia
+treat
+upper zones
+urination
+vocal cords
+x basos x
+xlns
+xnd
+xu plts
+xx.x bands
+acute abnormalities
+acute event
+acute osseous abnormalities
+acute renal failure patient
+advice
+afterload
+appropriate increase
+asbestos exposure
+b/l effusions
+balloon pump
+basal opacity
+baseline dementia
+baseline x.x x.x
+basilar consolidation
+biatrial enlargement
+bibasal
+bilat pleural effusions
+bilateral consolidations
+bilateral patchy
+biliary obstruction
+bloody secretions
+bowel wall thickening
+breast cancer
+calcitonin
+cardiac contour
+cardiac tamponade
+cardiogenic pulmonary edema
+causes
+ccu team
+chem
+chest cta
+ck xxxx
+ckmb
+collections
+confluent
+contrast medium
+cords
+cover
+cp/sob
+ct c spine
+cxr improvement
+cxr persistent mod pl effusions
+deep suctioning
+densities
+dic labs
+distal portion
+doppler son
+drinking
+duodenal ulcer
+dye load
+dyspneic
+early morning
+elevated jvp
+endobronchial lesion
+enteric tube
+etc.
+ex lap
+expansion
+fissure
+floor course
+flu swab
+fluid bolus
+foods
+form
+functional status
+further eval
+further interventions
+further investigation
+fvc
+galactomannan
+gravity
+h/o chf
+haloperidol
+hcts
+hdxx
+head mri
+hep c
+hepatitis panel
+hgb xx.x
+high dose statin
+hilar lymph nodes
+home dosing
+home statin
+hpi denies headache
+humeral head
+ij catheter
+ingestion
+ipratroprium
+iv hydralazine
+iv levofloxacin
+l nc
+large hematoma
+large retrocardiac opacity
+lasix prn
+left pleural effusions
+left portal vein
+lij
+likely combination
+likely explanation
+low density
+low sodium
+lymph node
+lytic lesion
+major vascular territorial infarct
+margin
+mechanism
+mediastinal drain
+medical condition
+medical renal disease
+metabolic
+metal stent
+mg po tid
+mild aortic stenosis
+mild pulmonary vascular engorgement
+mixed picture
+mtx
+mucus plugging
+nodularity
+normal microcy
+normal mra
+normal polychr
+occasions
+other considerations
+pain service
+palliative care team
+patent foramen
+patient s antibiotics
+patient s condition
+patient s foley
+paxil
+physicians
+picc line tip
+plasmapheresis
+pleural drain
+pleurodesis
+poor study
+positive pressure ventilation
+possible etiology
+possible retrocardiac opacity
+preliminary read
+presumed aspiration pna
+previous history
+primary care provider
+prior echo
+proximal lad
+pt xx.x ptt xx.x inr
+pulmonary consolidation
+pulmonary emboli
+rapid ventricular rate
+recurrent fevers
+reflection
+renal recs
+repeat cxrs
+repeat echocardiogram
+rul pneumonia
+s/s
+sagittal images
+sarcoid
+serial hct
+serial hcts
+several occasions
+severe mr
+severe sepsis
+shoulders
+sig
+significant pulmonary edema
+signs/symptoms
+simple commands
+simple cyst
+single lead
+slight prominence
+small cell lung cancer
+soft tissue edema
+sotalol
+specific st t wave abnormalities
+spirometry
+sputums
+st segment depressions
+standard pa
+std
+stool clostridium difficile toxin
+subtle opacity
+terazosin
+tip projects
+tissue diagnosis
+tmax
+top normal heart size
+trach tube
+tracheomalacia
+trali
+tranfer
+traumatic injury
+trazadone
+ulceration
+unclear significance
+upper endoscopy
+upper gi
+venti mask
+vit d
+weights
+wide complex tachycardia
+widespread encephalopathy
+word
+x l ivf
+x views
+x x hours
+x.x baso x.x xx xxam blood neuts
+x.xl ns
+xx kg
+xx x.she
+xxx cc/hr
+xxxcc ns
+abcess
+abx course
+aerobic bottle
+afib patient
+afp
+aha endocarditis prophylaxis recommendations
+air hunger
+amiodarone xxxmg
+angioedema
+anzemet
+applesauce
+appropriate bump
+asa xxmg
+aspirate
+basilar artery
+benign
+biapical pleural thickening
+bibasilar opacity
+bilateral patchy opacities
+blood clots
+blood cxs
+brain mets
+brief period
+bx
+calcium acetate
+chance
+cirrhotic liver
+comment
+complete assessment
+constant position
+continued management
+contrast impression
+cre
+ct imaging
+deficiency
+deficits
+definite
+depressed mental status
+diffuse opacification
+diuretic regimen
+drips
+dual chamber pacemaker
+duodenitis
+enlarged cardiac silhouette
+feedings
+first x days
+fluoroscopy
+followup imaging
+free wall thickness
+fs qid
+further evaluate
+further managment
+gastroenterology
+girlfriend
+gross evidence
+healing
+heart rates
+herpes
+high flow oxygen
+hip pain
+home settings
+hpi denies night sweats
+hydroxyurea
+hypodensities
+immobility
+immunostains
+impression pa
+incontinent
+index
+inh
+intensity
+internal jugular line
+interview
+intrahepatic biliary dilatation
+joint space
+junctional rhythm
+k x.x cl xxx hcox xx angap xx xx xxam blood
+kcl
+laboratory data
+large r
+later date
+lateral walls
+left anterior fascicular block
+left apical pneumothorax
+left frontal
+left picc line tip
+left subclavian vein
+left temporal region
+level x
+likely demand
+likely post
+liver function
+load
+low concern
+many years
+marked elevation
+marked increase
+massive aspiration
+mediastinal vasculature
+meningioma
+metoprolol succinate
+mitral prosthesis
+moderate degenerative changes
+moderate mr
+mosaic appearance
+multiple discussions
+mvr
+negative
+ng tube placement
+nitroglycerin
+non productive cough
+normal lvef
+normal major papilla
+noxious stimuli
+nuclear report
+nutrition patient
+occasion
+omr notes
+oriented x x
+orthostasis
+overt failure
+oxsat xxx
+pain meds
+paroxysmal afib
+pathology report
+patient s blood sugar
+patient s wishes
+perfusion defect
+peripheral neuropathy
+persistent enlargement
+planned xx day course
+plaquenil
+portable chest
+possible component
+possiblity
+prevention
+prior admissions
+prior ct.
+prior films
+provided history
+pulmonary exam
+pulmonary function
+purees
+qt
+recent discharge
+regurgitation
+renal fellow
+retraction
+retropulsion
+reveals
+right central venous access line
+right common femoral vein
+right hilar mass
+s/p extubation
+saturday
+seminal vesicles
+severe encephalopathy
+severe mitral regurgitation
+significant diagnostic change
+sphenoid sinuses
+stable bilateral pleural effusions
+stable mild cardiomegaly
+stable r
+sternotomy
+substantial decrease
+substantial volume loss
+supine positioning
+symmetric left ventricular hypertrophy
+systolic bp
+thickened liquids
+thoracocentesis
+tibc
+tox
+u prbc
+u/s limited exam
+uti patient
+valves
+vanc/levo
+vascular disease
+velocities
+venodyne boots
+vent support
+ventricular aneurysm
+ventricular diastolic dysfunction
+ventricular pacing
+w/o complication
+weight change
+wound infection
+x ar
+x bottles
+x hrs
+x piv
+x pivs
+x pressors
+x years
+x.xx/xx/xxx
+xdays
+xgm
+xl nasal cannula
+xvd
+xx ck
+xx.pt
+xxxmg iv
+absent
+abuse
+abx regimen
+active bleed
+acute bleeding
+acute stroke
+adhesions
+albuterol inhaler
+albuterol prn
+alendronate
+amiodarone gtt
+amounts
+anemia iron studies
+apparent flow
+appreciable right pleural effusion
+appropriate treatment
+arteries
+asa xx
+associated compressive atelectasis
+asymmetrical pulmonary edema
+av
+avnrt
+bactrim ppx
+bal sent
+behavior
+bibasilar opacification
+bilat effusions
+biopsy results
+bipap overnight
+bipolar disorder
+blanket
+bmt
+c collar
+calorie counts
+car
+cardiac cath.selective coronary angiography
+cardiac shadow
+care patient
+carinii
+central pulmonary vessels
+central venous pressure
+cephalic veins
+chest tightness
+chronic diastolic chf
+ck xx
+clinical decisions
+comminuted fracture
+coronary disease
+cortex
+cozaar
+crf
+cross sectional imaging
+csf cultures
+ct a/p
+ct chest w/o contrast
+ctx/azithro
+cxr cardiomediastinal contours
+cxr endotracheal tube
+debris
+deconditioning
+dense opacification
+dependent atelectasis
+devices
+diagnostic change
+dm pt
+doppler u/s
+droplet precautions
+drug effect
+dual chamber
+dvt/pe
+echocardiographic data
+elbow
+elevated central venous pressure
+empiric flagyl
+evenings
+examinations
+expected course
+extraction
+extrinsic compression
+fen tube feeds
+fena x
+fever curves
+final internal length
+finasteride
+first night
+flash
+flu shot
+focal basal
+fondaparinux
+further seizures
+gallbladder sludge
+gaseous distention
+gi source
+gpr
+group
+h/h
+hematologist
+hemoconcentration
+hemoperitoneum
+high wbc
+home medication
+hyperdensity
+hypertonic saline
+hypoxic respiratory distress
+i.e
+identification
+ij line
+image quality
+impression interval development
+increased opacities
+infectious consolidation
+initial vital signs
+interstitial prominence
+interventricular septum
+inversion
+ischemic bowel
+iv protonix
+joint space narrowing
+left axilla
+left basal atelectasis
+left cp angle
+left lateral ventricle
+left ventricular hypertrophy
+likely prerenal
+lima
+loop
+lordotic positioning
+lx lx
+lymphs x monos x
+ma
+macrophages
+medical advice
+medication list
+meld
+micu service
+micu transfer
+mild cough
+mild failure
+mild tr
+minimal bibasilar atelectasis
+minimal exertion
+mitral regurgitation jet
+moderate degree
+moderate encephalopathy
+moderate tortuosity
+mucosal
+nasal swab
+nebulizer
+nephrostomy tube
+new leukocytosis
+new pna
+new twi
+nitrite neg protein xxx
+nonspecific finding
+normal heart size
+normal study
+nrb mask
+ok
+op day
+osh ed
+paced rhythm
+pacemaker leads
+pacs
+pain regimen
+painful stimuli
+paralytics
+patient s hypoxia
+patinet
+peg site
+peri
+perihilar edema
+peritonitis
+persistent opacity
+pleuritic pain
+pmv
+pneumocystis jirovecii
+po qd
+positive cultures
+pr
+prbc transfusion
+prbc transfusions
+pres
+pressure support ventilation
+previous mild pulmonary edema
+prostate cancer
+psc
+pulmonary pressures
+purpose
+qid fingersticks
+r xx
+reevaluation
+repeat cultures
+repeat speech
+resp failure
+restricted diffusion
+retrocardiac opacification cxr
+reversal
+rib pain
+right perihilar opacity
+right subclavian picc line
+right thigh
+rij line
+rml consolidation
+s condition
+sbp prophylaxis
+septic joint
+serial abgs
+serum creatinine
+significant mass effect
+slight blunting
+slow improvement
+small left apical pneumothorax
+speech swallow
+stent restenosis
+strep
+strep pneumo
+subcortical structures
+subjective fevers
+t xx
+tendency
+tenuous respiratory status
+therapeutic level
+thoracic vertebral body
+thyroid nodule
+tibia
+tlc
+transplant kidney
+tube projects
+type art pox xxx pcox xx ph x.xx
+unchanged borderline size
+unclear cause
+urean x creat x.x
+urine tox
+value
+valvuloplasty
+visible pneumothorax
+wheeze
+x colony types
+x hz
+x lymphs x.x monos x.x
+x.it
+xrd
+xx mid
+xx xxam blood
+xx.patient
+xxxcc ivf
+xxxs systolic
+yellow sputum
+zocor
+abd/pelvis
+abnormal routine eeg
+acute cardiopulmonary abnormalities
+acute coronary syndrome
+admission pt
+ampulla
+amputation
+anatomy
+anemia baseline hct
+ankles
+anti gbm
+appendix
+asa xxx mg
+atrovent nebulizers
+av block
+b/l infiltrates
+bactrim ds
+bedside ultrasound
+bibasilar areas
+bifurcation
+bilateral airspace opacities
+bilateral multifocal opacities
+blastic lesions
+bronchoalveolar lavage
+c spine mri
+c/o
+cardiac contours
+cardiac issues
+cavity
+central access
+central pulmonary vasculature
+chf findings
+ciwa protocol
+clean coronaries
+colon cancer
+complaining
+contact precautions
+contraindications
+core biopsy
+crit
+csa
+csru
+ct chest/abd/pelvis
+ct face
+ct scans
+ct spine
+cts
+decreased urine output
+definite vascular congestion
+dense retrocardiac opacity
+diastolic function
+difficult access
+dilution
+disorganized background
+distal septum
+distal ureters
+dobbhoff
+dopplers
+drainage catheter
+duodenum recommendations
+dysarthria
+echogenic liver
+ed prior
+ed stay
+egd findings
+ethmoid
+exclusion
+exploration
+extensive consolidation
+extensive work
+external auditory
+facial droop
+family reports
+fat deposition
+febrile neutropenia
+few doses
+final diagnosis.three vessel
+flexed position
+frank blood
+friend
+frontal radiograph
+granulomatous disease
+haart therapy
+head ct.
+heme onc
+hemodialysis catheter
+hemodynamic compromise
+hemodynamic stability
+hilar silhouettes
+hiv test
+home lasix dose
+hr control
+hrxx
+hypoxemic respiratory failure
+i d
+id service
+ij catheter tip
+impression.endotracheal tube
+improved ventilation
+inferior margin
+inflammatory changes
+infrahilar opacity
+initial ekg
+inrs
+insulin ss
+interpolar region
+intoxication
+intraventricular thrombus
+irregularity
+iv boluses
+ivf s
+labored breathing
+labs wbc x.x
+large areas
+large effusions
+lasix boluses
+left hand
+left hemisphere
+left pectoral pacemaker
+left upper chest
+legal guardian
+lieu
+likely aspiration pneumonia
+likely present
+likely pulmonary edema
+linear lucency
+loculated effusion
+low grade temperature
+lyrica
+lysis
+machine
+maculopapular rash
+maintenance dose
+major vascular territorial infarction
+margins
+mediastinal hematoma
+medical issues
+mid trachea
+mid vessel
+mid xx
+midline sternotomy wires
+mild degenerative changes
+mild global right ventricular
+mild respiratory distress
+mitral valve chordae
+mitral valve replacement
+mixed bacterial flora
+mmhg
+moderate aortic stenosis
+moderate pericardial effusion
+morphine prn
+movements
+mrsa bacteremia
+multifocal airspace opacities
+multifocal consolidation
+multiple rib fractures
+mycoplasma
+myelodysplastic syndrome
+near akinesis
+necessity
+negative hbcab
+negative lenis
+new parenchymal infiltrates
+next x x weeks
+non contrast ct
+nondisplaced fracture
+normal esophagus
+normal rate
+note patient
+oriented xx
+orif
+oropharynx
+other abnormalities
+other hand
+other significant change
+outpatient pcp
+outpt regimen
+overdose
+pacer placement
+pan cx
+pathologic flow
+patient s cr
+pcr
+pelvic ultrasound
+perihilar haze
+persistent atelectasis
+phosphate
+polypectomy
+portable ap radiograph
+possibilities
+possible copd exacerbation
+possible need
+possible right
+prn ativan
+probable small bilateral pleural effusions
+probable small right pleural effusion
+probnp
+pth
+pud
+pulses
+pvcs
+r base
+r knee
+r ptx
+rebreather
+remains
+renal etiology
+resp
+respiratory arrest
+rib
+right atelectasis
+right atrial pressure
+right jugular line projects
+right lung consolidation
+right subclavian infusion port
+routine final inpatient
+sbt
+severe scoliosis
+sided effusion
+significant ascites
+significant secretions
+silhouetting
+sinus tachy
+sirs criteria
+small circumferential pericardial effusion
+space
+sputum samples
+st t wave abnormalities
+steri strips
+subsequent blood cultures
+systolic heart failure
+teeth
+thyroid function tests
+tip x.x cm
+tm
+toradol
+tracheobronchitis
+triple lumen
+tube feeding
+tx vertebral bodies
+ulcerative colitis
+unchanged exam
+unresponsiveness
+upper range
+upright ap view
+urgent dialysis
+vancomycin iv
+vascular structures
+ventral hernia
+w/o evidence
+w/pt
+wall motion abnormality
+worsening diffuse
+wound care nurse
+x lymphs xx monos xx
+x.x baso x.x xx xxpm blood pt xx.x ptt xx.x inr
+xl fluid
+xx pm sputum site
+xxx urean xxx creat x.x
+abdomen/pelvis
+abdominal wound
+above findings
+active diuresis
+acute intrathoracic abnormality
+acute respiratory failure
+additional details
+additional dose
+additional x days
+adequate pain control
+advance
+afib w/rvr
+aggitation
+alcoholism
+anaerobic culture
+appropriate setting
+arrangements
+arrhythmias
+atypical pna
+baseline anemia
+bear hugger
+bone destruction
+borderline normal free wall function
+cad patient
+cardiac disease
+cardiologist dr.
+caution
+cell lines
+central airways
+chb
+chronic inactive colitis
+chronic obstructive pulmonary disease
+clear lung fields
+cmo status
+code stroke
+coli
+colostomy
+common hepatic duct
+communication son
+communication wife
+confluent opacities
+continued clinical concern
+continued monitoring
+continuous tube feeds
+conventional radiographs
+costophrenic sulci
+crystals
+culture results
+dah
+decisions
+difficult study
+direction
+discrete vegetation
+disruption
+distal anterior wall
+distal tibia
+doxazosin
+dry mouth
+early sepsis
+ecg sinus tachycardia
+effacement
+egd/colonoscopy
+eia
+electrical cardioversion
+elevated right
+elevated troponin
+elevated troponins
+endocrinologist
+erythromycin
+examination followup
+extreme right apex
+faint
+fat
+father
+fecal incontinence
+fena x.x
+fever/leukocytosis
+fevx
+final inpatient
+final results
+findings lung volumes
+first part
+flora
+focal parenchymal opacity suggestive
+frank pulmonary edema
+free intra abdominal air
+full liquids
+full strength
+further issues
+g csf
+gallstone
+genu
+gi team
+goiter
+good evidence
+good oxygen saturation
+h/o cad
+hazy opacities
+head.no evidence
+hf
+home advair
+home services
+hypercapnea
+igg
+imaged portions
+improved oxygenation
+instruction
+interrogation
+interstitial infiltrates
+intra aortic balloon pump
+intrahepatic biliary ductal dilatation
+intrinsic right ventricular
+isosorbide
+isosorbide mononitrate
+iv lasix xx
+joint pain
+large doses
+laryngoscopy
+le doppler
+lead tips
+left basilar opacity
+left internal carotid artery
+left lateral orbit
+left mandible
+left retrocardiac density
+leftward shift
+leukemia
+levofloxacin xxx mg iv x x
+levophed drip
+lh
+liquid
+lisinopril xxmg
+liver biopsy
+lobe consolidation consistent
+lovenox bridge
+low clinical suspicion
+low xxx s
+lung pneumonia
+lyme
+mechanical fall
+methicillin
+metoprolol tartrate
+miconazole powder
+mid esophagus
+mild nausea
+moderate tr
+monitor lytes
+multiple cultures
+mvp
+neurology consult
+new fever
+new opacification
+new oxygen requirement
+new regimen
+nipple shadow
+normal cardiomediastinal silhouette
+normal macrocy
+normal position
+normal sinus
+nutritional support
+op flora
+oral agents
+oral levofloxacin
+oral secretions
+other cultures
+outpatient f/u
+ox sat xx
+ox xx
+pain pt
+parasites
+parenchymal scarring
+partial resolution
+patient s course
+pda
+pedal edema
+peribronchial opacification
+periventricular
+persistent collapse
+platelet transfusions
+pleurex catheter
+plugging
+pmr
+po lopressor
+portable ap view
+possible sources
+posterior walls
+ppx bowel regimen
+predominance
+present bibasilar consolidations
+present study
+presumed cap
+presumptive identification
+previous mri
+prolonged intubation
+prominent interstitial markings
+proximal femur
+psychiatric medications
+psychosis
+pt afebrile
+pulmonary rehab
+qtc interval
+recent chest radiograph
+recurrent infection
+recurrent utis
+regular floor
+regular rhythm
+remission
+required pressors
+residual edema
+respiratory variation
+right basilar consolidation
+right mid zone
+right portal vein
+right upper zone
+rml pna
+rr xxs
+rupture
+s time
+sbp xxs
+scrotal edema
+sediment
+significant abnormalities
+similar position
+similar symptoms
+single ap upright portable view
+soft tissue opacification
+speaking
+stable cxr
+stable moderate cardiomegaly
+stimulation
+story
+strain
+streaky density
+subluxation
+subq heparin
+subsegmental branches
+subsequent cxrs
+succinylcholine
+sunday
+surgical service
+swallow team
+swallowing
+t spine
+therapeutic paracentesis
+thickened.the mitral valve leaflets
+threshold
+time dose
+toilet
+total body
+transferrin
+transthoracic
+trops
+tunneled line
+ultrasound impression
+una xx
+unchanged cxr
+unknown chronicity
+upper airway
+upwards
+ursodiol
+vanc/cefepime/flagyl
+variability
+vascular catheter
+venous catheter
+versus
+wbc x
+white blood count
+widespread pneumonia
+wob
+x episode
+x gnr
+x.right ventricular chamber size
+x.x mm
+x.x x x.x
+x.x.he
+x.xx/xx/x.she
+xd echo
+xmg ativan
+xunits
+xx degrees
+xx seconds
+xx.this
+xxg piv
+xxmm
+zone redistribution
+/
+accessory muscle use
+action
+active disease
+acute infiltrates
+acute injury
+adequate urine output
+advanced liver disease
+aflutter
+age indeterminate
+air bronchogram
+akinesis/aneurysm
+aline
+alkaline phosphatase
+alveolar infiltrate
+anterior leads
+antigen
+ascitic fluid
+aspirin xxx
+associated pleural effusion
+ast/alt
+asystole
+atelectasis/consolidation
+atherosclerotic changes
+atypical cells
+axillary lymphadenopathy
+bilateral costophrenic angles
+bilateral patchy infiltrates
+blood draws
+blood glucose levels
+brain atrophy
+bronchovascular crowding
+bronchus
+cane
+ceftriaxone/azithro
+central pulmonary arteries
+characterization
+chf pt
+chronic process
+ck s
+clinical diagnosis
+clinical impression
+code sepsis
+codeine
+colonial morphologies
+compartment syndrome
+consent
+cryptococcal antigen
+ct.no evidence
+cta head
+cvp xx
+cxr ap chest
+d/c summary
+decompensated chf
+deep breaths
+density values
+diffuse disease
+diffuse opacities
+dislocations
+distal aspect
+drowsy states
+drug toxicity
+dyslipidemia
+ed staff
+esophagogastric junction
+everything
+explanation
+extensive areas
+extra hepatic biliary ductal dilatation
+extremity ultrasounds
+exudative effusion
+fast culture
+fear
+final dose
+fluid levels
+fluid retention
+followup radiograph
+frank consolidation
+frequent episodes
+full dose
+gait unsteadiness
+gallbladder fossa
+gentle hydration
+gentle ivf
+gi consult
+good urine
+grade ii varices
+heel
+hematocrit drop
+hida
+high density material
+high grade stenosis
+hilar adenopathy
+hiv/aids
+home hospice
+home lantus
+hydrochlorothiazide
+hyperbilirubinemia
+hypercapnia
+hypothyroidism patient
+ica stenosis
+impression improvement
+impression.interval improvement
+increased interstitial markings
+infectious cause
+infectious disease team
+infectious diseases
+inferolateral akinesis
+inflammatory
+infxn
+inguinal lymphadenopathy
+initial exam
+inr checks
+inspiratory effort
+institution
+interlobular septal thickening
+interval enlargement
+intra abdominal ascites
+invasion
+ischemic cardiomyopathy
+iv x x
+k x
+knee pain
+large volume
+lasix xxmg iv xx
+last check
+lateral upright chest radiographs
+layering
+le dopplers
+leads i
+left hilum
+left temporal lobe
+left upper
+likely terminating
+lisinopril x
+little effect
+lobe collapse and/or consolidation
+lobectomy
+lots
+lunch
+massive cardiomegaly
+meantime
+mesentery
+methotrexate
+mild global hypokinesis
+mild hypoxia
+mild retrocardiac atelectasis
+minor atelectasis
+mitral valve annuloplasty ring
+mucosal thickening
+multifocal bilateral pneumonia
+multiple lines
+multiple opacities
+mwf
+nephew
+neuropathic pain
+neutropenic fever
+new mild pulmonary edema
+new parenchymal opacities
+new pulmonary edema
+nitrites
+nosocomial pneumonia
+note pt
+numbness/tingling
+obliquity
+operative changes
+oral flora
+oral lasix
+other antibiotics
+outpatient appointment
+outpatient oncologist
+ova
+overt signs
+oxacillin
+parenchymal abnormalities
+parents
+partial sbo
+past x x days
+pathologic enlargement
+pea
+pericardial window
+permanent pacer
+persistent bibasilar atelectasis
+persistent fever
+phlebotomy
+plt xx
+pod x pt
+pod.he
+pons
+poor respiratory status
+portable abdomen
+positional differences
+positions
+possible etiologies
+possible left
+preserved global biventricular
+presumed vap
+previous admissions
+previous hospitalization
+prior chest ct
+probable pneumonia
+prolonged period
+prolonged qt
+propensity
+proteus mirabilis
+protonix gtt
+psych meds
+pt s daughter
+ptc
+pulmonary interstitial markings
+pulmonary issues
+pulmonary source
+qx
+rad
+rapid rate
+rapid resolution
+reactive airway disease
+recent chest ct
+recent cxr
+reinitiation
+renal masses
+renal stone
+repeat film
+repositioning
+respiratory failure patient
+respiratory support
+retrocardiac opacity consistent
+retroperitoneal bleed
+retrospect
+right axis deviation
+right central catheter tip
+right coronary artery
+right hand
+right internal carotid artery
+right internal jugular approach
+right minor fissure
+right rib fractures
+rul pna
+rv chamber size
+s mental status
+sbp xx s
+scans
+session
+severe tr
+showed resolution
+side effects
+sided pacemaker
+signal abnormality
+significant leukocytosis
+sizeable pleural effusion
+slow wave discharges
+small dose
+small left pneumothorax
+sodium bicarbonate
+sodium levels
+soft foods
+solumedrol xxxmg
+something
+speech/swallow
+ss insulin
+ssri
+stable b/l effusions
+stable right
+status post cholecystectomy
+stool samples
+subclavian central venous catheter
+subsegmental level
+swallow assessment
+symptom
+systolic chf
+tear
+total body volume
+total cox xx anion gap xx xx xxam
+towards
+tracheostomy tip
+trans
+transudative effusion
+transvenous right atrial pacer
+upon admission
+upper chest
+ureters
+urinary incontinence
+usual state
+valvular pathology
+ventricular response
+viral gastroenteritis
+viral syndrome
+vzv
+wall thickness
+x xmmhg
+x xx mmhg
+x.code status
+x.x l ns
+xanax
+xopenex
+xx cc
+xx fm
+xx months
+xx polys
+xx sats
+xx xx mmhg
+xx.x xx.x
+xxmg lasix
+xxx cc ns
+xxx range
+xxx.he
+active type
+acute intervention
+acute intracranial abnormalities
+acute ischemic changes
+acute rehab
+adequate oxygenation
+alcoholic hepatitis
+anxiety disorder
+aortic tortuosity
+ap window
+apical pleural tube
+asbestos
+aspergillus
+association
+asymmetrical edema
+atelectasis/collapse
+avm
+baseline xx xx
+basilic veins
+beats
+bibasilar opacifications
+bicarb gtt
+bilateral eff
+bilateral lung bases
+bilateral perihilar
+biomarkers
+bioprosthetic mitral valve prosthesis
+bites
+blocker
+bmbx
+bowel ischemia
+breakthrough
+broad antibiotics
+c diff toxin
+c/w volume overload
+calcified pleural plaques
+cap coverage
+cardiac catheterization.selective coronary angiography
+cardiogenic edema
+cephalad
+cerebellum
+chads score
+checks
+chronic findings
+chronic steroid use
+circumflex
+clock
+closure
+cns infection
+color flow
+company
+comparisons
+complete evaluation
+complete heart block
+concurrent
+contrast administration
+contrast.no evidence
+ct angiogram
+ct scanner
+cuff leak
+cxr bilateral pleural effusions
+dabigatran
+dark
+dc d.
+decompensated heart failure
+decreased po
+degree heart block
+dextrose
+dicharge
+diff toxin
+diffuse airspace process
+diffuse ground glass opacities
+diffusion abnormalities
+dilated.left ventricular wall thickness
+distal fibula
+dts
+dual channel
+ductal dilatation
+ekg sinus tachycardia
+electrophysiologic evidence
+endocrinology
+enemas
+entirety
+etoposide
+extra hepatic biliary dilatation
+extremity dopplers
+extremity weakness
+fall precautions
+fen cardiac diet
+filling
+first week
+first xx hours
+flat ck
+floor team
+fluid challenge
+fluid culture
+focal opacification
+focality
+free intraperitoneal gas
+friends
+frontal lobe
+full details
+further antibiotics
+further assess
+further recovery
+g j tube
+gallbladder wall thickening
+gastric distention
+gastroenteritis
+general anesthesia
+good pain control
+gross hematuria
+guaiac stools
+gvh
+hcap coverage
+hd patient
+hepatologist
+hgb
+hiatus hernia
+high fever
+high peep
+high right atrial pressure
+hilar lymph
+hives
+hsq
+hypernatremia patient
+hyponatremia patient
+i doubt
+igm
+ild
+ileostomy
+impression moderate
+incarceration
+increased retrocardiac density
+inferior
+inferoseptal wall
+infrahilar consolidation
+inguinal hernia
+inhaled steroids
+integrillin
+interval recurrence
+intra abdominal loops
+ischemic change
+iv bid
+jaw
+kerley b lines
+known cirrhosis
+kyphosis
+lab results
+lab values
+lansoprazole
+lateral film
+ldl
+left lung bases
+left upper abdomen
+leukocytosis patient
+levofloxacin xxx mg
+levophed gtt
+lidocaine
+lidoderm patch
+likely culprit
+limited assessment
+liquid diet
+liver function tests
+ll
+lobe pna
+loculated pleural fluid
+low xx s.
+ltac
+lung vol
+lung volume
+macrobid
+main pulmonary arteries
+major branches
+mastoiditis
+mediastinal
+mediastinal venous engorgement
+mediastinal vessels
+medical care
+medical regimen
+medical therapy
+meningismus
+microbiology blood culture
+mild transaminitis
+mini bal
+minimal fluid
+minimal pleural effusion
+minimal secretions
+mitral leaflets
+moderate bacteria
+moderate thickening
+montelukast
+mucoid impaction
+multisystem
+nchct
+neb treatments
+neck ct
+needle aspiration
+negative fluid balance
+neurosurg
+new lung opacities
+ng tube passes
+nipple markers
+nonspecific
+normal levels
+normal tsh
+notdone ctropnt x.xx xx xxpm blood ck
+nursing facility
+nutrition pt
+nystatin
+op course
+opioids
+ostomy output
+other etiology
+other ros
+other times
+outpatient work
+oxsat xx ra
+pa catheter
+pa pressures
+pacemaker placement
+packed red cells
+pancreatic tail
+parenchyma
+paroxetine
+past few weeks
+patchy retrocardiac opacity
+path
+pathologic fracture
+patient self
+pelvis port
+peribronchial cuffing
+persistent small bilateral pleural effusions
+pes
+petechiae
+plaque
+pleural air
+pneumo
+po dilaudid
+poor compliance
+poor inspiration
+poor response
+porta hepatis
+portable ap chest
+portal gastropathy
+possible contribution
+pre renal
+prelim report
+prescribed
+previous image
+primary pulmonary process
+prior ekg
+prior tracing
+procrit
+prostate gland
+protein xx
+proximal stenosis
+pt s bp
+pt s son
+pullback
+pulmonary vascular
+pureed
+pvr
+qtc xxx
+radiographic appearance
+rare gram
+reasons
+recent hospitalizations
+recent illness
+rectal
+recurrent aspiration
+regular solids
+residual
+respiratory complaints
+respiratory flora
+rhabdo
+right axilla
+right central catheter
+right central venous line
+right lateral ventricle
+right main stem bronchus
+right portal veins
+right shunt
+right upper abdomen
+right upper extremity dvt
+right upper lobe collapse
+risperidone
+romi
+s office
+sac
+sbp ppx
+secretion
+selective coronary angiography
+sequence
+serologies
+serotonin syndrome
+severe consolidation
+severe global right ventricular
+short period
+sided central venous catheter
+significant valvular abnormality
+significant valvular disease
+simethicone
+simple cysts
+size.left ventricular wall thicknesses
+sle
+small hematoma
+small lung volumes
+small persistent
+small right pleural effusion persists
+small size
+smv
+squamous cell carcinoma
+steroid therapy
+stimuli
+straw
+streaky opacities
+suboptimal study
+swallow consult
+synthetic function
+tach
+temp xxx.x
+temporal lobes
+thighs
+toxic megacolon
+trace ketones
+tracheal stent
+tracheoesophageal fistula
+transfuse
+transient episode
+trivial mitral stenosis
+tv
+type x dm
+underlying cause
+underlying mass
+upright portable chest radiograph
+upright portable view
+urine blood sm
+urine blood tr
+v tach
+v/q
+vac dressing
+valve area x.xcmx
+vanco/levo/flagyl
+vancomycin trough
+ventilator support
+ventricular pacer leads
+vocal cord paralysis
+volume removal
+volume repletion
+vomitting
+wall hypokinesis
+wards
+wedge resection
+white sputum
+x additional days
+x pt
+x xx days
+x.full code
+x.no growth
+x.on
+x.the left atrium
+x.xl ivf
+x.xx/xx/xx/xx
+xd echocardiography
+xx urean xx creat xx.x
+xx wbcs
+xx xlnc
+xxcm
+xxkg
+xxmg po lasix
+xxmg x x days
+xxxcc uop
+xxxs/xxxs
+xxxx hours
+.endotracheal tube
+.no evidence
+ab
+abdominal ascites
+abdominal/pelvic ct
+abnormal continuous icu monitoring study
+abx treatment
+acute chf exacerbation
+admission cxr
+air leak
+amitriptyline
+anaerobic bottle
+angiographic evidence
+anterior segment
+apical portion
+apical segments
+aranesp
+arm pain
+ascending aorta
+atherosclerosis
+atrial fibrillation pt
+atrial pacing
+axr
+background rhythm
+bal cultures
+baseline cr x.x
+beta glucan
+bigeminy
+bilateral ground glass opacities
+bilateral low lung volumes
+biliary sludge
+bmt floor
+bowel wall
+brain mri
+calcified granuloma
+calcium carbonate
+cardiac medications
+care discussion
+caspo
+cell count
+chem xx
+chronic kidney injury
+cisterns
+clavicular fracture
+clear signs
+coagulase negative staph
+cold
+colistin
+comparison study
+compromise
+couple days
+critical illness
+crohn
+cross
+ct pa
+cta.no
+ctap
+current chest pain
+cvl placement
+cycle
+cyclosporin
+cystitis
+cytoxan
+daily fevers
+dchf
+deep breathing
+dilated.the aortic valve leaflets
+dilt drip
+discharge paperwork
+disorder
+distal third
+diverticula
+drain placement
+early infection
+ecoli
+elective intubation
+elongated.left ventricular wall thicknesses
+email
+embolism
+empiric levofloxacin
+endorses
+epidural
+etc
+exploratory laparotomy
+extensive right
+external device
+fe
+fellow
+femur
+first dose
+flair
+fourth ventricle
+fracture site
+frequent bursts
+full x day course
+further increase
+further recommendations
+global biventricular
+glucose urean creat
+good glycemic control
+head trauma
+hematocrits
+hemolytic anemia
+hep sc
+hep serologies
+heparin sc tid
+hickman
+hilar fullness
+histology
+hob
+home diltiazem
+humerus
+hydrothorax
+hyperparathyroidism
+hypertension pt
+hypotensive
+icd device
+ictal state
+ij central venous catheter
+impaired fillling/tamponade physiology
+improved rate control
+incision site
+increased echogenicity
+increased signal
+infectious colitis
+infectious disease service
+infectious processes
+influenza dfa
+interpreter
+ischemic ekg changes
+iv contrast none
+k x.x cl xxx hcox xx angap xx xx xxpm blood alt xx ast xx ld
+l effusion
+lad lesion
+lanthanum
+lantus xx units
+lasix therapy
+lasix xx mg iv xx
+lasix xxmg iv bid
+lateral chest views
+lateral cxr
+leaflets
+left axis deviation
+left collaterals
+left internal jugular
+left parietal lobe
+legionella culture
+likely possibility
+line projects
+liver dysfunction
+liver parenchyma
+lobe aspiration pneumonia
+low platelet count
+lung markings
+lungs consistent
+main stem
+managment
+mass/thrombus
+meal
+meclizine
+metastatic lesions
+microbiology data pertinent sputum samples
+mid cavitary gradient
+middle lobes
+mild spontaneous echo contrast
+moderate pneumothorax
+morphine xmg iv
+motrin
+mr head
+mrv
+multiple consistencies
+multiple sclerosis
+multiple transfusions
+nasopharynx
+natrecor
+negative blood
+negative coverage
+negative urine cultures
+new atelectasis
+new bibasilar opacities
+new onset
+new pneumothorax
+new st depressions
+new stroke
+new wall motion abnormalities
+next few weeks
+next x x days
+nml intervals
+nodes
+non bloody
+non revealing
+normal color flow
+normal rv chamber size
+nose
+nuclear stress test
+nursing care
+obstructive lung disease
+okay
+omentum
+opacity projecting
+oral prednisone
+orthopedic surgery
+osh ct
+ostium
+palliative care consult
+palliative care service
+parenchymal infiltrates
+parietal lobes
+passage
+passing
+pathogens
+patient c/o
+patient re
+patient s blood pressures
+patient s lfts
+pcp pneumonia
+pcxr
+perinephric stranding
+peroneal veins
+persist
+persists
+phenobarbital
+plavix xxxmg
+pleurex
+pneumocystis
+poor access
+poor surgical candidate
+poor visualization
+portable erect ap radiograph
+portable semi erect
+possible causes
+possible rll infiltrate
+preservation
+prior median sternotomy
+prominent focal slowing
+psoriasis
+pt services
+purulent material
+r l
+radiopaque foreign bodies
+rapidity
+readmission
+rectal vault
+recurrent episodes
+regional systolic function
+relationship
+renal functions
+renal transplant team
+repeat culture
+repeat lactate
+repeat radiographs
+required intubation
+resistant staph aureus
+respiratory compromise
+revascularization
+revision
+ribavirin
+right clavicle
+right colon
+right cp angle
+right femoral line
+right humerus
+right lung base atelectasis
+right ventricular cavity enlargement
+right ventricular pacer defibrillator leads
+rml pneumonia
+s condition permits
+s systolic
+sc
+sclerotic lesion
+sedating medications
+series
+serum tox
+several units
+short interval
+short term rehab
+sided rib fractures
+sideport
+sigmoid diverticulosis
+significant interval improvement
+significant stenosis
+significant worsening
+slow diffusion
+small fluid collection
+solid foods
+sparing
+stain
+stat lab
+straws
+strict aspiration precautions
+sucralfate
+sudden onset
+superimposed edema
+superior endplate
+surgical staples
+surgical team
+svc/ra junction
+swallow evaluations
+swallow exam
+t xxx
+things
+ticu
+time patient
+tips stent
+titrate
+tnt
+toxic metabolic abnormalities
+tracer
+trach site
+transient
+transplant candidate
+transthoracic echocardiogram
+transudative fluid
+trochanter
+tte ef xx
+tube passes
+txdm
+unchanged extent
+unchanged location
+underlying copd
+underlying emphysema
+upright chest radiograph
+urinary catheter
+urinary urgency
+urine studies
+urine tox screen
+variceal bleed
+vascular pedicle
+viral cultures
+virus
+voiding trial
+voltage
+vsd
+warfarin dose
+widespread heterogeneous opacities
+withdrawl
+worsens
+wound care consult
+x p.m.
+x ray impression
+x x.x cm
+x xx pm sputum site
+xl ivfs
+xv
+xx meq
+xxd
+xxx cc bolus
+xxx lbs
+xxx/xx mmhg
+xxxj
+xxxmg tid
+xxxx ml
+xxxxml
+zoster
+abd u/s
+abdominal girth
+acute drop
+acute tubular necrosis
+adenosine
+admisison
+admission ekg
+admission ng tube tip
+admits
+admssion
+amoxicillin
+amp/sulbactam
+anastamosis
+anastomosis
+anterior walls
+antiobiotics
+antipsychotics
+appropriate location
+appropriate placement
+ardsnet protocol
+asa xx mg
+aspiration events
+aspirin xx
+azithromycin xxxmg
+bedside tte
+bilateral interstitial opacities
+bilateral le
+bilateral upper lobe opacities
+bile duct
+bile leak
+bl
+bloody fluid
+bouts
+bpm
+bpxxx/xx
+brachial vein
+brown stool
+bullae
+buttocks
+c. difficile toxin
+capsule
+cardiac markers
+cardiac meds
+cardiogenic
+cardiology floor
+cardiology team
+cavitary lesions
+ceftriaxone xg iv
+central portion
+chamber length x.x cm x.x cm
+chest tube placement
+chest tube removal
+chronic afib
+chronic heart failure
+cinacalcet
+clear consolidation
+clinical significance
+components
+conclusive diagnosis
+continued opacification
+continuity
+continuous bladder irrigation
+coumadin x mg
+critical aortic valve stenosis
+curve
+decreased size
+decubitus view
+definite infiltrate
+degenerative disease
+delta frequency
+denies palpitations
+dense calcification
+dense opacity
+dialysis line
+diarrhea pt
+diazepam xmg qhs/xmg qxxhrs prn
+difficile infection
+diffuse non
+dimension
+diplopia
+direct visualization
+distal inferior wall
+distal vessel
+dome
+dosage
+doubt
+drs
+dual lead
+dulcolax
+ecg study date
+echocardiogram conclusions
+ejection fraction xx xx percent
+elevated wbc count
+emergency contact
+encouragement
+enlarged heart size
+epidural catheter
+esld
+esmolol
+esophageal perforation
+etoh intoxication
+examination evaluation
+exams
+expressive aphasia
+extensive air bronchograms
+extensive degenerative changes
+extensive vascular calcifications
+family request
+feelings
+fever spikes
+filling time
+final day
+first episode
+first hospital day
+flagyl po
+flagyl xxxmg iv
+flank pain
+fluid responsive
+fluoroquinolones
+fm
+focal liver lesions
+focal numbness
+focal pulmonary abnormality
+folate wnl
+frontal chest radiograph
+fsbg
+fsbs
+fungal organisms
+g tube site
+gi symptoms
+gi tract
+good oxygen saturations
+guaiac neg
+hasn t
+hd sessions
+hearing
+hemodilution
+hepatic failure
+hgbaxc
+high density
+high flow mask
+hilar enlargement
+hod x
+holding
+home asa
+home metformin
+home oxygen therapy
+home vna
+hosp
+hospitalizations
+hypersensitivity reaction
+hypomagnesemia
+icu setting
+idiopathic pulmonary fibrosis
+ie
+ileum
+improved respiratory status
+increases
+indentation
+infectious disease consultation
+inferior edge
+inferolateral wall
+infiltrative process
+inflammatory cells
+initial hypotension
+inpatient floor
+inr x
+internal jugular
+interstitial pattern
+intracranial process
+intraventricular hemorrhage
+iv diuresis
+iv methylprednisolone
+ivs
+k x.x cl xxx hcox xx glucose xxx
+l base
+labetalol gtt
+labile blood pressures
+lantus dose
+left basal opacity
+left clavicle
+left mid zone
+left retrocardiac area
+left retrocardiac consolidation
+ligamentous injury
+likely pt
+likely reflective
+lisinopril xx mg qd
+liver enzymes
+lobe nodule
+locules
+low dose bb
+low dose lasix
+low qrs voltage
+lumbar
+lung sounds
+mag
+mat
+mean
+measuring x.x cm
+med list
+medication non compliance
+mellitus
+mental status pt
+metabolic derangements
+metabolic encephalopathy
+metoprolol xx.x
+mid lung zones
+middle third
+mild sob
+mild vascular engorgement
+mild worsening
+minimal patchy opacity
+mn
+moderate congestive heart failure
+moderate pulmonary artery hypertension
+morphine iv
+ms contin
+mucinex
+muddy brown casts
+multi
+multiple air fluid levels
+multiple antibiotics
+multiple consolidations
+multiple levels
+multiple organisms
+mv
+mwf schedule
+namenda
+negative cxr
+negative gram stain
+negative sputum culture
+next cycle
+ngtd
+niece
+nl x.x x.x cm
+nl xx
+non gap
+noncompliance
+noninvasive ventilation
+nonocclusive thrombus
+noon
+normal baseline
+normal heart
+normal wall motion
+normal white count
+nsclc
+oncology service
+optimization
+oral meds
+organ damage
+osseous lesions
+other pleural surfaces
+other systems
+outpatient pulmonologist
+outpatient workup
+overall left ventricular
+oxygen therapy
+p xxx
+pacer leads
+partial obstruction
+partner
+pateint
+patent stent
+patient dnr/dni
+patient home
+patient needs
+patient request
+patient s care
+patient s coumadin
+patient s fever
+patient s vitals
+patient s vs
+pcxr findings
+pentamidine
+percutaneous gastrostomy tube
+perfusion images
+perihilar fullness
+perinephric fluid collection
+peripheral eosinophilia
+peripheral vascular disease
+persistent hypoxia
+persistent right
+persistent right pleural effusion
+piperacillin tazobactam
+piperacillin/tazobactam
+place passes
+plasma cells
+pleural abnormalities
+pleural effusion persists
+plug
+pod.she
+poor renal function
+portable upright chest radiograph
+portacath
+positive rod
+possible post
+possible pulmonary edema
+postoperative cardiomediastinal silhouette
+pounds
+previous cxr
+previous films
+previous pleural effusions
+proctitis
+progressive clearing
+progressive decrease
+prophylaxis pneumoboots
+proximal trachea
+ptca
+pulmonary infiltrate
+pulse xx
+qt interval
+r hip
+radiation changes
+radiographic suspicion
+rebound
+recent cough
+recent ct.
+recent pneumonia
+recent portable cxr
+recent tte
+renal calculi
+renal stones
+repeat chest ct.
+repeat pfts
+respect
+respiratory infection
+restrictive lung disease
+retained secretions
+rf
+rifampin
+right atrium/interatrial septum
+right basilic vein
+right central venous catheter
+right costophrenic sinus
+right hydronephrosis
+right ij cvl
+right jugular iv catheter
+right main bronchus
+right middle lobe opacity
+right middle lobe pneumonia
+right paratracheal
+right picc line terminates
+right renal cyst
+right upper lobe atelectasis
+right upper lobe nodule
+right ventricular function
+round
+rul opacity
+s/p trach
+saline
+sat xx
+screen final inpatient
+sensitive klebsiella
+seroquel xxmg qhs/xxmg qhs prn
+severe chf
+severe pain
+sharp waves
+sided picc line
+signal intensity
+significant disease
+sinus ct
+sl nitro
+sling
+small stones
+sp
+specific signs
+spleen measures
+spot
+stable ox sats
+stable right pleural effusion
+stable small bilateral pleural effusions
+status post extubation
+stenoses
+stoma
+strict npo
+subclavian artery
+substantial improvement
+surveillance
+surveillance blood cultures
+suture
+svc syndrome
+svg om
+systolic pressures
+testing
+thalidomide
+thermal therapy
+thorocentesis
+thrombus/mass
+thurs
+thyroid mass
+tiny left pleural effusion
+tiny right pleural effusion
+tortuous thoracic aorta
+traction bronchiectasis
+treatment course
+trimethoprim/sulfa sensitivity
+trough
+unchanged alignment
+unchanged mild cardiomegaly
+unclear precipitant
+underpenetration
+upper end
+upper limit
+urine analysis
+urine eos
+valve replacement
+vanc/zosyn/flagyl
+vancomycin xgm
+vascular flow
+vascularity
+venous approach
+ventricular premature beats
+vit
+vitamin bxx
+volumes
+w/o
+x cycles
+x gpcs
+x u prbcs
+x x conduction
+x x.x
+x.his
+x.x baso x.x xx xxam blood glucose
+x.x cmx
+xweeks
+xx days course
+xx nrb
+xx ostial stenosis
+xx pound
+xx xxam blood plt smr
+xx years
+xx.x mg
+xxdays
+xxmg po bid
+xxmm hg
+xxpm blood glucose
+xxx alk phos xx tot bili x.x xx xxpm
+xxx colonies
+xxxbpm
+xxxs/xxs
+zinc
+/xx
+abnormal mucosa
+access pivs
+acute delirium
+acute processes
+acute renal failure creatinine
+additional antibiotics
+admission x.x
+afb none
+aggressive volume resuscitation
+alcohol use
+ambulatory
+amio load
+ammonia
+anemia baseline
+angio
+angiography
+anion gap acidosis
+answering questions
+anterior mitral leaflet
+anti e antibody
+aortic contour
+ap examination
+apartment
+apical pleural thickening
+apparent disease
+artery
+aspirate question
+aspirin xxmg
+atrial fibrillation/flutter
+atrial premature beats
+atypical appearance
+atypical organisms
+aunt
+auscultation
+bacterial meningitis
+baseline cr x.x x.x
+beds
+bibasilar subsegmental atelectasis
+bilateral diffuse
+bilateral lung volumes
+biliary source
+bladder scan
+bladder wall
+blood clot
+blood sugar control
+bnp xxx
+brief
+bronchial biopsy
+bronchial obstruction
+c. diff colitis
+c.dif
+cad s/p
+cad s/p mi
+calcaneus
+carboplatin
+cardiac cause
+cardiology recommendations
+cardiology report ecg study date
+careful monitoring
+carotid u/s
+cdiff toxin
+celiac
+central aortic pressure
+chadsx score
+chest discomfort
+chronic atelectasis
+chronic constipation
+chronic osteomyelitis
+cisatracurium
+clear cxr
+clinical course
+clinical implications
+clot burden
+cns
+considerable beat
+consolidated lung areas
+continued concern
+continuous nebs
+contrast ct
+copd pt
+cortical irritability
+cortisol level
+cre x.x
+ct chest/abdomen/pelvis
+ct guidance
+culprit
+current plan
+cycle x
+cytology report
+decreased dose
+diastolic failure
+diff neuts
+discharge wbc x.x hgb x.x g/dl plt xxx hct xx glucose xxx mg/dl creatinine x.x mg/dl bicarb xx meq/l k x.x meq/l bun xx mg/dl cl xx meq/l
+distal interlocking screws
+distal septal
+distal superior vena cava
+distended stomach
+distortion
+diureses
+dose meds
+dr. dr.
+ecg atrial fibrillation
+ejection fraction xx percent
+electrolyte repletion
+elevated ck
+elevated cr
+elevated transaminases
+encephalitis
+end date
+entire hospital course
+ett placement
+extensive retrocardiac atelectasis
+eye drops
+f/u appt
+family present
+fdg avidity
+fen/proph hliv
+fevx x.xx
+few months
+few seconds
+fiber
+final sensitivities
+first degree
+flat cks
+florinef
+fluctuance
+fluoroscopic guidance
+focal deficits
+following days
+francisella tularensis
+free hand technique
+free pelvic fluid
+free water intake
+full report
+further progression
+further signs
+g
+gastric tube
+gerd patient
+gi/gu/fen post
+goal rate
+groin hematoma
+gross aspiration
+ground diet
+ground glass opacification
+guaiac stool
+h/o htn
+head bleed
+heart block
+heterogeneous enhancement
+hilus
+hl
+home furosemide
+honey thick liquids
+hsv encephalitis
+hyperdynamic lv
+hyperlucency
+hypopharynx
+icu beds
+id fellow
+igg/igm negative c. psittaci igg/igm
+igg/igm negative c. trachomatis
+igm negative c. pneumoniae
+impression decrease
+impression endotracheal tube
+impression.interval placement
+inciting event
+increased size
+indeterminate
+intermittent hypotension
+intermittent photic stimulation
+internal jugular vein
+intertrochanteric fracture
+interval prolongation
+involutional changes
+ischemic etiology
+isosorbide dinitrate
+iv levaquin
+iv medications
+iv ns
+juice
+k x.x cl xx hcox xx angap xx xx xxam blood ck
+klebsiella uti
+laa
+labs xx xxam blood wbc x.x rbc x.xx hgb x.x hct xx.x mcv xx mch xx.x mchc xx.x rdw xx.x plt ct xxx xx xxam blood glucose
+lantus xxu
+lasix xx mg po bid
+lasix xxmg iv x x
+last episode
+left adrenal gland
+left cephalic vein
+left knee
+left lung field
+left mainstem
+left renal artery
+left subclavian central line
+left ventricular mass/thrombus
+levetiracetam
+levofloxacin/flagyl
+lidocaine patches
+life care
+likely contributing
+limbs
+lips
+literature
+lobe areas
+los
+low grade
+low prob
+lung base opacity
+lupus
+lv thrombus
+lymphangitic spread
+main renal artery
+mastoid opacification
+medical problems
+medicine consult
+mellitus patient
+meq/l
+mg iv
+mg po qd
+middle parts
+mild hypotension
+mild indistinctness
+mild overhydration
+mild thickening
+mild wall thickening
+minimum
+mixed flora
+mod cardiomegaly
+moderate l
+moderate pleural effusions
+multiple abnormalities
+multiple comorbidities
+multiple doses
+multiple medications
+multiple nodules
+multiple prior studies
+multivessel cad
+negative coccidioides
+negative influenza b antigen
+negative m. pneumoniae
+negative sputum
+negative sputum culture albicans
+negative strep pneumo antigen
+negative tularemia
+neuro consult
+neurological exam
+neutropenic precautions
+new heart failure
+new l
+node calcifications
+non occlusive thrombus
+normal anion gap
+normal ercp
+normal hepatopetal flow
+normal lung volumes
+ns boluses
+oblique views
+obvious evidence
+obvious vegetations
+old rib fractures
+oncology floor
+opportunistic infection
+other acute intra abdominal pathology
+other foci
+other preparations
+other relevant changes
+outpatient evaluation
+outpatient followup
+outpatient psychiatrist
+overall severity
+overall volume
+p r interval
+pa/lat findings
+palpatations
+paperwork
+paratracheal region
+parenchymal densities
+patent lima
+patent tips
+pathology specimen
+patient s fevers
+patient s oxygen requirement
+patient s sbp
+patietn
+pcv
+peak gradient
+penis
+peribronchial opacities
+pft s
+phase
+phoslo
+physiology
+platelet
+pneumocystis jiroveci organisms
+pnuemonia
+points
+poor baseline
+poor oral intake
+poor urine output
+popliteal vein
+portable chest examination
+portable upright view
+possible cause
+possible lll infiltrate
+post cath
+posterior pleural sinuses
+ppm
+pressor dependent
+presumed community
+previous echo
+prilosec
+prior anteroseptal myocardial infarction
+prior infection
+prn haldol
+prn morphine
+prosthetic mitral valve
+psych recs
+pt s pain
+pt s symptoms
+pulmonary evaluation
+pulmonary vascular re distribution
+punctate parenchymal
+purulent drainage
+purulent secretions
+pxx
+r.
+radiology ct
+random cortisol
+rcc
+reactive mesothelial cells
+recent chemotherapy
+recent diarrhea
+recent mi
+recurrent pneumonia
+redemonstration
+regular medical floor
+remote history
+renal artery
+resources
+respirations
+respiratory epithelial cells
+restrictive physiology
+right ankle
+right aspect
+right infrahilar consolidation
+right knee
+right major fissure
+right mid lung field
+right pleural space
+right subclavian line tip
+right upper lobe consistent
+right upper lung zone
+right ventricular cavity size
+right vertebral artery
+rightward shift
+ritonavir
+rle dvt
+rsbi
+s exam
+s/c heparin
+safe evidence
+sarna lotion
+secondary signs
+serious infections
+sessions
+several minutes
+severe anxiety
+severe diffuse
+single supine ap
+skin fold
+skin staples
+skull
+sl
+small ascites
+soft tissue changes
+solumedrol xxxmg iv
+stable bibasilar atelectasis
+stable lll collapse
+standard positioning
+stool cx
+subclavian central line
+subsequent imaging
+subtle
+summation
+superior mesenteric artery
+supervision
+suprahilar region
+surgical floor
+svr
+swan ganz catheter tip
+target
+telemetry monitoring
+temp xx.x
+tessalon perles
+therapeutic thoracentesis
+timi iii flow
+tiny bilateral pleural effusions
+tiny right apical pneumothorax
+to.no evidence
+transit
+transplant nephrology
+transplanted kidney
+trauma board
+treatment options
+troponin i
+tte.the
+tunneled catheter
+u prbcs
+u/s sludge
+unchanged right pleural effusion
+underlying lesion
+upper extremity dvt
+upper lobectomy
+upper lumbar spine
+upper quadrant
+upright pa
+urinary complaints
+urine eosinophils
+vague opacity
+valproic acid
+vancomycin course
+various lines
+vascular calcification
+venous flow
+vent wean
+ventricular systolic dysfunction c/w cad
+vertebral artery
+viral hepatitis
+vitamin k.
+wean
+weight increases
+widespread parenchymal opacities
+wound cultures
+x gnrs
+x grams
+x occasions
+x pmns
+x units prbcs
+x vessel disease
+x x l
+x.communication
+x.creatinine
+x.x calcium x.x phosphate x.x magnesium x.labs
+x.x hours
+xx cm/sec
+xx ml
+xx proximal stenosis
+xx xx xxpm
+xx.x lymphs x.x
+xx.x ptt xx.x inr
+xx.x xx xxx/xx xx xx
+xxhours
+xxl nrb
+xxx blood cultures
+xxx lactate x.x
+xxx ox
+xxxcc urine
+yellow secretions
+z pack
+abdominal process
+abdominal symptoms
+accounting
+acute aortic syndrome
+acute blood loss anemia
+acute cp process
+acute heart failure
+acute intrathoracic pathology
+acute renal insufficiency
+adequate hydration
+admission weight
+aggressive interventions
+aggressive treatment
+agressive diuresis
+aids
+alb x.x
+alveolar opacification
+ami
+anterior aspect
+anti emetics
+antibiotic
+antibodies
+antihypertensive regimen
+aortic pathology
+arrythmia
+ascending colon
+bal culture
+baseline ox requirement
+bc
+benzonatate
+bibasilar pleural effusions
+bilateral alveolar opacities
+bilateral basilar opacities
+bilateral hilar enlargement
+bilateral perihilar haziness
+blankets
+blood/urine cultures
+blurring
+bowel reg
+bp xxs/xxs
+brady syndrome
+bronchial stent
+bronchiolitis
+bxx deficiency
+callout
+cardiac rhythm
+cardiology recs
+cast
+cdx xxx
+cdxx
+central pulmonary vascular congestion
+cervical region
+chads
+challenge
+chamber length x.x cm
+chemical pneumonitis
+chest compressions
+chronic pain service
+chronic problem
+ci
+clear epileptiform discharges
+clear sputum
+clinical stability
+close observation
+cml
+cmv vl
+cocaine use
+colonizer
+common bile duct measures
+complicated hospital course
+congestive hepatopathy
+conjunctivitis
+connection
+continuous eeg
+contrast extravasation
+copd patient
+copy
+coronary angiography
+coronary bypass grafting
+costophrenic sinuses
+coumadin clinic
+cp angles
+cr x.x x.x
+critical aortic stenosis
+cryptococcus
+cryptosporidium
+cta chest.no
+ctpa
+cxr mild
+cxr reason
+cxry
+cycles
+definite pulmonary vascular congestion
+depressed systolic function
+diagnostic repolarization abnormalities
+dispo rehab
+diuril
+documented history
+dorsum
+double lumen catheter
+dual lumen
+e/e x
+early consolidation
+edematous changes
+egd varices
+electrophysiology
+elevated alk phos
+emergency
+empiric tx
+endotracheal tube x.x cm
+entry
+ep consult
+extreme right costophrenic angle
+extremity doppler
+extremity pain
+faint opacity
+family history
+fen ivf
+fever spike
+fexofenadine
+flash pulm edema
+fluid administration
+fluid intake
+focal lesion
+focal neurologic deficits
+following
+foot pain
+free subdiaphragmatic gas
+free tx x.x
+frequent atrial ectopy
+fresh blood
+frontal sinuses
+fungal coverage
+further chemotherapy
+further observation
+further questioning
+furthermore
+gastric antrum
+gastric body
+gfr
+gj tube placement
+glucagon
+glucose levels
+gm
+good ox saturations
+gram cocci
+gross anasarca
+guardian
+guiac positive stools
+h/o dm
+hb
+hb xx.x
+hd.he
+heart catheterization
+heart shadow
+heartburn
+heme/onc consult
+hemodynamic monitoring
+hemodynamic status
+hep b
+hgaxc
+high ferritin
+high flow ox
+high inr
+high ox requirement
+high protein
+high xx
+high xxxs
+hilar regions
+home aspirin
+home digoxin
+home insulin
+home synthroid
+hr xxs xxs
+htn bp
+humalog iss
+hydrocort
+hyperphosphatemia
+hypervolemia
+hypocalcemia
+hz
+icu care
+immediate complications
+impression.no
+incisions
+increased doses
+increased respiratory rate
+infectious causes
+inhaler
+initial treatment
+inpatient stay
+input
+inr monitoring
+intent
+internal jugular approach
+intestinal obstruction
+intolerance
+intravascular volume
+isolate
+iv dilaudid
+iv iron
+iv lasix x x
+iv pip/tazo vancomycin
+joints
+kidney injury
+l shoulder
+labs xx xxam blood wbc xx.x rbc x.xx hgb xx.x hct xx.x mcv xx mch xx.x mchc xx.x rdw xx.x plt ct xxx xx xxam blood glucose
+large blood
+large left effusion
+laryngeal edema
+lasix po
+lasix xxmg po bid
+last bowel movement
+last few months
+last x weeks
+lateral projection
+lead placement
+left femoral head
+left femur
+left ij catheter
+left lung consolidation
+left pic catheter
+left subclavian line projects
+left upper lobe area
+legionella ag
+lft abnormalities
+lichen planus
+ligation
+likely chronic
+likely result
+limited view
+linear density
+liver service
+lobar collapse
+lobar consolidation
+lobe effusions
+lobe mass
+lobe process
+loculated anterior pericardial effusion
+long term care
+low mid xxs
+low ox sats
+lul pneumonia
+m
+mammogram
+markings
+matter
+mean pcwp
+mechanical obstruction
+mediastinal abnormalities
+mediastinal air
+mediastinal enlargement
+medical record
+medication regimen
+melanoma
+mental status change
+mg qd
+micro bcx
+micro data
+micu pt
+mid pole
+mid rca
+migraines
+mild ascites
+mild cardiac enlargement
+mild functional mitral stenosis
+mild interval increase
+minimal change
+minimal penetration
+mmf
+mod size
+moderate cardiac enlargement
+moderate retrocardiac atelectasis
+moderate volume
+motility
+mri l spine
+multiple admissions
+multiple surgical clips project
+multivitamins
+neg x x
+negative rpr
+negative x.he
+neuro checks
+new ischemic changes
+new picc line
+new rash
+new rbbb
+ngt placement
+non compliant
+nonproductive cough
+normal anisocy
+normal biventricular systolic function
+normal diastolic function
+normal eeg
+normal flow signal
+normal function
+normal waveforms
+np
+ns ivf
+ntg drip
+ntg gtt
+odynophagia
+old lbbb
+om
+op period
+oral flagyl
+oral pain medications
+oral phase
+oseltamivir
+osteoarthritis
+osteophytes
+other interval change
+outpatient echo
+outpatient management
+outpatient neurologist
+outs
+oxybutynin
+page
+pain relief
+palliative xrt
+pan sensitive
+pancreatic necrosis
+pancreatitis w/lack
+pancx
+partial small bowel obstruction
+past history
+past several weeks
+past x weeks
+patent vasculature
+patient s chf
+patient s hospitalization
+patient s inability
+patient s presentation
+patient s wife
+peak x.x
+pelvic ascites
+pelvic ct
+percocet prn
+pericardial constriction
+pericardial tamponade
+periventricular white matter hypodensities
+persistent cxr pneumomediastinum
+phone number
+physical examination
+pigtail drain
+plt xx.pt xx.x
+pmh
+pml
+pneumonia coverage
+po amiodarone
+po pain meds
+pod x patient
+poor ef
+portable film
+portal htn
+possible cap
+possible rll pna
+possible rll pneumonia
+possible small bilateral pleural effusions
+pox xxx
+prerenal state
+presumed copd exacerbation
+presumed hcap
+presumptive diagnosis
+prevertebral soft tissue
+prior cholecystectomy
+prior ekgs
+prior hx
+productive sputum
+prograf
+progressive abnormalities
+prominent loops
+prominent pulmonary vasculature
+pronounced today
+proper clinical setting
+propranolol
+proximal ascending colon
+proximal side port
+psych consult
+pt feels
+pulmonary vascular status
+pulmonic valve leaflets
+pulsus paradoxus
+pureed diet
+pyloric feeding tube
+qrs duration
+r effusion
+recent chest pain
+recent examination
+recent fall
+recent sick contacts
+recent trauma
+regional systolic dysfunction c/w cad
+rehab center
+repeat evaluation
+repeat examination
+resistant organisms
+respiratory depression
+rhythm control
+rhythm pt
+right costophrenic sulcus
+right hilar
+right internal jugular central line
+right middle lobe collapse
+right pic catheter
+right pleural tube
+right posterior
+right psoas muscle
+right subclavian port
+right temporal lobe
+right upper chest
+rigidity
+rij cvl
+rvef
+s family
+sacral decubitus ulcer
+saddle anesthesia
+saphenous vein
+scale coverage
+scan
+scattered areas
+screws
+scrotum
+second hospital day
+second time
+security
+segment
+segment vii
+segmental branches
+sequestration
+serratia
+showed improvement
+sick sinus syndrome
+sidehole
+significant effusion
+significant obstruction
+similar episode
+single portable upright view
+sinus brady
+sirolimus
+sizable pleural effusions
+skeletal structures
+skin breakdown
+skin lesions
+son evidence
+specific bowel gas pattern
+specific complaints
+spirinolactone
+st segments
+stable overnight
+status epilepticus
+stent removal
+stool output
+stress perfusion images
+structural abnormalities
+subclavian cvl
+subjective improvement
+subpleural fibrosis
+successful extubation
+superimposition
+suppressive therapy
+surgeon
+surgery consult
+surgery service
+surgery team
+swallow evals
+sxs
+symbicort
+symmetry
+symptomatic bradycardia
+tarceva
+teh
+telemetry floor
+theophylline
+third ventricle
+thoracic vertebral bodies
+thrombectomy
+thrombocytopenia pt
+tiny left apical pneumothorax
+tip sent
+tips procedure
+tissue biopsy
+tobra
+total x days
+touch
+trace effusion
+tramadol prn
+transfer vs
+transfusion dependent
+transudative process
+triphasic waves
+tumor lysis syndrome
+tx d
+tx x
+u/s.no evidence
+uc
+ultram
+uncertain chronicity
+unchanged bilateral pleural effusions
+unchanged extensive r lung opacities
+unchanged positions
+underwent thoracentesis
+unilateral pulmonary edema versus aspiration cxr
+unremarkable appearance
+unwell
+upper
+upper extremity edema
+upper lobe collapse
+upper lung fields
+urgent hd
+urinary retention patient
+urine sodium
+valsalva
+vanco/levo
+variety
+vascular team
+venous congestion
+ventricle ejection fraction xx
+ventricular
+ventricular premature beat
+verbal report
+w/recent increase
+wbc elevation
+wean ox
+white differentiation
+wife reports
+withdrawal symptoms
+witnessed aspiration event
+ws
+x bottle
+x creat
+x edema
+x mg ativan
+x mg iv
+x u prbc
+x.no
+x.the pt
+x.x x.x range
+x.xx/xx/x.he
+x.xxx
+xrays
+xth
+xx l
+xx lbs
+xx lymphocytes
+xx mg.
+xx pt
+xx requirement
+xx x
+xx xxpm glucose xxx
+xx xxx/xx xx xx
+xx.x kg
+xx.x.c
+xxam blood glucose
+xxmeq
+xxmg daily
+xxx cc uop
+xxx mg iv
+xxx s xxx s
+xxx xl nc
+xxx xx
+xxxmg qd
+zetia
+abdominal aortic aneurysm
+aberrancy
+abnormal diastolic septal motion/position consistent
+abnormal vascularity
+abscess formation
+access midline
+actos
+acute cardiopulm process
+acute cardiopulmonary findings
+acute complaints
+acute infectious process
+acute osteomyelitis
+acute renal failure pt
+acute st changes
+acute st segment changes
+additional consideration
+adenoma
+adenovirus
+adnexa
+adrenal mass
+advanced several centimeters
+afebrile xx hours
+ag metabolic acidosis
+aggrenox
+air space opacities
+albuterol neb
+als
+amiodarone bolus
+amylase/lipase
+anaerobic coverage
+anginal type symptoms
+angiogram
+ankle mortise
+antibiotic administration
+anticoag
+antiemetics
+anxiety pt
+anxiety/depression
+ap port
+ap radiograph
+apap
+approx
+appts
+asleep
+aspiration/pneumonia
+aspirin xx mg
+associated volume loss
+atelectasis and/or pneumonia
+atria
+atrial fibrillation rate
+atrial rhythm
+atypical infections
+avandia
+axonal injury
+b glucan
+b pulmonary edema
+b/l bases
+bag
+bal results
+bal washings
+base atelectasis
+basilar chest tube
+bcs
+bedside u/s
+bibasal areas
+bibasilar patchy opacities
+bibasilar pneumonia
+bicarb drip
+bilateral mastoid air cells
+bilateral maxillary sinuses
+bilateral pes
+bileaflet
+bileaflet mitral valve prosthesis
+bili x.x
+birth
+block
+blood bank
+blood flow
+bone marrow suppression
+bowel rest
+bp medications
+brb
+bridle
+bullous disease
+c.diff toxin
+calvarium
+cardiac cath.coronary angiography
+care issues
+carvedilol dose
+cavitary pneumonia
+central process
+central vascular congestion
+chest physical therapy
+cholecystostomy tube
+chronic microvascular infarction
+chronic systolic chf
+cipro po
+citrobacter
+clear liquid diet
+clinical condition
+clinical setting
+clinical staff
+code patient
+cold forceps biopsies
+common femoral vein
+complete whiteout
+complex fluid
+compression deformities
+compression fractures
+conclusive evidence
+cons
+considerations
+contact information
+contrast head ct
+contributor
+coronary artery calcification
+coumadin dosing
+coumadin therapy
+couple weeks
+crt
+crystalloid
+ct c/a/p
+current admission
+current tracing
+cx x level
+cxr ap
+cxr bilat
+cxr lungs
+cxr tracheostomy
+daily lasix
+danger
+dart
+dccv
+ddavp
+decreased ef
+decreased perfusion
+deep inspiration
+defibrillation
+degenerative disc disease
+dependent portions
+description
+destruction
+deviation
+differential considerations
+diffuse anasarca
+diffuse haziness
+diphtheroids
+disc
+discrete fluid collection
+distal cbd
+distance
+dobbhoff catheter
+dobbhoff tube tip
+dopplerable pulses
+dry dressings
+dry gauze
+duloxetine
+dysplasia
+e/e
+e/o
+early pna
+early pulmonary edema
+easy bruising
+eccentric jet
+ecchymosis
+echo pre bypass
+echogenic material
+ed team
+education
+ekg s
+elevated left
+elevated ptt
+empiric abx
+empiric antibiotic coverage
+endotracheal intubation
+enteric gram
+entire lungs
+entire time
+esophageal dysmotility
+essential hypertension
+ethacrynic acid
+etoh use
+evd
+eventration
+evid
+extremity ultrasound
+eye pain
+f/u ct
+facial swelling
+fecal culture
+feel
+felodipine
+femoral head
+feurea xx
+final diagnosis.one vessel
+fine
+first several days
+first time
+flonase
+focal fluid collection
+focal pulmonary consolidation
+focal wall motion abnormalities
+foley d/c
+followup examination
+food impaction
+found
+free passage
+frontal lobes
+full dose aspirin
+further ivf
+gall bladder
+gemcitabine
+geriatrics service
+glucometer
+glucose neg ketone neg bilirub
+glucose xxx urean xx creat x.x
+goal hct
+goal sbp
+grafts
+granularity
+great deal
+gut
+h.
+h/o cva
+hazy sp x.xxx xx xxpm
+hb x.x
+hbv
+hd session
+hd.she
+head ct neg
+heart border
+heliox
+hematology/oncology
+heparin iv
+hepatic arteries
+hepatic artery
+hepatitis c
+heroin
+hg
+high likelihood
+high position
+high tube feed residuals
+hiv patient
+home atenolol
+home omeprazole
+home oxygen requirement
+home prednisone
+hospital floor
+hyperglycemia pt
+hyperplasia
+hypervolemic hyponatremia
+hypokinetic right ventricle
+impression.new
+improved pulmonary edema
+increased bilateral pleural effusions
+indeterminate cxr
+inflammatory change
+inflammatory reaction
+inhouse
+inr check
+insurance
+interstitial changes
+interstitial opacity
+intra abdominal free air
+intracranial abnormalities
+intrahepatic biliary ducts
+intraluminal thrombus
+intramedullary rod
+ir procedure
+iv amiodarone
+iv haldol
+iv team
+ivc filter placement
+ivf administration
+j point elevation
+k x.x cl xx hcox xx angap x xx xxam blood alt xx ast xx ld
+k x.x cl xx hcox xx angap xx xx xxam blood
+knowledge
+l foot
+l hip
+laboratory studies
+lactate levels
+large bilateral pleural effusion
+large heart
+large hiatus hernia
+large l
+last admit
+last few weeks
+laxatives
+left atrial enlargement
+left basilar subsegmental atelectasis
+left subclavian
+leg weakness
+lethargic
+leucocytosis
+leukocystosis
+lft
+likely chf
+likely etiologies
+lima lad
+llq
+lobe effusion
+long discussion
+long term care facility
+lopressor xx mg tid
+low dose lisinopril
+low inspiratory lung volumes
+low voltages
+lung abnormalities
+lx sx level
+maalox
+main coronary artery
+mannitol
+many days
+mean gradient x mmhg
+meld score
+mesenteric stranding
+metastatic melanoma
+mg.
+micro blood culture
+microbiology blood cultures
+microbiology lab
+mild diastolic dysfunction
+mild disease
+mild resting
+minoxidil
+mm hg
+moderate calcification
+moderate calcifications
+moderate diffuse disease
+moderate hypokinesis
+moderate right pneumothorax
+monitoring devices
+mornings
+morphine x mg iv
+mucositis
+multilobar pna
+mycobacteria
+mycophenolate
+myelos x xx xxam blood pt xx.x ptt xx.x inr
+nac
+necrotic tissue
+neg nitrite
+negative enzymes
+negative hav
+negative urine cx
+neural foramina
+new complaints
+new focal consolidations
+new pleural effusion
+new small bilateral pleural effusions
+nitro patch
+nitrofurantoin
+non anion gap
+non rebreather mask
+normal leaflet motion
+normal lfts
+normal renal function
+normal rv
+o p
+obesity hypoventilation syndrome
+obliteration
+obstructive disease
+occipital lobes
+old blood
+old female
+opacifications
+operative report
+oral hypoglycemic
+oropharyngeal
+osh report
+other abx
+other episodes
+outpt cardiologist
+overall impression
+p
+pa htn
+pancolitis
+pancreatic cancer
+pansensitive e.coli
+parenchymal abnormality
+parts
+patient complains
+patient respiratory status
+patient s diet
+patient s mother
+patient s oxygen saturation
+patient s statin
+pectoral pacemaker
+pelvic fluid
+people
+pepcid
+perforated duodenal ulcer
+perihepatic fluid
+perihilar areas
+perihilar opacification
+persistent pneumonia
+pip tazo
+placement impression
+plate atelectasis
+platelet counts
+pleuritic cp
+pmn
+pneumococcal vaccine
+po contrast
+po diltiazem
+po regimen
+pod.pt
+poor air movement
+posaconazole
+positive bacteria
+positive u/a
+possible hcap
+possible pcp
+post sternotomy wires
+potassium levels
+potential source
+pre renal state
+precautions fall
+prior episodes
+prior exams
+prior surgery
+prior trauma
+prn albuterol
+prolonged course
+prominent
+proper position
+prophylactic doses
+proximal rca
+proximal xx stenosis
+psych pt
+pubic symphysis
+pulmonary artery pressure
+pulmonary consultation
+pulmonary contusion
+pulmonary edema periphery
+pulmonary infarction
+pulmonary vascular resistance
+pulmonary venous congestion
+pulmonary venous hypertension
+pulseless
+purulent sputum
+questionable history
+quinolones
+r hemidiaphragm
+readings
+reassessment
+recent antibiotics
+recent instrumentation
+recent intubation
+recent past
+red cells
+regional lv
+regular tachycardia
+rehydration
+release
+renagel
+renal cyst
+renal parenchyma
+repeat bronch
+repeat chest radiograph
+repeat chest xray
+residual patchy opacity
+respiratory difficulties
+resumption
+retrocardiac infiltrate
+right common femoral artery
+right humeral head
+right ij central venous line
+right main stem
+right middle lobe consolidation
+right pectoral pacemaker

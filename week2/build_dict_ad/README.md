@@ -11,5 +11,5 @@
 - list_long_form* is file contains list of words that can be abbreviated
 - And json file contains acronym and expansion respectively
 - Histogram of words that can be abbreviated
-![](histogram_eng_arconym.png)
+![](./resul eng/thistogram_eng_arconym.png)
 
