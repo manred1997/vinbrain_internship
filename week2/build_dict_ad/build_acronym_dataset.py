@@ -58,9 +58,9 @@ def POS_vn(text):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--input_file", type=str, default="./result_eng/english_clean.txt", help="Input file")
-    parser.add_argument("--top_k", type=int, default=25, help="Top k words that can be abbreviated")
-    parser.add_argument("--mode", type=str, default="eng")
+    parser.add_argument("--input_file", type=str, default="./result_cxr/cxrv2.txt", help="Input file")
+    parser.add_argument("--top_k", type=int, default=10000, help="Top k words that can be abbreviated")
+    parser.add_argument("--mode", type=str, default="cxr")
     args = parser.parse_args()
 
 ################## Part of Speech Tagging ##################
@@ -83,6 +83,7 @@ if __name__ == "__main__":
     vocab = list(map(lambda x: x.lower(), vocab))
 
     unique = np.unique(vocab, return_counts=True)
+    del vocab
     # top_k_indice = largest_indices(unique[1], 40)[0] # top 30
     # top_k_words = unique[0][[top_k_indice.tolist()]]
 
@@ -108,6 +109,7 @@ if __name__ == "__main__":
     sorted_unique = sorted(sorted_unique, key= lambda x: x["freq"], reverse=True)
     sorted_short_unique = sorted(sorted_short_unique, key= lambda x: x["freq"], reverse=True)
     sorted_long_unique = sorted(sorted_long_unique, key= lambda x: x["freq"], reverse=True)
+    del unique
 
 ################## PLOT HISTOGRAM ##################
     x = list(range(1, len(sorted_unique)+1))
@@ -126,7 +128,8 @@ if __name__ == "__main__":
     plt.ylabel("Number of words")
     plt.title("Histogram of words that can be abbreviated")
     plt.savefig(f"./result_{args.mode}/histogram_all_acronym_{args.mode}.png")
-    plt.show()
+    # plt.show()
+    del x, y, fig
 
     x = list(range(1, len(sorted_short_unique)+1))
     y = []
@@ -144,7 +147,8 @@ if __name__ == "__main__":
     plt.ylabel("Number of words")
     plt.title("Histogram of words that can be abbreviated")
     plt.savefig(f"./result_{args.mode}/histogram_short_acronym_{args.mode}.png")
-    plt.show()
+    # plt.show()
+    del x, y, fig
 
     x = list(range(1, len(sorted_long_unique)+1))
     y = []
@@ -162,7 +166,8 @@ if __name__ == "__main__":
     plt.ylabel("Number of words")
     plt.title("Histogram of words that can be abbreviated")
     plt.savefig(f"./result_{args.mode}/histogram_long_acronym_{args.mode}.png")
-    plt.show()
+    # plt.show()
+    del x, y, fig
 
 
 # ################## Write File ##################
@@ -170,11 +175,13 @@ if __name__ == "__main__":
     for i in range(args.top_k):
         top_k_all_words.append(sorted_unique[i]["unique"])
     top_k_long_words = []
-    for i in range(7):
+    for i in range(700):
         top_k_long_words.append(sorted_long_unique[i]["unique"])
     top_k_short_words = []
-    for i in range(6):
+    for i in range(5000):
         top_k_short_words.append(sorted_short_unique[i]["unique"])
+    
+    del sorted_unique, sorted_short_unique, sorted_long_unique
 
 
     with open(f"./result_{args.mode}/all_expansion.txt", "w", encoding="utf8") as f:
@@ -199,6 +206,7 @@ if __name__ == "__main__":
             if acronym in dict_all_adcronym.keys():
                 dict_all_adcronym[acronym].append(word)
             else: dict_all_adcronym[acronym] = [word]
+    del top_k_all_words
 
     for word in top_k_long_words:
         token = word.split(" ")
@@ -206,12 +214,13 @@ if __name__ == "__main__":
         if acronym in dict_long_adcronym.keys():
             dict_long_adcronym[acronym].append(word)
         else: dict_long_adcronym[acronym] = [word]
+    del top_k_long_words
 
     tmp = 0
     for word in top_k_short_words:
         dict_short_adcronym[f"None_{tmp}"] = [word]
         tmp += 1
-
+    del top_k_short_words
     
     with open(f"./result_{args.mode}/all_dict.json", "w", encoding="utf8") as f:
         json.dump(dict_all_adcronym, f)
