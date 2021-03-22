@@ -131,25 +131,6 @@ if __name__ == "__main__":
     # plt.show()
     del x, y, fig
 
-    x = list(range(1, len(sorted_short_unique)+1))
-    y = []
-    tmp = 0
-    for i in sorted_short_unique:
-        tmp += i["freq"]
-        y.append(tmp)
-
-    fig = plt.figure(figsize=(8,10))
-    # plt.plot(x, y)
-    sns.barplot(x=x, y=y)
-    sns.lineplot(x=x, y=y)
-    plt.xlabel("Top - k")
-    plt.xticks(np.linspace(1,len(sorted_short_unique), 10, dtype=int))
-    plt.ylabel("Number of words")
-    plt.title("Histogram of words that can be abbreviated")
-    plt.savefig(f"./result_{args.mode}/histogram_short_acronym_{args.mode}.png")
-    # plt.show()
-    del x, y, fig
-
     x = list(range(1, len(sorted_long_unique)+1))
     y = []
     tmp = 0
@@ -169,16 +150,37 @@ if __name__ == "__main__":
     # plt.show()
     del x, y, fig
 
+    x = list(range(1, len(sorted_short_unique)+1))
+    y = []
+    tmp = 0
+    for i in sorted_short_unique:
+        tmp += i["freq"]
+        y.append(tmp)
+
+    fig = plt.figure(figsize=(8,10))
+    # plt.plot(x, y)
+    sns.barplot(x=x, y=y)
+    sns.lineplot(x=x, y=y)
+    plt.xlabel("Top - k")
+    plt.xticks(np.linspace(1,len(sorted_short_unique), 10, dtype=int))
+    plt.ylabel("Number of words")
+    plt.title("Histogram of words that can be abbreviated")
+    plt.savefig(f"./result_{args.mode}/histogram_short_acronym_{args.mode}.png")
+    # plt.show()
+    del x, y, fig
+
+    
+
 
 # ################## Write File ##################
     top_k_all_words = []
     for i in range(args.top_k):
         top_k_all_words.append(sorted_unique[i]["unique"])
     top_k_long_words = []
-    for i in range(700):
+    for i in range(5000):
         top_k_long_words.append(sorted_long_unique[i]["unique"])
     top_k_short_words = []
-    for i in range(5000):
+    for i in range(1000):
         top_k_short_words.append(sorted_short_unique[i]["unique"])
     
     del sorted_unique, sorted_short_unique, sorted_long_unique
