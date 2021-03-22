@@ -1,1 +1,3002 @@
-{"None_0": ["patient"], "None_1": ["pt"], "None_2": ["evidence"], "None_3": ["admission"], "None_4": ["discharge"], "None_5": ["x"], "None_6": ["time"], "None_7": ["pneumothorax"], "None_8": ["pneumonia"], "None_9": ["xx"], "None_10": ["cxr"], "None_11": ["floor"], "None_12": ["left"], "None_13": ["impression"], "None_14": ["findings"], "None_15": ["atelectasis"], "None_16": ["day"], "None_17": ["right"], "None_18": ["ed"], "None_19": ["setting"], "None_20": ["pain"], "None_21": ["micu"], "None_22": ["icu"], "None_23": ["infection"], "None_24": ["lungs"], "None_25": ["ct"], "None_26": ["vancomycin"], "None_27": ["concern"], "None_28": ["history"], "None_29": ["home"], "None_30": ["study"], "None_31": ["transfer"], "None_32": ["antibiotics"], "None_33": ["comparison"], "None_34": ["x.x"], "None_35": ["family"], "None_36": ["xxx"], "None_37": ["outpatient"], "None_38": ["baseline"], "None_39": ["aspiration"], "None_40": ["size"], "None_41": ["tip"], "None_42": ["arrival"], "None_43": ["lobe"], "None_44": ["hypotension"], "None_45": ["improvement"], "None_46": ["place"], "None_47": ["lasix"], "None_48": ["pcp"], "None_49": ["pna"], "None_50": ["chf"], "None_51": ["note"], "None_52": ["levofloxacin"], "None_53": ["hospitalization"], "None_54": ["dr."], "None_55": ["consolidation"], "None_56": ["effusion"], "None_57": ["coumadin"], "None_58": ["course"], "None_59": ["diuresis"], "None_60": ["hct"], "None_61": ["ekg"], "None_62": ["fever"], "None_63": ["diarrhea"], "None_64": ["chest"], "None_65": ["pe"], "None_66": ["tube"], "None_67": ["signs"], "None_68": ["heart"], "None_69": ["metoprolol"], "None_70": ["symptoms"], "None_71": ["exam"], "None_72": ["stomach"], "None_73": ["carina"], "None_74": ["breath"], "None_75": ["treatment"], "None_76": ["bp"], "None_77": ["xl"], "None_78": ["fevers"], "None_79": ["cough"], "None_80": ["zosyn"], "None_81": ["addition"], "None_82": ["change"], "None_83": ["systems"], "None_84": ["leukocytosis"], "None_85": ["creatinine"], "None_86": ["review"], "None_87": ["bipap"], "None_88": ["ceftriaxone"], "None_89": ["wbc"], "None_90": ["blood"], "None_91": ["aorta"], "None_92": ["mild"], "None_93": ["fluid"], "None_94": ["lung"], "None_95": ["cardiomegaly"], "None_96": ["osh"], "None_97": ["xxs"], "None_98": ["edema"], "None_99": ["dose"], "None_100": ["care"], "None_101": ["growth"], "None_102": ["appearance"], "None_103": ["hospital"], "None_104": ["inr"], "None_105": ["flagyl"], "None_106": ["cta"], "None_107": ["shortness"], "None_108": ["resolution"], "None_109": ["days"], "None_110": ["nausea"], "None_111": ["stay"], "None_112": ["echo"], "None_113": ["chills"], "None_114": ["tte"], "None_115": ["plan"], "None_116": ["medications"], "None_117": ["level"], "None_118": ["anemia"], "None_119": ["cefepime"], "None_120": ["surgery"], "None_121": ["sob"], "None_122": ["abdomen"], "None_123": ["infiltrate"], "None_124": ["rehab"], "None_125": ["denies"], "None_126": ["labs"], "None_127": ["hypoxia"], "None_128": ["liver"], "None_129": ["above"], "None_130": ["ra"], "None_131": ["possibility"], "None_132": ["pressors"], "None_133": ["episode"], "None_134": ["xxxs"], "None_135": ["cultures"], "None_136": ["changes"], "None_137": ["ivf"], "None_138": ["mediastinum"], "None_139": ["evaluation"], "None_140": ["steroids"], "None_141": ["contrast"], "None_142": ["hd"], "None_143": ["dvt"], "None_144": ["palpitations"], "None_145": ["cr"], "None_146": ["constipation"], "None_147": ["intubation"], "None_148": ["xx.x"], "None_149": ["sepsis"], "None_150": ["azithromycin"], "None_151": ["mri"], "None_152": ["svc"], "None_153": ["lisinopril"], "None_154": ["opacity"], "None_155": ["tachycardia"], "None_156": ["night"], "None_157": ["presentation"], "None_158": ["vitals"], "None_159": ["hypertension"], "None_160": ["cardiology"], "None_161": ["abg"], "None_162": ["dyspnea"], "None_163": ["morning"], "None_164": ["anticoagulation"], "None_165": ["insulin"], "None_166": ["images"], "None_167": ["foley"], "None_168": ["sputum"], "None_169": ["decision"], "None_170": ["rate"], "None_171": ["mass"], "None_172": ["repeat"], "None_173": ["date"], "None_174": ["area"], "None_175": ["asa"], "None_176": ["dysuria"], "None_177": ["house"], "None_178": ["position"], "None_179": ["ascites"], "None_180": ["report"], "None_181": ["scale"], "None_182": ["ccu"], "None_183": ["combination"], "None_184": ["etiology"], "None_185": ["mid"], "None_186": ["post"], "None_187": ["sbp"], "None_188": ["extubation"], "None_189": ["prednisone"], "None_190": ["afib"], "None_191": ["discussion"], "None_192": ["code"], "None_193": ["point"], "None_194": ["lfts"], "None_195": ["speech"], "None_196": ["opacification"], "None_197": ["id"], "None_198": ["procedure"], "None_199": ["acute"], "None_200": ["daughter"], "None_201": ["sedation"], "None_202": ["gi"], "None_203": ["hr"], "None_204": ["statin"], "None_205": ["vanc"], "None_206": ["episodes"], "None_207": ["rest"], "None_208": ["cm"], "None_209": ["copd"], "None_210": ["ppi"], "None_211": ["presence"], "None_212": ["view"], "None_213": ["r"], "None_214": ["myalgias"], "None_215": ["difficulty"], "None_216": ["congestion"], "None_217": ["week"], "None_218": ["aspirin"], "None_219": ["areas"], "None_220": ["total"], "None_221": ["urine"], "None_222": ["bronchoscopy"], "None_223": ["htn"], "None_224": ["today"], "None_225": ["goal"], "None_226": ["heparin"], "None_227": ["amiodarone"], "None_228": ["oxygen"], "None_229": ["placement"], "None_230": ["risk"], "None_231": ["hematocrit"], "None_232": ["nrb"], "None_233": ["question"], "None_234": ["diffuse"], "None_235": ["absence"], "None_236": ["line"], "None_237": ["region"], "None_238": ["vanco"], "None_239": ["source"], "None_240": ["lactate"], "None_241": ["need"], "None_242": ["increase"], "None_243": ["severity"], "None_244": ["levaquin"], "None_245": ["remainder"], "None_246": ["weeks"], "None_247": ["abx"], "None_248": ["picc"], "None_249": ["xxmg"], "None_250": ["regimen"], "None_251": ["diaphragm"], "None_252": ["head"], "None_253": ["ldh"], "None_254": ["dialysis"], "None_255": ["obstruction"], "None_256": ["culture"], "None_257": ["fluids"], "None_258": ["pa"], "None_259": ["masses"], "None_260": ["volume"], "None_261": ["fracture"], "None_262": ["examination"], "None_263": ["goals"], "None_264": ["cpk"], "None_265": ["air"], "None_266": ["rvr"], "None_267": ["trace"], "None_268": ["meropenem"], "None_269": ["neurology"], "None_270": ["vs"], "None_271": ["rhinorrhea"], "None_272": ["monitoring"], "None_273": ["hemorrhage"], "None_274": ["hydronephrosis"], "None_275": ["anxiety"], "None_276": ["pelvis"], "None_277": ["arf"], "None_278": ["albuterol"], "None_279": ["ua"], "None_280": ["x.xx"], "None_281": ["radiograph"], "None_282": ["plavix"], "None_283": ["mrsa"], "None_284": ["sats"], "None_285": ["degree"], "None_286": ["bb"], "None_287": ["wife"], "None_288": ["bases"], "None_289": ["gallbladder"], "None_290": ["son"], "None_291": ["cp"], "None_292": ["ischemia"], "None_293": ["bnp"], "None_294": ["tpn"], "None_295": ["stool"], "None_296": ["tubes"], "None_297": ["effusions"], "None_298": ["times"], "None_299": ["vent"], "None_300": ["cpap"], "None_301": ["extent"], "None_302": ["lack"], "None_303": ["past"], "None_304": ["ptx"], "None_305": ["xxx/xx"], "None_306": ["ef"], "None_307": ["ventilator"], "None_308": ["electrolytes"], "None_309": ["weakness"], "None_310": ["cath"], "None_311": ["hemoptysis"], "None_312": ["cause"], "None_313": ["d/c"], "None_314": ["removal"], "None_315": ["cardiac"], "None_316": ["l"], "None_317": ["depression"], "None_318": ["management"], "None_319": ["extremity"], "None_320": ["component"], "None_321": ["lobes"], "None_322": ["cad"], "None_323": ["colon"], "None_324": ["malignancy"], "None_325": ["ox"], "None_326": ["diltiazem"], "None_327": ["headache"], "None_328": ["tylenol"], "None_329": ["results"], "None_330": ["telemetry"], "None_331": ["appointment"], "None_332": ["pre"], "None_333": ["meds"], "None_334": ["arthralgias"], "None_335": ["mr."], "None_336": ["unit"], "None_337": ["duodenum"], "None_338": ["bactrim"], "None_339": ["morphine"], "None_340": ["xd"], "None_341": ["secretions"], "None_342": ["uti"], "None_343": ["bowel"], "None_344": ["s"], "None_345": ["agitation"], "None_346": ["ards"], "None_347": ["catheter"], "None_348": ["hyponatremia"], "None_349": ["ngt"], "None_350": ["medication"], "None_351": ["lad"], "None_352": ["opacities"], "None_353": ["po"], "None_354": ["hcp"], "None_355": ["prominence"], "None_356": ["ecg"], "None_357": ["digoxin"], "None_358": ["cipro"], "None_359": ["hypothyroidism"], "None_360": ["rash"], "None_361": ["intervention"], "None_362": ["access"], "None_363": ["abscess"], "None_364": ["tamponade"], "None_365": ["elevation"], "None_366": ["platelets"], "None_367": ["bleeding"], "None_368": ["part"], "None_369": ["infiltrates"], "None_370": ["esophagus"], "None_371": ["mi"], "None_372": ["pod"], "None_373": ["hematuria"], "None_374": ["tachypnea"], "None_375": ["orthopnea"], "None_376": ["propofol"], "None_377": ["vegetations"], "None_378": ["diet"], "None_379": ["thrombocytopenia"], "None_380": ["tsh"], "None_381": ["patent"], "None_382": ["progression"], "None_383": ["ativan"], "None_384": ["complaints"], "None_385": ["diagnosis"], "None_386": ["complications"], "None_387": ["lp"], "None_388": ["frequency"], "None_389": ["nutrition"], "None_390": ["bed"], "None_391": ["neck"], "None_392": ["failure"], "None_393": ["trachea"], "None_394": ["tee"], "None_395": ["breathing"], "None_396": ["acei"], "None_397": ["egd"], "None_398": ["leads"], "None_399": ["melena"], "None_400": ["suggestive"], "None_401": ["cx"], "None_402": ["stroke"], "None_403": ["troponin"], "None_404": ["bedside"], "None_405": ["evening"], "None_406": ["ciprofloxacin"], "None_407": ["film"], "None_408": ["thoracentesis"], "None_409": ["trach"], "None_410": ["gain"], "None_411": ["rhythm"], "None_412": ["interval"], "None_413": ["pseudomonas"], "None_414": ["ultrasound"], "None_415": ["bleed"], "None_416": ["cholecystitis"], "None_417": ["decrease"], "None_418": ["diuretics"], "None_419": ["hx"], "None_420": ["end"], "None_421": ["sinus"], "None_422": ["biopsy"], "None_423": ["lesion"], "None_424": ["aeration"], "None_425": ["extremities"], "None_426": ["shift"], "None_427": ["hemodialysis"], "None_428": ["pressures"], "None_429": ["yesterday"], "None_430": ["delirium"], "None_431": ["finding"], "None_432": ["comfort"], "None_433": ["oxygenation"], "None_434": ["renal"], "None_435": ["ns"], "None_436": ["yeast"], "None_437": ["body"], "None_438": ["ir"], "None_439": ["pacemaker"], "None_440": ["pancreas"], "None_441": ["ros"], "None_442": ["site"], "None_443": ["eeg"], "None_444": ["reports"], "None_445": ["tracheostomy"], "None_446": ["exertion"], "None_447": ["folate"], "None_448": ["flow"], "None_449": ["followup"], "None_450": ["rashes"], "None_451": ["seizure"], "None_452": ["i"], "None_453": ["kidneys"], "None_454": ["swallow"], "None_455": ["bladder"], "None_456": ["syncope"], "None_457": ["tx"], "None_458": ["lovenox"], "None_459": ["cmo"], "None_460": ["trial"], "None_461": ["mr"], "None_462": ["urgency"], "None_463": ["use"], "None_464": ["x.he"], "None_465": ["endocarditis"], "None_466": ["iv"], "None_467": ["inpatient"], "None_468": ["future"], "None_469": ["hyperlipidemia"], "None_470": ["instructions"], "None_471": ["peg"], "None_472": ["result"], "None_473": ["work"], "None_474": ["worsening"], "None_475": ["differential"], "None_476": ["nebs"], "None_477": ["recommendations"], "None_478": ["enlargement"], "None_479": ["gas"], "None_480": ["questions"], "None_481": ["seizures"], "None_482": ["hypernatremia"], "None_483": ["nebulizers"], "None_484": ["plans"], "None_485": ["afebrile"], "None_486": ["diabetes"], "None_487": ["hyperkalemia"], "None_488": ["psychiatry"], "None_489": ["stent"], "None_490": ["trend"], "None_491": ["hydralazine"], "None_492": ["nsr"], "None_493": ["clinic"], "None_494": ["vanc/zosyn"], "None_495": ["wound"], "None_496": ["vegetation"], "None_497": ["team"], "None_498": ["cirrhosis"], "None_499": ["order"], "None_500": ["complication"], "None_501": ["development"], "None_502": ["briefly"], "None_503": ["sodium"], "None_504": ["dopamine"], "None_505": ["year"], "None_506": ["prn"], "None_507": ["wall"], "None_508": ["technique"], "None_509": ["base"], "None_510": ["lopressor"], "None_511": ["nc"], "None_512": ["transfusion"], "None_513": ["dizziness"], "None_514": ["emphysema"], "None_515": ["hours"], "None_516": ["assessment"], "None_517": ["cbc"], "None_518": ["commands"], "None_519": ["control"], "None_520": ["hematoma"], "None_521": ["loss"], "None_522": ["ambulation"], "None_523": ["xxxcc"], "None_524": ["outpt"], "None_525": ["xxxx"], "None_526": ["apex"], "None_527": ["colonoscopy"], "None_528": ["event"], "None_529": ["metformin"], "None_530": ["spironolactone"], "None_531": ["dm"], "None_532": ["fib"], "None_533": ["levo"], "None_534": ["consistent"], "None_535": ["prophylaxis"], "None_536": ["bal"], "None_537": ["bands"], "None_538": ["disease"], "None_539": ["doses"], "None_540": ["osteomyelitis"], "None_541": ["ip"], "None_542": ["warfarin"], "None_543": ["x.she"], "None_544": ["coverage"], "None_545": ["ck"], "None_546": ["initiation"], "None_547": ["dehydration"], "None_548": ["lesions"], "None_549": ["ventricles"], "None_550": ["vx"], "None_551": ["correlation"], "None_552": ["ent"], "None_553": ["consideration"], "None_554": ["erythema"], "None_555": ["gram"], "None_556": ["prbcs"], "None_557": ["thrombus"], "None_558": ["rca"], "None_559": ["reason"], "None_560": ["age"], "None_561": ["bradycardia"], "None_562": ["case"], "None_563": ["echocardiogram"], "None_564": ["drainage"], "None_565": ["cap"], "None_566": ["cvvh"], "None_567": ["indication"], "None_568": ["issue"], "None_569": ["chemotherapy"], "None_570": ["lll"], "None_571": ["ctx"], "None_572": ["hematochezia"], "None_573": ["rll"], "None_574": ["studies"], "None_575": ["ett"], "None_576": ["confusion"], "None_577": ["imaging"], "None_578": ["blunting"], "None_579": ["spleen"], "None_580": ["fact"], "None_581": ["hpi"], "None_582": ["stress"], "None_583": ["therapy"], "None_584": ["pancreatitis"], "None_585": ["acyclovir"], "None_586": ["iii"], "None_587": ["basal"], "None_588": ["pneumomediastinum"], "None_589": ["rigors"], "None_590": ["xxxmg"], "None_591": ["haldol"], "None_592": ["response"], "None_593": ["cabg"], "None_594": ["carvedilol"], "None_595": ["density"], "None_596": ["urology"], "None_597": ["events"], "None_598": ["gerd"], "None_599": ["hctz"], "None_600": ["midline"], "None_601": ["pressure"], "None_602": ["assistance"], "None_603": ["k"], "None_604": ["number"], "None_605": ["years"], "None_606": ["dnr/dni"], "None_607": ["er"], "None_608": ["neurosurgery"], "None_609": ["oxycodone"], "None_610": ["xmg"], "None_611": ["bacteremia"], "None_612": ["bronch"], "None_613": ["fluconazole"], "None_614": ["ms."], "None_615": ["records"], "None_616": ["months"], "None_617": ["suspicion"], "None_618": ["brbpr"], "None_619": ["hemodynamics"], "None_620": ["hydrocephalus"], "None_621": ["lines"], "None_622": ["rectum"], "None_623": ["community"], "None_624": ["lantus"], "None_625": ["solumedrol"], "None_626": ["spine"], "None_627": ["states"], "None_628": ["xx/xx"], "None_629": ["context"], "None_630": ["junction"], "None_631": ["month"], "None_632": ["background"], "None_633": ["bone"], "None_634": ["cellulitis"], "None_635": ["views"], "None_636": ["clindamycin"], "None_637": ["potassium"], "None_638": ["suggestion"], "None_639": ["acs"], "None_640": ["amlodipine"], "None_641": ["fall"], "None_642": ["fentanyl"], "None_643": ["pathology"], "None_644": ["advair"], "None_645": ["hiv"], "None_646": ["patients"], "None_647": ["workup"], "None_648": ["cardiologist"], "None_649": ["lcx"], "None_650": ["ileus"], "None_651": ["legionella"], "None_652": ["nature"], "None_653": ["withdrawal"], "None_654": ["calcification"], "None_655": ["hcap"], "None_656": ["npo"], "None_657": ["weight"], "None_658": ["dissection"], "None_659": ["fen"], "None_660": ["husband"], "None_661": ["sbps"], "None_662": ["light"], "None_663": ["stones"], "None_664": ["ventilation"], "None_665": ["ap"], "None_666": ["bicarb"], "None_667": ["collapse"], "None_668": ["lightheadedness"], "None_669": ["sicu"], "None_670": ["thrombi"], "None_671": ["imdur"], "None_672": ["inflammation"], "None_673": ["hydration"], "None_674": ["units"], "None_675": ["bxx"], "None_676": ["contact"], "None_677": ["cytology"], "None_678": ["hypoglycemia"], "None_679": ["mm"], "None_680": ["gib"], "None_681": ["hemolysis"], "None_682": ["sign"], "None_683": ["differences"], "None_684": ["dr"], "None_685": ["gtt"], "None_686": ["presyncope"], "None_687": ["trop"], "None_688": ["["], "None_689": ["pneumothoraces"], "None_690": ["radiology"], "None_691": ["keppra"], "None_692": ["tia"], "None_693": ["kub"], "None_694": ["pneumoboots"], "None_695": ["transaminitis"], "None_696": ["vna"], "None_697": ["borderline"], "None_698": ["ill"], "None_699": ["vre"], "None_700": ["pts"], "None_701": ["transition"], "None_702": ["troponins"], "None_703": ["hap"], "None_704": ["issues"], "None_705": ["nstemi"], "None_706": ["throat"], "None_707": ["bps"], "None_708": ["clot"], "None_709": ["sludge"], "None_710": ["administration"], "None_711": ["amount"], "None_712": ["dka"], "None_713": ["sensitivities"], "None_714": ["ep"], "None_715": ["location"], "None_716": ["meningitis"], "None_717": ["side"], "None_718": ["stenosis"], "None_719": ["sulci"], "None_720": ["tumor"], "None_721": ["brain"], "None_722": ["consolidations"], "None_723": ["dilantin"], "None_724": ["inability"], "None_725": ["food"], "None_726": ["atn"], "None_727": ["tightness"], "None_728": ["x.xl"], "None_729": ["attempts"], "None_730": ["concerns"], "None_731": ["hdx"], "None_732": ["hyperglycemia"], "None_733": ["return"], "None_734": ["suction"], "None_735": ["tf"], "None_736": ["vomiting"], "None_737": ["afternoon"], "None_738": ["albumin"], "None_739": ["ams"], "None_740": ["atenolol"], "None_741": ["f/u"], "None_742": ["fatigue"], "None_743": ["hour"], "None_744": ["hypercarbia"], "None_745": ["mg"], "None_746": ["pairs"], "None_747": ["drop"], "None_748": ["metronidazole"], "None_749": ["portion"], "None_750": ["zyprexa"], "None_751": ["abnormalities"], "None_752": ["af"], "None_753": ["narcotics"], "None_754": ["re"], "None_755": ["levothyroxine"], "None_756": ["methadone"], "None_757": ["temperature"], "None_758": ["ffp"], "None_759": ["attempt"], "None_760": ["na"], "None_761": ["prbc"], "None_762": ["read"], "None_763": ["twi"], "None_764": ["crackles"], "None_765": ["gout"], "None_766": ["calcium"], "None_767": ["element"], "None_768": ["encephalopathy"], "None_769": ["enzymes"], "None_770": ["fractures"], "None_771": ["h/o"], "None_772": ["ii"], "None_773": ["lactulose"], "None_774": ["recurrence"], "None_775": ["bcx"], "None_776": ["avf"], "None_777": ["eyes"], "None_778": ["hemidiaphragm"], "None_779": ["stage"], "None_780": ["desaturation"], "None_781": ["enhancement"], "None_782": ["ms"], "None_783": ["risks"], "None_784": ["stools"], "None_785": ["lenis"], "None_786": ["liquids"], "None_787": ["peep"], "None_788": ["temp"], "None_789": ["xxx.x"], "None_790": ["communication"], "None_791": ["dx"], "None_792": ["hypovolemia"], "None_793": ["death"], "None_794": ["diameter"], "None_795": ["discomfort"], "None_796": ["furosemide"], "None_797": ["gabapentin"], "None_798": ["hypokinesis"], "None_799": ["podx"], "None_800": ["problem"], "None_801": ["cards"], "None_802": ["pneumoperitoneum"], "None_803": ["field"], "None_804": ["infarction"], "None_805": ["lmca"], "None_806": ["none"], "None_807": ["positioning"], "None_808": ["thiamine"], "None_809": ["ace"], "None_810": ["dementia"], "None_811": ["gnr"], "None_812": ["length"], "None_813": ["lingula"], "None_814": ["lvef"], "None_815": ["pfts"], "None_816": ["video"], "None_817": ["c"], "None_818": ["dispo"], "None_819": ["hila"], "None_820": ["mssa"], "None_821": ["protonix"], "None_822": ["klebsiella"], "None_823": ["non"], "None_824": ["origin"], "None_825": ["third"], "None_826": ["abnormality"], "None_827": ["lx"], "None_828": ["boluses"], "None_829": ["c.diff"], "None_830": ["clusters"], "None_831": ["esrd"], "None_832": ["humalog"], "None_833": ["hypoxemia"], "None_834": ["meals"], "None_835": ["notes"], "None_836": ["vap"], "None_837": ["effect"], "None_838": ["focus"], "None_839": ["image"], "None_840": ["loops"], "None_841": ["hilar"], "None_842": ["lipase"], "None_843": ["rul"], "None_844": ["bacteria"], "None_845": ["motion"], "None_846": ["shows"], "None_847": ["diameters"], "None_848": ["levels"], "None_849": ["mouth"], "None_850": ["psych"], "None_851": ["t"], "None_852": ["collection"], "None_853": ["cvl"], "None_854": ["drain"], "None_855": ["recommendation"], "None_856": ["candidate"], "None_857": ["persistent"], "None_858": ["rv"], "None_859": ["function"], "None_860": ["hematology"], "None_861": ["transfusions"], "None_862": ["admit"], "None_863": ["dysphagia"], "None_864": ["tid"], "None_865": ["wnl"], "None_866": ["emesis"], "None_867": ["ercp"], "None_868": ["facility"], "None_869": ["ha"], "None_870": ["ppx"], "None_871": ["atorvastatin"], "None_872": ["fiox"], "None_873": ["iron"], "None_874": ["ortho"], "None_875": ["prelim"], "None_876": ["service"], "None_877": ["svt"], "None_878": ["activity"], "None_879": ["influenza"], "None_880": ["levophed"], "None_881": ["pnd"], "None_882": ["lytes"], "None_883": ["pacer"], "None_884": ["pneumonitis"], "None_885": ["simvastatin"], "None_886": ["zofran"], "None_887": ["limitations"], "None_888": ["lipitor"], "None_889": ["overload"], "None_890": ["pos"], "None_891": ["attention"], "None_892": ["captopril"], "None_893": ["completion"], "None_894": ["ct."], "None_895": ["details"], "None_896": ["drip"], "None_897": ["levo/flagyl"], "None_898": ["microbiology"], "None_899": ["paracentesis"], "None_900": ["rml"], "None_901": ["seroquel"], "None_902": ["taper"], "None_903": ["avl"], "None_904": ["cholelithiasis"], "None_905": ["gentamicin"], "None_906": ["sytems"], "None_907": ["arm"], "None_908": ["cardiomyopathy"], "None_909": ["lvh"], "None_910": ["plts"], "None_911": ["acidosis"], "None_912": ["aztreonam"], "None_913": ["cmv"], "None_914": ["colitis"], "None_915": ["measures"], "None_916": ["pm"], "None_917": ["antihypertensives"], "None_918": ["mask"], "None_919": ["mother"], "None_920": ["rij"], "None_921": ["sister"], "None_922": ["somnolence"], "None_923": ["status"], "None_924": ["tortuosity"], "None_925": ["trauma"], "None_926": ["urinalysis"], "None_927": ["allergy"], "None_928": ["bones"], "None_929": ["gastritis"], "None_930": ["nephrology"], "None_931": ["osa"], "None_932": ["recovery"], "None_933": ["dobhoff"], "None_934": ["hospice"], "None_935": ["n/v"], "None_936": ["cont"], "None_937": ["cva"], "None_938": ["dilaudid"], "None_939": ["hypoxic"], "None_940": ["ivfs"], "None_941": ["omr"], "None_942": ["periods"], "None_943": ["ssi"], "None_944": ["xpm"], "None_945": ["glucose"], "None_946": ["midodrine"], "None_947": ["procedures"], "None_948": ["strength"], "None_949": ["sugars"], "None_950": ["clonidine"], "None_951": ["monitor"], "None_952": ["neg"], "None_953": ["nph"], "None_954": ["pulmonary"], "None_955": ["terms"], "None_956": ["wheezing"], "None_957": ["appointments"], "None_958": ["caliber"], "None_959": ["patchy"], "None_960": ["prescription"], "None_961": ["rr"], "None_962": ["sx"], "None_963": ["tb"], "None_964": ["uop"], "None_965": ["bronchiectasis"], "None_966": ["ddx"], "None_967": ["levoquin"], "None_968": ["neuro"], "None_969": ["ruq"], "None_970": ["saturations"], "None_971": ["cdiff"], "None_972": ["diff"], "None_973": ["exacerbation"], "None_974": ["lymphoma"], "None_975": ["tele"], "None_976": ["u/a"], "None_977": ["gpc"], "None_978": ["port"], "None_979": ["problems"], "None_980": ["stability"], "None_981": ["allopurinol"], "None_982": ["azithro"], "None_983": ["conjunction"], "None_984": ["duration"], "None_985": ["gallstones"], "None_986": ["hepatology"], "None_987": ["inspiration"], "None_988": ["life"], "None_989": ["obscuration"], "None_990": ["peak"], "None_991": ["percocet"], "None_992": ["stone"], "None_993": ["chronic"], "None_994": ["colace"], "None_995": ["dxw"], "None_996": ["range"], "None_997": ["vasopressin"], "None_998": ["antrum"], "None_999": ["asthma"]}
+{
+    "None_0": [
+        "patient"
+    ],
+    "None_1": [
+        "pt"
+    ],
+    "None_2": [
+        "evidence"
+    ],
+    "None_3": [
+        "admission"
+    ],
+    "None_4": [
+        "discharge"
+    ],
+    "None_5": [
+        "x"
+    ],
+    "None_6": [
+        "time"
+    ],
+    "None_7": [
+        "pneumothorax"
+    ],
+    "None_8": [
+        "pneumonia"
+    ],
+    "None_9": [
+        "xx"
+    ],
+    "None_10": [
+        "cxr"
+    ],
+    "None_11": [
+        "floor"
+    ],
+    "None_12": [
+        "left"
+    ],
+    "None_13": [
+        "impression"
+    ],
+    "None_14": [
+        "findings"
+    ],
+    "None_15": [
+        "atelectasis"
+    ],
+    "None_16": [
+        "day"
+    ],
+    "None_17": [
+        "right"
+    ],
+    "None_18": [
+        "ed"
+    ],
+    "None_19": [
+        "setting"
+    ],
+    "None_20": [
+        "pain"
+    ],
+    "None_21": [
+        "micu"
+    ],
+    "None_22": [
+        "icu"
+    ],
+    "None_23": [
+        "infection"
+    ],
+    "None_24": [
+        "lungs"
+    ],
+    "None_25": [
+        "ct"
+    ],
+    "None_26": [
+        "vancomycin"
+    ],
+    "None_27": [
+        "concern"
+    ],
+    "None_28": [
+        "history"
+    ],
+    "None_29": [
+        "home"
+    ],
+    "None_30": [
+        "study"
+    ],
+    "None_31": [
+        "transfer"
+    ],
+    "None_32": [
+        "antibiotics"
+    ],
+    "None_33": [
+        "comparison"
+    ],
+    "None_34": [
+        "x.x"
+    ],
+    "None_35": [
+        "family"
+    ],
+    "None_36": [
+        "xxx"
+    ],
+    "None_37": [
+        "outpatient"
+    ],
+    "None_38": [
+        "baseline"
+    ],
+    "None_39": [
+        "aspiration"
+    ],
+    "None_40": [
+        "size"
+    ],
+    "None_41": [
+        "tip"
+    ],
+    "None_42": [
+        "arrival"
+    ],
+    "None_43": [
+        "lobe"
+    ],
+    "None_44": [
+        "hypotension"
+    ],
+    "None_45": [
+        "improvement"
+    ],
+    "None_46": [
+        "place"
+    ],
+    "None_47": [
+        "lasix"
+    ],
+    "None_48": [
+        "pcp"
+    ],
+    "None_49": [
+        "pna"
+    ],
+    "None_50": [
+        "chf"
+    ],
+    "None_51": [
+        "note"
+    ],
+    "None_52": [
+        "levofloxacin"
+    ],
+    "None_53": [
+        "hospitalization"
+    ],
+    "None_54": [
+        "dr."
+    ],
+    "None_55": [
+        "consolidation"
+    ],
+    "None_56": [
+        "effusion"
+    ],
+    "None_57": [
+        "coumadin"
+    ],
+    "None_58": [
+        "course"
+    ],
+    "None_59": [
+        "diuresis"
+    ],
+    "None_60": [
+        "hct"
+    ],
+    "None_61": [
+        "ekg"
+    ],
+    "None_62": [
+        "fever"
+    ],
+    "None_63": [
+        "diarrhea"
+    ],
+    "None_64": [
+        "chest"
+    ],
+    "None_65": [
+        "pe"
+    ],
+    "None_66": [
+        "tube"
+    ],
+    "None_67": [
+        "signs"
+    ],
+    "None_68": [
+        "heart"
+    ],
+    "None_69": [
+        "metoprolol"
+    ],
+    "None_70": [
+        "symptoms"
+    ],
+    "None_71": [
+        "exam"
+    ],
+    "None_72": [
+        "stomach"
+    ],
+    "None_73": [
+        "carina"
+    ],
+    "None_74": [
+        "breath"
+    ],
+    "None_75": [
+        "treatment"
+    ],
+    "None_76": [
+        "bp"
+    ],
+    "None_77": [
+        "xl"
+    ],
+    "None_78": [
+        "fevers"
+    ],
+    "None_79": [
+        "cough"
+    ],
+    "None_80": [
+        "zosyn"
+    ],
+    "None_81": [
+        "addition"
+    ],
+    "None_82": [
+        "change"
+    ],
+    "None_83": [
+        "systems"
+    ],
+    "None_84": [
+        "leukocytosis"
+    ],
+    "None_85": [
+        "creatinine"
+    ],
+    "None_86": [
+        "review"
+    ],
+    "None_87": [
+        "bipap"
+    ],
+    "None_88": [
+        "ceftriaxone"
+    ],
+    "None_89": [
+        "wbc"
+    ],
+    "None_90": [
+        "blood"
+    ],
+    "None_91": [
+        "aorta"
+    ],
+    "None_92": [
+        "mild"
+    ],
+    "None_93": [
+        "fluid"
+    ],
+    "None_94": [
+        "lung"
+    ],
+    "None_95": [
+        "cardiomegaly"
+    ],
+    "None_96": [
+        "osh"
+    ],
+    "None_97": [
+        "xxs"
+    ],
+    "None_98": [
+        "edema"
+    ],
+    "None_99": [
+        "dose"
+    ],
+    "None_100": [
+        "care"
+    ],
+    "None_101": [
+        "growth"
+    ],
+    "None_102": [
+        "appearance"
+    ],
+    "None_103": [
+        "hospital"
+    ],
+    "None_104": [
+        "inr"
+    ],
+    "None_105": [
+        "flagyl"
+    ],
+    "None_106": [
+        "cta"
+    ],
+    "None_107": [
+        "shortness"
+    ],
+    "None_108": [
+        "resolution"
+    ],
+    "None_109": [
+        "days"
+    ],
+    "None_110": [
+        "nausea"
+    ],
+    "None_111": [
+        "stay"
+    ],
+    "None_112": [
+        "echo"
+    ],
+    "None_113": [
+        "chills"
+    ],
+    "None_114": [
+        "tte"
+    ],
+    "None_115": [
+        "plan"
+    ],
+    "None_116": [
+        "medications"
+    ],
+    "None_117": [
+        "level"
+    ],
+    "None_118": [
+        "anemia"
+    ],
+    "None_119": [
+        "cefepime"
+    ],
+    "None_120": [
+        "surgery"
+    ],
+    "None_121": [
+        "sob"
+    ],
+    "None_122": [
+        "abdomen"
+    ],
+    "None_123": [
+        "infiltrate"
+    ],
+    "None_124": [
+        "rehab"
+    ],
+    "None_125": [
+        "denies"
+    ],
+    "None_126": [
+        "labs"
+    ],
+    "None_127": [
+        "hypoxia"
+    ],
+    "None_128": [
+        "liver"
+    ],
+    "None_129": [
+        "above"
+    ],
+    "None_130": [
+        "ra"
+    ],
+    "None_131": [
+        "possibility"
+    ],
+    "None_132": [
+        "pressors"
+    ],
+    "None_133": [
+        "episode"
+    ],
+    "None_134": [
+        "xxxs"
+    ],
+    "None_135": [
+        "cultures"
+    ],
+    "None_136": [
+        "changes"
+    ],
+    "None_137": [
+        "ivf"
+    ],
+    "None_138": [
+        "mediastinum"
+    ],
+    "None_139": [
+        "evaluation"
+    ],
+    "None_140": [
+        "steroids"
+    ],
+    "None_141": [
+        "contrast"
+    ],
+    "None_142": [
+        "hd"
+    ],
+    "None_143": [
+        "dvt"
+    ],
+    "None_144": [
+        "palpitations"
+    ],
+    "None_145": [
+        "cr"
+    ],
+    "None_146": [
+        "constipation"
+    ],
+    "None_147": [
+        "intubation"
+    ],
+    "None_148": [
+        "xx.x"
+    ],
+    "None_149": [
+        "sepsis"
+    ],
+    "None_150": [
+        "azithromycin"
+    ],
+    "None_151": [
+        "mri"
+    ],
+    "None_152": [
+        "svc"
+    ],
+    "None_153": [
+        "lisinopril"
+    ],
+    "None_154": [
+        "opacity"
+    ],
+    "None_155": [
+        "tachycardia"
+    ],
+    "None_156": [
+        "night"
+    ],
+    "None_157": [
+        "presentation"
+    ],
+    "None_158": [
+        "vitals"
+    ],
+    "None_159": [
+        "hypertension"
+    ],
+    "None_160": [
+        "cardiology"
+    ],
+    "None_161": [
+        "abg"
+    ],
+    "None_162": [
+        "dyspnea"
+    ],
+    "None_163": [
+        "morning"
+    ],
+    "None_164": [
+        "anticoagulation"
+    ],
+    "None_165": [
+        "insulin"
+    ],
+    "None_166": [
+        "images"
+    ],
+    "None_167": [
+        "foley"
+    ],
+    "None_168": [
+        "sputum"
+    ],
+    "None_169": [
+        "decision"
+    ],
+    "None_170": [
+        "rate"
+    ],
+    "None_171": [
+        "mass"
+    ],
+    "None_172": [
+        "repeat"
+    ],
+    "None_173": [
+        "date"
+    ],
+    "None_174": [
+        "area"
+    ],
+    "None_175": [
+        "asa"
+    ],
+    "None_176": [
+        "dysuria"
+    ],
+    "None_177": [
+        "house"
+    ],
+    "None_178": [
+        "position"
+    ],
+    "None_179": [
+        "ascites"
+    ],
+    "None_180": [
+        "report"
+    ],
+    "None_181": [
+        "scale"
+    ],
+    "None_182": [
+        "ccu"
+    ],
+    "None_183": [
+        "combination"
+    ],
+    "None_184": [
+        "etiology"
+    ],
+    "None_185": [
+        "mid"
+    ],
+    "None_186": [
+        "post"
+    ],
+    "None_187": [
+        "sbp"
+    ],
+    "None_188": [
+        "extubation"
+    ],
+    "None_189": [
+        "prednisone"
+    ],
+    "None_190": [
+        "afib"
+    ],
+    "None_191": [
+        "discussion"
+    ],
+    "None_192": [
+        "code"
+    ],
+    "None_193": [
+        "point"
+    ],
+    "None_194": [
+        "lfts"
+    ],
+    "None_195": [
+        "speech"
+    ],
+    "None_196": [
+        "opacification"
+    ],
+    "None_197": [
+        "id"
+    ],
+    "None_198": [
+        "procedure"
+    ],
+    "None_199": [
+        "acute"
+    ],
+    "None_200": [
+        "daughter"
+    ],
+    "None_201": [
+        "sedation"
+    ],
+    "None_202": [
+        "gi"
+    ],
+    "None_203": [
+        "hr"
+    ],
+    "None_204": [
+        "statin"
+    ],
+    "None_205": [
+        "vanc"
+    ],
+    "None_206": [
+        "episodes"
+    ],
+    "None_207": [
+        "rest"
+    ],
+    "None_208": [
+        "cm"
+    ],
+    "None_209": [
+        "copd"
+    ],
+    "None_210": [
+        "ppi"
+    ],
+    "None_211": [
+        "presence"
+    ],
+    "None_212": [
+        "view"
+    ],
+    "None_213": [
+        "r"
+    ],
+    "None_214": [
+        "myalgias"
+    ],
+    "None_215": [
+        "difficulty"
+    ],
+    "None_216": [
+        "congestion"
+    ],
+    "None_217": [
+        "week"
+    ],
+    "None_218": [
+        "aspirin"
+    ],
+    "None_219": [
+        "areas"
+    ],
+    "None_220": [
+        "total"
+    ],
+    "None_221": [
+        "urine"
+    ],
+    "None_222": [
+        "bronchoscopy"
+    ],
+    "None_223": [
+        "htn"
+    ],
+    "None_224": [
+        "today"
+    ],
+    "None_225": [
+        "goal"
+    ],
+    "None_226": [
+        "heparin"
+    ],
+    "None_227": [
+        "amiodarone"
+    ],
+    "None_228": [
+        "oxygen"
+    ],
+    "None_229": [
+        "placement"
+    ],
+    "None_230": [
+        "risk"
+    ],
+    "None_231": [
+        "hematocrit"
+    ],
+    "None_232": [
+        "nrb"
+    ],
+    "None_233": [
+        "question"
+    ],
+    "None_234": [
+        "diffuse"
+    ],
+    "None_235": [
+        "absence"
+    ],
+    "None_236": [
+        "line"
+    ],
+    "None_237": [
+        "region"
+    ],
+    "None_238": [
+        "vanco"
+    ],
+    "None_239": [
+        "source"
+    ],
+    "None_240": [
+        "lactate"
+    ],
+    "None_241": [
+        "need"
+    ],
+    "None_242": [
+        "increase"
+    ],
+    "None_243": [
+        "severity"
+    ],
+    "None_244": [
+        "levaquin"
+    ],
+    "None_245": [
+        "remainder"
+    ],
+    "None_246": [
+        "weeks"
+    ],
+    "None_247": [
+        "abx"
+    ],
+    "None_248": [
+        "picc"
+    ],
+    "None_249": [
+        "xxmg"
+    ],
+    "None_250": [
+        "regimen"
+    ],
+    "None_251": [
+        "diaphragm"
+    ],
+    "None_252": [
+        "head"
+    ],
+    "None_253": [
+        "ldh"
+    ],
+    "None_254": [
+        "dialysis"
+    ],
+    "None_255": [
+        "obstruction"
+    ],
+    "None_256": [
+        "culture"
+    ],
+    "None_257": [
+        "fluids"
+    ],
+    "None_258": [
+        "pa"
+    ],
+    "None_259": [
+        "masses"
+    ],
+    "None_260": [
+        "volume"
+    ],
+    "None_261": [
+        "fracture"
+    ],
+    "None_262": [
+        "examination"
+    ],
+    "None_263": [
+        "goals"
+    ],
+    "None_264": [
+        "cpk"
+    ],
+    "None_265": [
+        "air"
+    ],
+    "None_266": [
+        "rvr"
+    ],
+    "None_267": [
+        "trace"
+    ],
+    "None_268": [
+        "meropenem"
+    ],
+    "None_269": [
+        "neurology"
+    ],
+    "None_270": [
+        "vs"
+    ],
+    "None_271": [
+        "rhinorrhea"
+    ],
+    "None_272": [
+        "monitoring"
+    ],
+    "None_273": [
+        "hemorrhage"
+    ],
+    "None_274": [
+        "hydronephrosis"
+    ],
+    "None_275": [
+        "anxiety"
+    ],
+    "None_276": [
+        "pelvis"
+    ],
+    "None_277": [
+        "arf"
+    ],
+    "None_278": [
+        "albuterol"
+    ],
+    "None_279": [
+        "ua"
+    ],
+    "None_280": [
+        "x.xx"
+    ],
+    "None_281": [
+        "radiograph"
+    ],
+    "None_282": [
+        "plavix"
+    ],
+    "None_283": [
+        "mrsa"
+    ],
+    "None_284": [
+        "sats"
+    ],
+    "None_285": [
+        "degree"
+    ],
+    "None_286": [
+        "bb"
+    ],
+    "None_287": [
+        "wife"
+    ],
+    "None_288": [
+        "bases"
+    ],
+    "None_289": [
+        "gallbladder"
+    ],
+    "None_290": [
+        "son"
+    ],
+    "None_291": [
+        "cp"
+    ],
+    "None_292": [
+        "ischemia"
+    ],
+    "None_293": [
+        "bnp"
+    ],
+    "None_294": [
+        "tpn"
+    ],
+    "None_295": [
+        "stool"
+    ],
+    "None_296": [
+        "tubes"
+    ],
+    "None_297": [
+        "effusions"
+    ],
+    "None_298": [
+        "times"
+    ],
+    "None_299": [
+        "vent"
+    ],
+    "None_300": [
+        "cpap"
+    ],
+    "None_301": [
+        "extent"
+    ],
+    "None_302": [
+        "lack"
+    ],
+    "None_303": [
+        "past"
+    ],
+    "None_304": [
+        "ptx"
+    ],
+    "None_305": [
+        "xxx/xx"
+    ],
+    "None_306": [
+        "ef"
+    ],
+    "None_307": [
+        "ventilator"
+    ],
+    "None_308": [
+        "electrolytes"
+    ],
+    "None_309": [
+        "weakness"
+    ],
+    "None_310": [
+        "cath"
+    ],
+    "None_311": [
+        "hemoptysis"
+    ],
+    "None_312": [
+        "cause"
+    ],
+    "None_313": [
+        "d/c"
+    ],
+    "None_314": [
+        "removal"
+    ],
+    "None_315": [
+        "cardiac"
+    ],
+    "None_316": [
+        "l"
+    ],
+    "None_317": [
+        "depression"
+    ],
+    "None_318": [
+        "management"
+    ],
+    "None_319": [
+        "extremity"
+    ],
+    "None_320": [
+        "component"
+    ],
+    "None_321": [
+        "lobes"
+    ],
+    "None_322": [
+        "cad"
+    ],
+    "None_323": [
+        "colon"
+    ],
+    "None_324": [
+        "malignancy"
+    ],
+    "None_325": [
+        "ox"
+    ],
+    "None_326": [
+        "diltiazem"
+    ],
+    "None_327": [
+        "headache"
+    ],
+    "None_328": [
+        "tylenol"
+    ],
+    "None_329": [
+        "results"
+    ],
+    "None_330": [
+        "telemetry"
+    ],
+    "None_331": [
+        "appointment"
+    ],
+    "None_332": [
+        "pre"
+    ],
+    "None_333": [
+        "meds"
+    ],
+    "None_334": [
+        "arthralgias"
+    ],
+    "None_335": [
+        "mr."
+    ],
+    "None_336": [
+        "unit"
+    ],
+    "None_337": [
+        "duodenum"
+    ],
+    "None_338": [
+        "bactrim"
+    ],
+    "None_339": [
+        "morphine"
+    ],
+    "None_340": [
+        "xd"
+    ],
+    "None_341": [
+        "secretions"
+    ],
+    "None_342": [
+        "uti"
+    ],
+    "None_343": [
+        "bowel"
+    ],
+    "None_344": [
+        "s"
+    ],
+    "None_345": [
+        "agitation"
+    ],
+    "None_346": [
+        "ards"
+    ],
+    "None_347": [
+        "catheter"
+    ],
+    "None_348": [
+        "hyponatremia"
+    ],
+    "None_349": [
+        "ngt"
+    ],
+    "None_350": [
+        "medication"
+    ],
+    "None_351": [
+        "lad"
+    ],
+    "None_352": [
+        "opacities"
+    ],
+    "None_353": [
+        "po"
+    ],
+    "None_354": [
+        "hcp"
+    ],
+    "None_355": [
+        "prominence"
+    ],
+    "None_356": [
+        "ecg"
+    ],
+    "None_357": [
+        "digoxin"
+    ],
+    "None_358": [
+        "cipro"
+    ],
+    "None_359": [
+        "hypothyroidism"
+    ],
+    "None_360": [
+        "rash"
+    ],
+    "None_361": [
+        "intervention"
+    ],
+    "None_362": [
+        "access"
+    ],
+    "None_363": [
+        "abscess"
+    ],
+    "None_364": [
+        "tamponade"
+    ],
+    "None_365": [
+        "elevation"
+    ],
+    "None_366": [
+        "platelets"
+    ],
+    "None_367": [
+        "bleeding"
+    ],
+    "None_368": [
+        "part"
+    ],
+    "None_369": [
+        "infiltrates"
+    ],
+    "None_370": [
+        "esophagus"
+    ],
+    "None_371": [
+        "mi"
+    ],
+    "None_372": [
+        "pod"
+    ],
+    "None_373": [
+        "hematuria"
+    ],
+    "None_374": [
+        "tachypnea"
+    ],
+    "None_375": [
+        "orthopnea"
+    ],
+    "None_376": [
+        "propofol"
+    ],
+    "None_377": [
+        "vegetations"
+    ],
+    "None_378": [
+        "diet"
+    ],
+    "None_379": [
+        "thrombocytopenia"
+    ],
+    "None_380": [
+        "tsh"
+    ],
+    "None_381": [
+        "patent"
+    ],
+    "None_382": [
+        "progression"
+    ],
+    "None_383": [
+        "ativan"
+    ],
+    "None_384": [
+        "complaints"
+    ],
+    "None_385": [
+        "diagnosis"
+    ],
+    "None_386": [
+        "complications"
+    ],
+    "None_387": [
+        "lp"
+    ],
+    "None_388": [
+        "frequency"
+    ],
+    "None_389": [
+        "nutrition"
+    ],
+    "None_390": [
+        "bed"
+    ],
+    "None_391": [
+        "neck"
+    ],
+    "None_392": [
+        "failure"
+    ],
+    "None_393": [
+        "trachea"
+    ],
+    "None_394": [
+        "tee"
+    ],
+    "None_395": [
+        "breathing"
+    ],
+    "None_396": [
+        "acei"
+    ],
+    "None_397": [
+        "egd"
+    ],
+    "None_398": [
+        "leads"
+    ],
+    "None_399": [
+        "melena"
+    ],
+    "None_400": [
+        "suggestive"
+    ],
+    "None_401": [
+        "cx"
+    ],
+    "None_402": [
+        "stroke"
+    ],
+    "None_403": [
+        "troponin"
+    ],
+    "None_404": [
+        "bedside"
+    ],
+    "None_405": [
+        "evening"
+    ],
+    "None_406": [
+        "ciprofloxacin"
+    ],
+    "None_407": [
+        "film"
+    ],
+    "None_408": [
+        "thoracentesis"
+    ],
+    "None_409": [
+        "trach"
+    ],
+    "None_410": [
+        "gain"
+    ],
+    "None_411": [
+        "rhythm"
+    ],
+    "None_412": [
+        "interval"
+    ],
+    "None_413": [
+        "pseudomonas"
+    ],
+    "None_414": [
+        "ultrasound"
+    ],
+    "None_415": [
+        "bleed"
+    ],
+    "None_416": [
+        "cholecystitis"
+    ],
+    "None_417": [
+        "decrease"
+    ],
+    "None_418": [
+        "diuretics"
+    ],
+    "None_419": [
+        "hx"
+    ],
+    "None_420": [
+        "end"
+    ],
+    "None_421": [
+        "sinus"
+    ],
+    "None_422": [
+        "biopsy"
+    ],
+    "None_423": [
+        "lesion"
+    ],
+    "None_424": [
+        "aeration"
+    ],
+    "None_425": [
+        "extremities"
+    ],
+    "None_426": [
+        "shift"
+    ],
+    "None_427": [
+        "hemodialysis"
+    ],
+    "None_428": [
+        "pressures"
+    ],
+    "None_429": [
+        "yesterday"
+    ],
+    "None_430": [
+        "delirium"
+    ],
+    "None_431": [
+        "finding"
+    ],
+    "None_432": [
+        "comfort"
+    ],
+    "None_433": [
+        "oxygenation"
+    ],
+    "None_434": [
+        "renal"
+    ],
+    "None_435": [
+        "ns"
+    ],
+    "None_436": [
+        "yeast"
+    ],
+    "None_437": [
+        "body"
+    ],
+    "None_438": [
+        "ir"
+    ],
+    "None_439": [
+        "pacemaker"
+    ],
+    "None_440": [
+        "pancreas"
+    ],
+    "None_441": [
+        "ros"
+    ],
+    "None_442": [
+        "site"
+    ],
+    "None_443": [
+        "eeg"
+    ],
+    "None_444": [
+        "reports"
+    ],
+    "None_445": [
+        "tracheostomy"
+    ],
+    "None_446": [
+        "exertion"
+    ],
+    "None_447": [
+        "folate"
+    ],
+    "None_448": [
+        "flow"
+    ],
+    "None_449": [
+        "followup"
+    ],
+    "None_450": [
+        "rashes"
+    ],
+    "None_451": [
+        "seizure"
+    ],
+    "None_452": [
+        "i"
+    ],
+    "None_453": [
+        "kidneys"
+    ],
+    "None_454": [
+        "swallow"
+    ],
+    "None_455": [
+        "bladder"
+    ],
+    "None_456": [
+        "syncope"
+    ],
+    "None_457": [
+        "tx"
+    ],
+    "None_458": [
+        "lovenox"
+    ],
+    "None_459": [
+        "cmo"
+    ],
+    "None_460": [
+        "trial"
+    ],
+    "None_461": [
+        "mr"
+    ],
+    "None_462": [
+        "urgency"
+    ],
+    "None_463": [
+        "use"
+    ],
+    "None_464": [
+        "x.he"
+    ],
+    "None_465": [
+        "endocarditis"
+    ],
+    "None_466": [
+        "iv"
+    ],
+    "None_467": [
+        "inpatient"
+    ],
+    "None_468": [
+        "future"
+    ],
+    "None_469": [
+        "hyperlipidemia"
+    ],
+    "None_470": [
+        "instructions"
+    ],
+    "None_471": [
+        "peg"
+    ],
+    "None_472": [
+        "result"
+    ],
+    "None_473": [
+        "work"
+    ],
+    "None_474": [
+        "worsening"
+    ],
+    "None_475": [
+        "differential"
+    ],
+    "None_476": [
+        "nebs"
+    ],
+    "None_477": [
+        "recommendations"
+    ],
+    "None_478": [
+        "enlargement"
+    ],
+    "None_479": [
+        "gas"
+    ],
+    "None_480": [
+        "questions"
+    ],
+    "None_481": [
+        "seizures"
+    ],
+    "None_482": [
+        "hypernatremia"
+    ],
+    "None_483": [
+        "nebulizers"
+    ],
+    "None_484": [
+        "plans"
+    ],
+    "None_485": [
+        "afebrile"
+    ],
+    "None_486": [
+        "diabetes"
+    ],
+    "None_487": [
+        "hyperkalemia"
+    ],
+    "None_488": [
+        "psychiatry"
+    ],
+    "None_489": [
+        "stent"
+    ],
+    "None_490": [
+        "trend"
+    ],
+    "None_491": [
+        "hydralazine"
+    ],
+    "None_492": [
+        "nsr"
+    ],
+    "None_493": [
+        "clinic"
+    ],
+    "None_494": [
+        "vanc/zosyn"
+    ],
+    "None_495": [
+        "wound"
+    ],
+    "None_496": [
+        "vegetation"
+    ],
+    "None_497": [
+        "team"
+    ],
+    "None_498": [
+        "cirrhosis"
+    ],
+    "None_499": [
+        "order"
+    ],
+    "None_500": [
+        "complication"
+    ],
+    "None_501": [
+        "development"
+    ],
+    "None_502": [
+        "briefly"
+    ],
+    "None_503": [
+        "sodium"
+    ],
+    "None_504": [
+        "dopamine"
+    ],
+    "None_505": [
+        "year"
+    ],
+    "None_506": [
+        "prn"
+    ],
+    "None_507": [
+        "wall"
+    ],
+    "None_508": [
+        "technique"
+    ],
+    "None_509": [
+        "base"
+    ],
+    "None_510": [
+        "lopressor"
+    ],
+    "None_511": [
+        "nc"
+    ],
+    "None_512": [
+        "transfusion"
+    ],
+    "None_513": [
+        "dizziness"
+    ],
+    "None_514": [
+        "emphysema"
+    ],
+    "None_515": [
+        "hours"
+    ],
+    "None_516": [
+        "assessment"
+    ],
+    "None_517": [
+        "cbc"
+    ],
+    "None_518": [
+        "commands"
+    ],
+    "None_519": [
+        "control"
+    ],
+    "None_520": [
+        "hematoma"
+    ],
+    "None_521": [
+        "loss"
+    ],
+    "None_522": [
+        "ambulation"
+    ],
+    "None_523": [
+        "xxxcc"
+    ],
+    "None_524": [
+        "outpt"
+    ],
+    "None_525": [
+        "xxxx"
+    ],
+    "None_526": [
+        "apex"
+    ],
+    "None_527": [
+        "colonoscopy"
+    ],
+    "None_528": [
+        "event"
+    ],
+    "None_529": [
+        "metformin"
+    ],
+    "None_530": [
+        "spironolactone"
+    ],
+    "None_531": [
+        "dm"
+    ],
+    "None_532": [
+        "fib"
+    ],
+    "None_533": [
+        "levo"
+    ],
+    "None_534": [
+        "consistent"
+    ],
+    "None_535": [
+        "prophylaxis"
+    ],
+    "None_536": [
+        "bal"
+    ],
+    "None_537": [
+        "bands"
+    ],
+    "None_538": [
+        "disease"
+    ],
+    "None_539": [
+        "doses"
+    ],
+    "None_540": [
+        "osteomyelitis"
+    ],
+    "None_541": [
+        "ip"
+    ],
+    "None_542": [
+        "warfarin"
+    ],
+    "None_543": [
+        "x.she"
+    ],
+    "None_544": [
+        "coverage"
+    ],
+    "None_545": [
+        "ck"
+    ],
+    "None_546": [
+        "initiation"
+    ],
+    "None_547": [
+        "dehydration"
+    ],
+    "None_548": [
+        "lesions"
+    ],
+    "None_549": [
+        "ventricles"
+    ],
+    "None_550": [
+        "vx"
+    ],
+    "None_551": [
+        "correlation"
+    ],
+    "None_552": [
+        "ent"
+    ],
+    "None_553": [
+        "consideration"
+    ],
+    "None_554": [
+        "erythema"
+    ],
+    "None_555": [
+        "gram"
+    ],
+    "None_556": [
+        "prbcs"
+    ],
+    "None_557": [
+        "thrombus"
+    ],
+    "None_558": [
+        "rca"
+    ],
+    "None_559": [
+        "reason"
+    ],
+    "None_560": [
+        "age"
+    ],
+    "None_561": [
+        "bradycardia"
+    ],
+    "None_562": [
+        "case"
+    ],
+    "None_563": [
+        "echocardiogram"
+    ],
+    "None_564": [
+        "drainage"
+    ],
+    "None_565": [
+        "cap"
+    ],
+    "None_566": [
+        "cvvh"
+    ],
+    "None_567": [
+        "indication"
+    ],
+    "None_568": [
+        "issue"
+    ],
+    "None_569": [
+        "chemotherapy"
+    ],
+    "None_570": [
+        "lll"
+    ],
+    "None_571": [
+        "ctx"
+    ],
+    "None_572": [
+        "hematochezia"
+    ],
+    "None_573": [
+        "rll"
+    ],
+    "None_574": [
+        "studies"
+    ],
+    "None_575": [
+        "ett"
+    ],
+    "None_576": [
+        "confusion"
+    ],
+    "None_577": [
+        "imaging"
+    ],
+    "None_578": [
+        "blunting"
+    ],
+    "None_579": [
+        "spleen"
+    ],
+    "None_580": [
+        "fact"
+    ],
+    "None_581": [
+        "hpi"
+    ],
+    "None_582": [
+        "stress"
+    ],
+    "None_583": [
+        "therapy"
+    ],
+    "None_584": [
+        "pancreatitis"
+    ],
+    "None_585": [
+        "acyclovir"
+    ],
+    "None_586": [
+        "iii"
+    ],
+    "None_587": [
+        "basal"
+    ],
+    "None_588": [
+        "pneumomediastinum"
+    ],
+    "None_589": [
+        "rigors"
+    ],
+    "None_590": [
+        "xxxmg"
+    ],
+    "None_591": [
+        "haldol"
+    ],
+    "None_592": [
+        "response"
+    ],
+    "None_593": [
+        "cabg"
+    ],
+    "None_594": [
+        "carvedilol"
+    ],
+    "None_595": [
+        "density"
+    ],
+    "None_596": [
+        "urology"
+    ],
+    "None_597": [
+        "events"
+    ],
+    "None_598": [
+        "gerd"
+    ],
+    "None_599": [
+        "hctz"
+    ],
+    "None_600": [
+        "midline"
+    ],
+    "None_601": [
+        "pressure"
+    ],
+    "None_602": [
+        "assistance"
+    ],
+    "None_603": [
+        "k"
+    ],
+    "None_604": [
+        "number"
+    ],
+    "None_605": [
+        "years"
+    ],
+    "None_606": [
+        "dnr/dni"
+    ],
+    "None_607": [
+        "er"
+    ],
+    "None_608": [
+        "neurosurgery"
+    ],
+    "None_609": [
+        "oxycodone"
+    ],
+    "None_610": [
+        "xmg"
+    ],
+    "None_611": [
+        "bacteremia"
+    ],
+    "None_612": [
+        "bronch"
+    ],
+    "None_613": [
+        "fluconazole"
+    ],
+    "None_614": [
+        "ms."
+    ],
+    "None_615": [
+        "records"
+    ],
+    "None_616": [
+        "months"
+    ],
+    "None_617": [
+        "suspicion"
+    ],
+    "None_618": [
+        "brbpr"
+    ],
+    "None_619": [
+        "hemodynamics"
+    ],
+    "None_620": [
+        "hydrocephalus"
+    ],
+    "None_621": [
+        "lines"
+    ],
+    "None_622": [
+        "rectum"
+    ],
+    "None_623": [
+        "community"
+    ],
+    "None_624": [
+        "lantus"
+    ],
+    "None_625": [
+        "solumedrol"
+    ],
+    "None_626": [
+        "spine"
+    ],
+    "None_627": [
+        "states"
+    ],
+    "None_628": [
+        "xx/xx"
+    ],
+    "None_629": [
+        "context"
+    ],
+    "None_630": [
+        "junction"
+    ],
+    "None_631": [
+        "month"
+    ],
+    "None_632": [
+        "background"
+    ],
+    "None_633": [
+        "bone"
+    ],
+    "None_634": [
+        "cellulitis"
+    ],
+    "None_635": [
+        "views"
+    ],
+    "None_636": [
+        "clindamycin"
+    ],
+    "None_637": [
+        "potassium"
+    ],
+    "None_638": [
+        "suggestion"
+    ],
+    "None_639": [
+        "acs"
+    ],
+    "None_640": [
+        "amlodipine"
+    ],
+    "None_641": [
+        "fall"
+    ],
+    "None_642": [
+        "fentanyl"
+    ],
+    "None_643": [
+        "pathology"
+    ],
+    "None_644": [
+        "advair"
+    ],
+    "None_645": [
+        "hiv"
+    ],
+    "None_646": [
+        "patients"
+    ],
+    "None_647": [
+        "workup"
+    ],
+    "None_648": [
+        "cardiologist"
+    ],
+    "None_649": [
+        "lcx"
+    ],
+    "None_650": [
+        "ileus"
+    ],
+    "None_651": [
+        "legionella"
+    ],
+    "None_652": [
+        "nature"
+    ],
+    "None_653": [
+        "withdrawal"
+    ],
+    "None_654": [
+        "calcification"
+    ],
+    "None_655": [
+        "hcap"
+    ],
+    "None_656": [
+        "npo"
+    ],
+    "None_657": [
+        "weight"
+    ],
+    "None_658": [
+        "dissection"
+    ],
+    "None_659": [
+        "fen"
+    ],
+    "None_660": [
+        "husband"
+    ],
+    "None_661": [
+        "sbps"
+    ],
+    "None_662": [
+        "light"
+    ],
+    "None_663": [
+        "stones"
+    ],
+    "None_664": [
+        "ventilation"
+    ],
+    "None_665": [
+        "ap"
+    ],
+    "None_666": [
+        "bicarb"
+    ],
+    "None_667": [
+        "collapse"
+    ],
+    "None_668": [
+        "lightheadedness"
+    ],
+    "None_669": [
+        "sicu"
+    ],
+    "None_670": [
+        "thrombi"
+    ],
+    "None_671": [
+        "imdur"
+    ],
+    "None_672": [
+        "inflammation"
+    ],
+    "None_673": [
+        "hydration"
+    ],
+    "None_674": [
+        "units"
+    ],
+    "None_675": [
+        "bxx"
+    ],
+    "None_676": [
+        "contact"
+    ],
+    "None_677": [
+        "cytology"
+    ],
+    "None_678": [
+        "hypoglycemia"
+    ],
+    "None_679": [
+        "mm"
+    ],
+    "None_680": [
+        "gib"
+    ],
+    "None_681": [
+        "hemolysis"
+    ],
+    "None_682": [
+        "sign"
+    ],
+    "None_683": [
+        "differences"
+    ],
+    "None_684": [
+        "dr"
+    ],
+    "None_685": [
+        "gtt"
+    ],
+    "None_686": [
+        "presyncope"
+    ],
+    "None_687": [
+        "trop"
+    ],
+    "None_688": [
+        "["
+    ],
+    "None_689": [
+        "pneumothoraces"
+    ],
+    "None_690": [
+        "radiology"
+    ],
+    "None_691": [
+        "keppra"
+    ],
+    "None_692": [
+        "tia"
+    ],
+    "None_693": [
+        "kub"
+    ],
+    "None_694": [
+        "pneumoboots"
+    ],
+    "None_695": [
+        "transaminitis"
+    ],
+    "None_696": [
+        "vna"
+    ],
+    "None_697": [
+        "borderline"
+    ],
+    "None_698": [
+        "ill"
+    ],
+    "None_699": [
+        "vre"
+    ],
+    "None_700": [
+        "pts"
+    ],
+    "None_701": [
+        "transition"
+    ],
+    "None_702": [
+        "troponins"
+    ],
+    "None_703": [
+        "hap"
+    ],
+    "None_704": [
+        "issues"
+    ],
+    "None_705": [
+        "nstemi"
+    ],
+    "None_706": [
+        "throat"
+    ],
+    "None_707": [
+        "bps"
+    ],
+    "None_708": [
+        "clot"
+    ],
+    "None_709": [
+        "sludge"
+    ],
+    "None_710": [
+        "administration"
+    ],
+    "None_711": [
+        "amount"
+    ],
+    "None_712": [
+        "dka"
+    ],
+    "None_713": [
+        "sensitivities"
+    ],
+    "None_714": [
+        "ep"
+    ],
+    "None_715": [
+        "location"
+    ],
+    "None_716": [
+        "meningitis"
+    ],
+    "None_717": [
+        "side"
+    ],
+    "None_718": [
+        "stenosis"
+    ],
+    "None_719": [
+        "sulci"
+    ],
+    "None_720": [
+        "tumor"
+    ],
+    "None_721": [
+        "brain"
+    ],
+    "None_722": [
+        "consolidations"
+    ],
+    "None_723": [
+        "dilantin"
+    ],
+    "None_724": [
+        "inability"
+    ],
+    "None_725": [
+        "food"
+    ],
+    "None_726": [
+        "atn"
+    ],
+    "None_727": [
+        "tightness"
+    ],
+    "None_728": [
+        "x.xl"
+    ],
+    "None_729": [
+        "attempts"
+    ],
+    "None_730": [
+        "concerns"
+    ],
+    "None_731": [
+        "hdx"
+    ],
+    "None_732": [
+        "hyperglycemia"
+    ],
+    "None_733": [
+        "return"
+    ],
+    "None_734": [
+        "suction"
+    ],
+    "None_735": [
+        "tf"
+    ],
+    "None_736": [
+        "vomiting"
+    ],
+    "None_737": [
+        "afternoon"
+    ],
+    "None_738": [
+        "albumin"
+    ],
+    "None_739": [
+        "ams"
+    ],
+    "None_740": [
+        "atenolol"
+    ],
+    "None_741": [
+        "f/u"
+    ],
+    "None_742": [
+        "fatigue"
+    ],
+    "None_743": [
+        "hour"
+    ],
+    "None_744": [
+        "hypercarbia"
+    ],
+    "None_745": [
+        "mg"
+    ],
+    "None_746": [
+        "pairs"
+    ],
+    "None_747": [
+        "drop"
+    ],
+    "None_748": [
+        "metronidazole"
+    ],
+    "None_749": [
+        "portion"
+    ],
+    "None_750": [
+        "zyprexa"
+    ],
+    "None_751": [
+        "abnormalities"
+    ],
+    "None_752": [
+        "af"
+    ],
+    "None_753": [
+        "narcotics"
+    ],
+    "None_754": [
+        "re"
+    ],
+    "None_755": [
+        "levothyroxine"
+    ],
+    "None_756": [
+        "methadone"
+    ],
+    "None_757": [
+        "temperature"
+    ],
+    "None_758": [
+        "ffp"
+    ],
+    "None_759": [
+        "attempt"
+    ],
+    "None_760": [
+        "na"
+    ],
+    "None_761": [
+        "prbc"
+    ],
+    "None_762": [
+        "read"
+    ],
+    "None_763": [
+        "twi"
+    ],
+    "None_764": [
+        "crackles"
+    ],
+    "None_765": [
+        "gout"
+    ],
+    "None_766": [
+        "calcium"
+    ],
+    "None_767": [
+        "element"
+    ],
+    "None_768": [
+        "encephalopathy"
+    ],
+    "None_769": [
+        "enzymes"
+    ],
+    "None_770": [
+        "fractures"
+    ],
+    "None_771": [
+        "h/o"
+    ],
+    "None_772": [
+        "ii"
+    ],
+    "None_773": [
+        "lactulose"
+    ],
+    "None_774": [
+        "recurrence"
+    ],
+    "None_775": [
+        "bcx"
+    ],
+    "None_776": [
+        "avf"
+    ],
+    "None_777": [
+        "eyes"
+    ],
+    "None_778": [
+        "hemidiaphragm"
+    ],
+    "None_779": [
+        "stage"
+    ],
+    "None_780": [
+        "desaturation"
+    ],
+    "None_781": [
+        "enhancement"
+    ],
+    "None_782": [
+        "ms"
+    ],
+    "None_783": [
+        "risks"
+    ],
+    "None_784": [
+        "stools"
+    ],
+    "None_785": [
+        "lenis"
+    ],
+    "None_786": [
+        "liquids"
+    ],
+    "None_787": [
+        "peep"
+    ],
+    "None_788": [
+        "temp"
+    ],
+    "None_789": [
+        "xxx.x"
+    ],
+    "None_790": [
+        "communication"
+    ],
+    "None_791": [
+        "dx"
+    ],
+    "None_792": [
+        "hypovolemia"
+    ],
+    "None_793": [
+        "death"
+    ],
+    "None_794": [
+        "diameter"
+    ],
+    "None_795": [
+        "discomfort"
+    ],
+    "None_796": [
+        "furosemide"
+    ],
+    "None_797": [
+        "gabapentin"
+    ],
+    "None_798": [
+        "hypokinesis"
+    ],
+    "None_799": [
+        "podx"
+    ],
+    "None_800": [
+        "problem"
+    ],
+    "None_801": [
+        "cards"
+    ],
+    "None_802": [
+        "pneumoperitoneum"
+    ],
+    "None_803": [
+        "field"
+    ],
+    "None_804": [
+        "infarction"
+    ],
+    "None_805": [
+        "lmca"
+    ],
+    "None_806": [
+        "none"
+    ],
+    "None_807": [
+        "positioning"
+    ],
+    "None_808": [
+        "thiamine"
+    ],
+    "None_809": [
+        "ace"
+    ],
+    "None_810": [
+        "dementia"
+    ],
+    "None_811": [
+        "gnr"
+    ],
+    "None_812": [
+        "length"
+    ],
+    "None_813": [
+        "lingula"
+    ],
+    "None_814": [
+        "lvef"
+    ],
+    "None_815": [
+        "pfts"
+    ],
+    "None_816": [
+        "video"
+    ],
+    "None_817": [
+        "c"
+    ],
+    "None_818": [
+        "dispo"
+    ],
+    "None_819": [
+        "hila"
+    ],
+    "None_820": [
+        "mssa"
+    ],
+    "None_821": [
+        "protonix"
+    ],
+    "None_822": [
+        "klebsiella"
+    ],
+    "None_823": [
+        "non"
+    ],
+    "None_824": [
+        "origin"
+    ],
+    "None_825": [
+        "third"
+    ],
+    "None_826": [
+        "abnormality"
+    ],
+    "None_827": [
+        "lx"
+    ],
+    "None_828": [
+        "boluses"
+    ],
+    "None_829": [
+        "c.diff"
+    ],
+    "None_830": [
+        "clusters"
+    ],
+    "None_831": [
+        "esrd"
+    ],
+    "None_832": [
+        "humalog"
+    ],
+    "None_833": [
+        "hypoxemia"
+    ],
+    "None_834": [
+        "meals"
+    ],
+    "None_835": [
+        "notes"
+    ],
+    "None_836": [
+        "vap"
+    ],
+    "None_837": [
+        "effect"
+    ],
+    "None_838": [
+        "focus"
+    ],
+    "None_839": [
+        "image"
+    ],
+    "None_840": [
+        "loops"
+    ],
+    "None_841": [
+        "hilar"
+    ],
+    "None_842": [
+        "lipase"
+    ],
+    "None_843": [
+        "rul"
+    ],
+    "None_844": [
+        "bacteria"
+    ],
+    "None_845": [
+        "motion"
+    ],
+    "None_846": [
+        "shows"
+    ],
+    "None_847": [
+        "diameters"
+    ],
+    "None_848": [
+        "levels"
+    ],
+    "None_849": [
+        "mouth"
+    ],
+    "None_850": [
+        "psych"
+    ],
+    "None_851": [
+        "t"
+    ],
+    "None_852": [
+        "collection"
+    ],
+    "None_853": [
+        "cvl"
+    ],
+    "None_854": [
+        "drain"
+    ],
+    "None_855": [
+        "recommendation"
+    ],
+    "None_856": [
+        "candidate"
+    ],
+    "None_857": [
+        "persistent"
+    ],
+    "None_858": [
+        "rv"
+    ],
+    "None_859": [
+        "function"
+    ],
+    "None_860": [
+        "hematology"
+    ],
+    "None_861": [
+        "transfusions"
+    ],
+    "None_862": [
+        "admit"
+    ],
+    "None_863": [
+        "dysphagia"
+    ],
+    "None_864": [
+        "tid"
+    ],
+    "None_865": [
+        "wnl"
+    ],
+    "None_866": [
+        "emesis"
+    ],
+    "None_867": [
+        "ercp"
+    ],
+    "None_868": [
+        "facility"
+    ],
+    "None_869": [
+        "ha"
+    ],
+    "None_870": [
+        "ppx"
+    ],
+    "None_871": [
+        "atorvastatin"
+    ],
+    "None_872": [
+        "fiox"
+    ],
+    "None_873": [
+        "iron"
+    ],
+    "None_874": [
+        "ortho"
+    ],
+    "None_875": [
+        "prelim"
+    ],
+    "None_876": [
+        "service"
+    ],
+    "None_877": [
+        "svt"
+    ],
+    "None_878": [
+        "activity"
+    ],
+    "None_879": [
+        "influenza"
+    ],
+    "None_880": [
+        "levophed"
+    ],
+    "None_881": [
+        "pnd"
+    ],
+    "None_882": [
+        "lytes"
+    ],
+    "None_883": [
+        "pacer"
+    ],
+    "None_884": [
+        "pneumonitis"
+    ],
+    "None_885": [
+        "simvastatin"
+    ],
+    "None_886": [
+        "zofran"
+    ],
+    "None_887": [
+        "limitations"
+    ],
+    "None_888": [
+        "lipitor"
+    ],
+    "None_889": [
+        "overload"
+    ],
+    "None_890": [
+        "pos"
+    ],
+    "None_891": [
+        "attention"
+    ],
+    "None_892": [
+        "captopril"
+    ],
+    "None_893": [
+        "completion"
+    ],
+    "None_894": [
+        "ct."
+    ],
+    "None_895": [
+        "details"
+    ],
+    "None_896": [
+        "drip"
+    ],
+    "None_897": [
+        "levo/flagyl"
+    ],
+    "None_898": [
+        "microbiology"
+    ],
+    "None_899": [
+        "paracentesis"
+    ],
+    "None_900": [
+        "rml"
+    ],
+    "None_901": [
+        "seroquel"
+    ],
+    "None_902": [
+        "taper"
+    ],
+    "None_903": [
+        "avl"
+    ],
+    "None_904": [
+        "cholelithiasis"
+    ],
+    "None_905": [
+        "gentamicin"
+    ],
+    "None_906": [
+        "sytems"
+    ],
+    "None_907": [
+        "arm"
+    ],
+    "None_908": [
+        "cardiomyopathy"
+    ],
+    "None_909": [
+        "lvh"
+    ],
+    "None_910": [
+        "plts"
+    ],
+    "None_911": [
+        "acidosis"
+    ],
+    "None_912": [
+        "aztreonam"
+    ],
+    "None_913": [
+        "cmv"
+    ],
+    "None_914": [
+        "colitis"
+    ],
+    "None_915": [
+        "measures"
+    ],
+    "None_916": [
+        "pm"
+    ],
+    "None_917": [
+        "antihypertensives"
+    ],
+    "None_918": [
+        "mask"
+    ],
+    "None_919": [
+        "mother"
+    ],
+    "None_920": [
+        "rij"
+    ],
+    "None_921": [
+        "sister"
+    ],
+    "None_922": [
+        "somnolence"
+    ],
+    "None_923": [
+        "status"
+    ],
+    "None_924": [
+        "tortuosity"
+    ],
+    "None_925": [
+        "trauma"
+    ],
+    "None_926": [
+        "urinalysis"
+    ],
+    "None_927": [
+        "allergy"
+    ],
+    "None_928": [
+        "bones"
+    ],
+    "None_929": [
+        "gastritis"
+    ],
+    "None_930": [
+        "nephrology"
+    ],
+    "None_931": [
+        "osa"
+    ],
+    "None_932": [
+        "recovery"
+    ],
+    "None_933": [
+        "dobhoff"
+    ],
+    "None_934": [
+        "hospice"
+    ],
+    "None_935": [
+        "n/v"
+    ],
+    "None_936": [
+        "cont"
+    ],
+    "None_937": [
+        "cva"
+    ],
+    "None_938": [
+        "dilaudid"
+    ],
+    "None_939": [
+        "hypoxic"
+    ],
+    "None_940": [
+        "ivfs"
+    ],
+    "None_941": [
+        "omr"
+    ],
+    "None_942": [
+        "periods"
+    ],
+    "None_943": [
+        "ssi"
+    ],
+    "None_944": [
+        "xpm"
+    ],
+    "None_945": [
+        "glucose"
+    ],
+    "None_946": [
+        "midodrine"
+    ],
+    "None_947": [
+        "procedures"
+    ],
+    "None_948": [
+        "strength"
+    ],
+    "None_949": [
+        "sugars"
+    ],
+    "None_950": [
+        "clonidine"
+    ],
+    "None_951": [
+        "monitor"
+    ],
+    "None_952": [
+        "neg"
+    ],
+    "None_953": [
+        "nph"
+    ],
+    "None_954": [
+        "pulmonary"
+    ],
+    "None_955": [
+        "terms"
+    ],
+    "None_956": [
+        "wheezing"
+    ],
+    "None_957": [
+        "appointments"
+    ],
+    "None_958": [
+        "caliber"
+    ],
+    "None_959": [
+        "patchy"
+    ],
+    "None_960": [
+        "prescription"
+    ],
+    "None_961": [
+        "rr"
+    ],
+    "None_962": [
+        "sx"
+    ],
+    "None_963": [
+        "tb"
+    ],
+    "None_964": [
+        "uop"
+    ],
+    "None_965": [
+        "bronchiectasis"
+    ],
+    "None_966": [
+        "ddx"
+    ],
+    "None_967": [
+        "levoquin"
+    ],
+    "None_968": [
+        "neuro"
+    ],
+    "None_969": [
+        "ruq"
+    ],
+    "None_970": [
+        "saturations"
+    ],
+    "None_971": [
+        "cdiff"
+    ],
+    "None_972": [
+        "diff"
+    ],
+    "None_973": [
+        "exacerbation"
+    ],
+    "None_974": [
+        "lymphoma"
+    ],
+    "None_975": [
+        "tele"
+    ],
+    "None_976": [
+        "u/a"
+    ],
+    "None_977": [
+        "gpc"
+    ],
+    "None_978": [
+        "port"
+    ],
+    "None_979": [
+        "problems"
+    ],
+    "None_980": [
+        "stability"
+    ],
+    "None_981": [
+        "allopurinol"
+    ],
+    "None_982": [
+        "azithro"
+    ],
+    "None_983": [
+        "conjunction"
+    ],
+    "None_984": [
+        "duration"
+    ],
+    "None_985": [
+        "gallstones"
+    ],
+    "None_986": [
+        "hepatology"
+    ],
+    "None_987": [
+        "inspiration"
+    ],
+    "None_988": [
+        "life"
+    ],
+    "None_989": [
+        "obscuration"
+    ],
+    "None_990": [
+        "peak"
+    ],
+    "None_991": [
+        "percocet"
+    ],
+    "None_992": [
+        "stone"
+    ],
+    "None_993": [
+        "chronic"
+    ],
+    "None_994": [
+        "colace"
+    ],
+    "None_995": [
+        "dxw"
+    ],
+    "None_996": [
+        "range"
+    ],
+    "None_997": [
+        "vasopressin"
+    ],
+    "None_998": [
+        "antrum"
+    ],
+    "None_999": [
+        "asthma"
+    ]
+}
