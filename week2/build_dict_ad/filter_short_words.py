@@ -13,6 +13,7 @@ with open("./result_cxr/short_dict.json", "r") as f:
             # length_words[""]
         else:
             length_words[str(len(data[i][0]))] = 1
+# print(data)
 
 
 def help(i):
@@ -34,5 +35,12 @@ plt.xlabel("Số ký tự")
 plt.xticks(np.arange(1, 18))
 plt.ylabel("Số từ")
 plt.title("Số từ chứa nhiều hơn X ký tự")
-plt.savefig(f"./result_cxr/filter_short_acronym_cxr.png")
+# plt.savefig(f"./result_cxr/filter_short_acronym_cxr.png")
 plt.show()
+
+new_data = {}
+for k, v in data.items():
+    if len(v[0]) < 9: continue
+    else: new_data[k] = v
+with open("./result_cxr/filtered_short_dict.json", "w", encoding="utf8") as f:
+    json.dump(new_data, f)
