@@ -1,0 +1,23 @@
+{
+    "xi": [
+        "xray image"
+    ],
+    "naa": [
+        "new abnormal area"
+    ],
+    "aa": [
+        "abnormal area"
+    ],
+    "ls": [
+        "left side"
+    ],
+    "rs": [
+        "right side"
+    ],
+    "pe": [
+        "pleural effusion"
+    ],
+    "co": [
+        "covid19 occupies"
+    ]
+}

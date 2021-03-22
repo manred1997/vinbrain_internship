@@ -1,0 +1,77 @@
+{
+    "xi": [
+        "xray image"
+    ],
+    "None_0": [
+        "presence"
+    ],
+    "None_1": [
+        "mm"
+    ],
+    "None_2": [
+        "zone"
+    ],
+    "naa": [
+        "new abnormal area"
+    ],
+    "aa": [
+        "abnormal area"
+    ],
+    "ls": [
+        "left side"
+    ],
+    "rs": [
+        "right side"
+    ],
+    "None_3": [
+        "fracture"
+    ],
+    "None_4": [
+        "suggestive"
+    ],
+    "None_5": [
+        "image"
+    ],
+    "None_6": [
+        "mass"
+    ],
+    "None_7": [
+        "nodule"
+    ],
+    "pe": [
+        "pleural effusion"
+    ],
+    "None_8": [
+        "feature"
+    ],
+    "None_9": [
+        "left"
+    ],
+    "None_10": [
+        "opacities"
+    ],
+    "None_11": [
+        "cavity"
+    ],
+    "None_12": [
+        "imaging"
+    ],
+    "None_13": [
+        "multiple"
+    ],
+    "None_14": [
+        "pneumothorax"
+    ],
+    "None_15": [
+        "consolidation"
+    ],
+    "None_16": [
+        "diagnosis"
+    ],
+    "None_17": [
+        "massnodule"
+    ],
+    "None_18": [
+        "right"
+    ]
+}
