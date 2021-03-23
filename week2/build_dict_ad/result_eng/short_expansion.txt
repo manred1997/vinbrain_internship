@@ -1,6 +1,0 @@
-presence
-mm
-zone
-fracture
-suggestive
-image
