@@ -6,9 +6,10 @@
 
 #### 1. Improve dictionary acronym dataset
 
-#### 2. Reproduce learning-base acronym disambiguation
+#### 2. Write script inference.py
 
-#### 3. 
+#### 3. Reproduce learning-base acronym disambiguation
+
 
 
 ### Result:
