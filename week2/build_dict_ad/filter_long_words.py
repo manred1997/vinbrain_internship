@@ -16,3 +16,11 @@ def filter_long_words(data):
         if not data[key]: continue
         else: new_data[key] = data[key]
     return new_data
+
+with open("./result_cxr/long_dict.json", "r") as f:
+    data = json.load(f)
+
+data = filter_long_words(data)
+
+with open("./result_cxr/filtered_long_dict.json") as f:
+    json.dump(data, f)
