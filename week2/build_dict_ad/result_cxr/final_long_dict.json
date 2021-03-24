@@ -1,21 +1,13 @@
 {
     "pe": [
-        "pleural eff",
-        "pleural effusion",
         "pulmonary edema",
         "pleural effusions",
-        "pericardial effusion",
-        "pulmonary emboli",
         "pulmonary embolism",
-        "prior exam",
         "pulm edema",
-        "previous exam",
-        "prior examination",
         "previous examination",
         "physical exam",
         "pulmonary embolus",
         "post extubation",
-        "preserved ef",
         "peripheral edema",
         "prerenal etiology",
         "parapneumonic effusion",
@@ -27,8 +19,8 @@
         "pedal edema",
         "prior echo",
         "pericardial effusions",
-        "pulmonary exam",
         "possible etiologies",
+        "pulmonary exam",
         "possible etiology",
         "persistent enlargement",
         "pathologic enlargement"
@@ -36,12 +28,8 @@
     "cs": [
         "cardiac silhouette",
         "cavity size",
-        "ct scan",
         "cardiomediastinal silhouette",
-        "ce s",
         "code status",
-        "c spine",
-        "ck s",
         "cardiac size",
         "cervical spine",
         "current study",
@@ -54,14 +42,11 @@
         "copious secretions",
         "costophrenic sinus",
         "clinical signs",
-        "ct surgery",
-        "ct scans",
         "cardiology service",
         "clinical symptoms",
         "costophrenic sulcus",
         "coag staph",
         "clear secretions",
-        "ct spine",
         "chronic steroids",
         "coronary sinus",
         "chads score",
@@ -74,18 +59,14 @@
         "code sepsis",
         "code stroke",
         "comparison study",
-        "ct scanner",
         "clear signs"
     ],
     "hs": [
         "heart size",
         "hospital stay",
-        "heparin sc",
         "hida scan",
-        "heparin sq",
         "hepatorenal syndrome",
         "hepatitis serologies",
-        "hep sc",
         "home simvastatin",
         "home statin",
         "high suspicion",
@@ -99,7 +80,6 @@
     "la": [
         "left atrium",
         "lobe atelectasis",
-        "large amount",
         "last admission",
         "likely atelectasis",
         "linear atelectasis",
@@ -108,15 +88,13 @@
         "lll atelectasis",
         "lung apices",
         "lactic acidosis",
-        "lung atelectasis",
         "likely aspiration",
+        "lung atelectasis",
         "low attenuation",
         "legionella antigen",
         "low albumin",
-        "large area",
         "large amounts",
         "left axilla",
-        "l arm",
         "left apex",
         "left ankle",
         "likely anemia",
@@ -131,28 +109,17 @@
         "afterload reduction",
         "aspiration risk",
         "antibiotic regimen",
-        "allergic reaction",
         "acute rehab",
+        "allergic reaction",
         "appropriate response",
         "abx regimen"
     ],
-    "bpe": [
-        "bilateral pleural effusion",
-        "bilateral pleural effusions",
-        "b/l pleural effusions",
-        "bilateral pulmonary edema",
-        "bilat pleural effusions"
-    ],
     "ps": [
-        "patient s",
-        "pt s",
         "prior study",
         "previous study",
         "pressure support",
         "prior studies",
-        "positive stool",
         "paranasal sinuses",
-        "po s",
         "pleural space",
         "pressor support",
         "pulmonary status",
@@ -163,26 +130,23 @@
         "pureed solids",
         "proximal stomach",
         "plastic surgery",
-        "prbc s",
-        "possible source",
         "peripheral smear",
         "posterior segment",
         "pain service",
         "pulmonary service",
         "previous studies",
         "pulmonary symptoms",
-        "possible sepsis",
         "parenchymal scarring",
+        "possible sepsis",
         "proximal stenosis",
-        "pulmonary standpoint",
         "perinephric stranding",
+        "pulmonary standpoint",
         "peg site",
         "pulmonary source",
         "painful stimuli",
-        "possible sources",
         "partial sbo",
+        "possible sources",
         "poor study",
-        "pt services",
         "presumed sepsis",
         "patient self",
         "present study"
@@ -212,7 +176,6 @@
         "access piv",
         "atypical pneumonia",
         "apical ptx",
-        "anemia pt",
         "acute pancreatitis",
         "access picc",
         "acute pathology",
@@ -225,14 +188,12 @@
         "alkaline phosphatase",
         "atypical pna",
         "adequate position",
-        "admission pt",
         "afib patient",
         "atrial pacing",
         "apical portion"
     ],
     "ms": [
         "mental status",
-        "mediastinal silhouette",
         "mid svc",
         "median sternotomy",
         "midline structures",
@@ -256,13 +217,7 @@
         "minimal secretions"
     ],
     "bc": [
-        "blood culture",
         "blood cultures",
-        "blood cx",
-        "baseline cr",
-        "basilar consolidation",
-        "bp control",
-        "bibasilar consolidation",
         "baseline creatinine",
         "bibasilar consolidations",
         "broad coverage",
@@ -279,7 +234,6 @@
     "nl": [
         "normal limits",
         "new left",
-        "ng lavage",
         "normal lvef",
         "normal lactate",
         "new leukocytosis",
@@ -288,32 +242,25 @@
     ],
     "sh": [
         "systolic hypertension",
-        "s hct",
         "subdural hematoma",
-        "sc heparin",
         "subcutaneous heparin",
         "several hours",
         "stable hct",
         "subarachnoid hemorrhage",
         "severe hypokinesis",
-        "sq heparin",
-        "serial hct",
         "side hole",
         "subq heparin",
         "serial hcts",
         "small hematoma"
     ],
     "ra": [
-        "right atrium",
         "room air",
         "right atrial",
         "retrocardiac atelectasis",
-        "r arm",
         "respiratory acidosis",
         "right arm",
         "recent admission",
         "right apex",
-        "rapid af",
         "retrocardiac area",
         "repeat abg",
         "recurrent aspiration",
@@ -330,8 +277,6 @@
         "right atelectasis"
     ],
     "rl": [
-        "r l",
-        "r lung",
         "right lung",
         "regional left",
         "right lobe",
@@ -342,14 +287,10 @@
         "rij line"
     ],
     "nt": [
-        "ng tube",
-        "nasogastric tube",
-        "nebulizer treatment",
         "nebulizer treatments",
         "nasogastric tubes",
         "nephrostomy tube",
         "non tender",
-        "ng tubes",
         "neurology team",
         "new twi",
         "neb treatments",
@@ -359,14 +300,10 @@
         "chest pain",
         "cardiopulmonary process",
         "chest pressure",
-        "chest pt",
         "calf pain",
         "chronic pain",
-        "cxr pa",
         "clinical picture",
-        "ct pelvis",
         "communication patient",
-        "ct pa",
         "catheter projects",
         "cough productive",
         "chronic pancreatitis",
@@ -374,21 +311,17 @@
         "c/w pna",
         "clonidine patch",
         "clinical presentation",
-        "chf pt",
         "correct position",
-        "cad pt",
         "care patient",
-        "current presentation",
         "ciwa protocol",
+        "current presentation",
         "cvl placement",
+        "chronic process",
         "constant position",
-        "contact precautions",
-        "chronic process"
+        "contact precautions"
     ],
     "ch": [
-        "ct head",
         "congestive heart",
-        "ct head.no",
         "clinical history",
         "cta head",
         "cardiac history",
@@ -397,8 +330,6 @@
     ],
     "et": [
         "endotracheal tube",
-        "et tube",
-        "elevated troponin",
         "empiric treatment",
         "elevated troponins",
         "enteric tube",
@@ -408,20 +339,18 @@
         "right side",
         "respiratory status",
         "right subclavian",
-        "r side",
         "red stools",
         "respiratory symptoms",
         "right shoulder",
         "resp status",
         "recent study",
         "recent surgery",
-        "respiratory standpoint",
         "repeat study",
+        "respiratory standpoint",
         "renal service",
         "renal stone",
         "residual stenosis",
         "relative sparing",
-        "rv strain",
         "results section",
         "respiratory support",
         "regular solids",
@@ -429,14 +358,9 @@
         "right shunt"
     ],
     "pr": [
-        "patient re",
         "previous radiograph",
         "pre renal",
         "patient reports",
-        "poor r",
-        "prior radiograph",
-        "pt reports",
-        "perihilar region",
         "prelim read",
         "preliminary report",
         "patient rotation",
@@ -444,8 +368,8 @@
         "paced rhythm",
         "pressor requirement",
         "pain regimen",
-        "perihilar regions",
         "pathology report",
+        "perihilar regions",
         "prior radiographs",
         "pulmonary rehab",
         "potassium repletion",
@@ -457,36 +381,28 @@
     ],
     "ll": [
         "left lung",
-        "l lung",
         "large left",
         "left lobe",
-        "lytic lesion",
         "left leg",
         "lateral leads",
         "lytic lesions",
-        "lx lx",
         "low likelihood",
         "lad lesion",
         "linear lucency"
     ],
     "hc": [
-        "head ct",
         "head ct.",
         "hospital course",
         "hilar contours",
         "health care",
         "hospice care",
-        "hd catheter",
         "hemodialysis catheter",
-        "hep c",
         "h/o cad",
         "h/o chf",
-        "hr control",
         "hcap coverage",
         "hemodynamic compromise"
     ],
     "fe": [
-        "further eval",
         "further evaluation",
         "further evaluate",
         "further episodes",
@@ -496,11 +412,8 @@
         "frequent episodes"
     ],
     "af": [
-        "a. fib",
         "atrial fibrillation",
-        "acute fracture",
         "atrial flutter",
-        "av fistula",
         "acute findings",
         "acute fractures",
         "acute flare",
@@ -510,31 +423,23 @@
     ],
     "pl": [
         "picc line",
-        "po lasix",
         "pacemaker leads",
-        "pa lat",
         "pic line",
         "possible left",
-        "po levofloxacin",
         "precordial leads",
         "prn lasix",
         "proximal lad",
         "persistent leukocytosis",
-        "po lopressor",
         "parietal lobes"
     ],
     "lv": [
-        "lung vol",
-        "lung volume",
         "lung volumes",
-        "lateral view",
         "left ventricle",
         "lateral views",
         "low voltage",
         "large volume",
         "limited views",
         "lateral ventricles",
-        "lead vx",
         "limited visualization",
         "lab values"
     ],
@@ -548,7 +453,6 @@
         "further managment"
     ],
     "bp": [
-        "blood pressure",
         "blood pressures",
         "back pain",
         "bilateral patchy",
@@ -565,11 +469,9 @@
         "bactrim ppx"
     ],
     "hd": [
-        "home dose",
         "heparin drip",
         "hpi denies",
         "hct drop",
-        "high dose",
         "hospital day",
         "home doses",
         "healthy diet",
@@ -623,9 +525,7 @@
         "restricted diffusion"
     ],
     "uc": [
-        "urine culture",
         "urine cultures",
-        "urine cx",
         "urine color",
         "underlying consolidation",
         "unchanged course",
@@ -641,31 +541,25 @@
     ],
     "tf": [
         "tube feeds",
-        "tube feeding",
         "tube feedings",
         "technical factors",
         "transudative fluid",
         "tracheoesophageal fistula"
     ],
     "fc": [
-        "focal consolidation",
-        "fluid collection",
         "full code",
         "foley catheter",
         "further care",
         "fluid collections",
         "focal consolidations",
-        "fever curve",
         "fluid culture",
         "further characterization",
         "flow cytometry",
         "findings comparison",
-        "followup ct",
         "f/u cxr",
         "fungal culture",
         "full course",
         "fibrotic changes",
-        "flat ck",
         "focal calcifications",
         "floor course",
         "fluid challenge",
@@ -674,27 +568,21 @@
         "frank consolidation"
     ],
     "il": [
-        "iv lasix",
-        "ij line",
         "iv lopressor",
         "inferior leads",
-        "iv levofloxacin",
         "initial labs",
         "initial lactate",
         "inguinal lymphadenopathy"
     ],
     "rf": [
         "renal failure",
-        "renal function",
         "respiratory failure",
-        "rib fracture",
         "rib fractures",
         "right frontal",
         "recent fevers",
         "rehab facility",
         "risk factors",
         "right foot",
-        "rv function",
         "rehabilitation facility",
         "respiratory function",
         "respiratory flora",
@@ -707,9 +595,6 @@
         "renal functions"
     ],
     "lpe": [
-        "l pleural effusion",
-        "left pleural effusion",
-        "large pleural effusion",
         "large pleural effusions",
         "left pleural effusions",
         "large pericardial effusion",
@@ -717,13 +602,10 @@
         "likely pulmonary edema"
     ],
     "sa": [
-        "small amount",
         "stable appearance",
         "subsegmental atelectasis",
         "staph aureus",
         "seizure activity",
-        "single ap",
-        "small area",
         "sleep apnea",
         "simple atheroma",
         "substance abuse",
@@ -735,74 +617,54 @@
         "small areas",
         "similar appearance",
         "signal abnormality",
-        "superior aspect",
-        "subsequent areas",
         "significant abnormalities",
+        "subsequent areas",
+        "superior aspect",
         "serial abgs",
         "significant ascites",
         "swallow assessment"
     ],
     "mc": [
-        "mediastinal contour",
         "mediastinal contours",
         "moderate cardiomegaly",
         "mild cardiomegaly",
         "mild chf",
         "malignant cells",
         "micu course",
-        "ms changes",
         "marked cardiomegaly",
         "major change",
         "medication changes",
-        "multifocal consolidation",
         "mediastinal clips",
         "moderate chf",
         "medical condition",
         "mild congestion",
         "medical care",
-        "multifocal consolidations",
         "mild cough",
+        "multifocal consolidations",
         "massive cardiomegaly",
         "multiple cultures",
         "multiple consistencies"
     ],
     "lb": [
-        "lung base",
         "left base",
         "lung bases",
         "large bowel",
-        "low bp",
         "lobe bronchus",
         "liver biopsy",
         "lung biopsy",
         "lasix boluses",
-        "last bm",
         "labored breathing",
         "low bps",
         "lovenox bridge"
     ],
-    "bb": [
-        "beta blocker",
-        "beta blockade",
-        "bilateral basal",
-        "beta blockers",
-        "b blocker",
-        "banana bag"
-    ],
     "sc": [
-        "sputum culture",
-        "significant change",
-        "s creatinine",
         "sputum cultures",
-        "sputum cx",
         "skin changes",
         "stable condition",
         "severe cardiomegaly",
-        "st changes",
         "surgical clips",
         "subclavian catheter",
         "sigmoid colon",
-        "stool culture",
         "stable cardiomegaly",
         "spinal cord",
         "stool cultures",
@@ -810,14 +672,10 @@
         "segments contract",
         "surgical changes",
         "sick contacts",
-        "s condition",
-        "supportive care",
         "spinal canal",
+        "supportive care",
         "systolic chf",
-        "serial cxr",
-        "subsequent cxr",
         "surveillance cultures",
-        "simple cyst",
         "surgical candidate",
         "severe copd",
         "significant changes",
@@ -830,8 +688,8 @@
         "serum creatinine",
         "simple commands",
         "sirs criteria",
-        "small component",
         "simple cysts",
+        "small component",
         "subsequent cxrs",
         "severe consolidation"
     ],
@@ -844,11 +702,7 @@
         "minimal pleural effusion"
     ],
     "cc": [
-        "ct chest",
-        "chest ct",
         "chest ct.",
-        "cardiac cath",
-        "cardiomediastinal contour",
         "clinical correlation",
         "cta chest",
         "cardiomediastinal contours",
@@ -859,47 +713,37 @@
         "cell count",
         "chest cta",
         "complete collapse",
-        "cx cx",
-        "cord compression",
         "cdx count",
+        "cord compression",
         "comfort care",
-        "ct chest/abd/pelvis",
         "c/w cad",
         "cxr comparison",
-        "corpus callosum",
         "c/w chf",
+        "corpus callosum",
         "chronic changes",
         "common causes",
-        "cardiac contour",
         "cap coverage",
         "chronic cough",
         "colon cancer",
         "coronary calcifications",
         "cxr cardiomegaly",
-        "c collar",
-        "ct criteria",
         "calcium carbonate",
-        "chronic chf",
         "calorie counts",
+        "chronic chf",
         "csf cultures",
         "cardiac contours",
         "clean coronaries"
     ],
     "rc": [
         "rate control",
-        "repeat cxr",
         "right chest",
-        "relevant change",
-        "repeat ct",
         "recent change",
-        "recent ct",
         "renal consult",
         "rll consolidation",
         "respiratory culture",
         "retrocardiac consolidation",
         "rll collapse",
         "relevant changes",
-        "repeat culture",
         "retic count",
         "rul consolidation",
         "repeat cbc",
@@ -922,12 +766,9 @@
         "clear evidence",
         "continued enlargement",
         "clinical exam",
-        "ct examination",
-        "clinical evidence",
         "chest.no evidence",
-        "ct evidence",
+        "clinical evidence",
         "ct.no evidence",
-        "current exam",
         "cardiac event",
         "cerebral edema",
         "cardiac etiology",
@@ -948,13 +789,10 @@
     "sp": [
         "status post",
         "systolic pressure",
-        "standard position",
-        "standard placement",
         "satisfactory position",
         "side port",
         "sputum production",
         "standard placements",
-        "supine position",
         "shoulder pain",
         "successful placement",
         "sided pacemaker",
@@ -971,9 +809,8 @@
         "septic picture",
         "scopolamine patch",
         "second portion",
-        "superior portion",
         "slight prominence",
-        "standard pa",
+        "superior portion",
         "short period",
         "sbp prophylaxis",
         "similar position",
@@ -986,12 +823,10 @@
         "pleural thickening",
         "peg tube",
         "prednisone taper",
-        "po tid",
         "pulmonary toilet",
         "picc tip",
         "picc terminates",
         "primary team",
-        "prbc transfusion",
         "portable technique",
         "pulmonary team",
         "prior tracing",
@@ -1010,8 +845,6 @@
     ],
     "fa": [
         "free air",
-        "focal area",
-        "further assess",
         "focal areas",
         "further assessment",
         "folic acid",
@@ -1026,7 +859,6 @@
         "venous catheter",
         "vision changes",
         "vascular calcifications",
-        "viral culture",
         "vascular catheter",
         "visual changes",
         "vocal cords",
@@ -1040,18 +872,16 @@
         "multiple episodes",
         "moderate encephalopathy",
         "mild encephalopathy",
+        "mid esophagus",
         "mild enlargement",
         "moderate enlargement",
-        "mid esophagus",
-        "medical examiner",
         "marked elevation",
+        "medical examiner",
         "minimal exertion"
     ],
     "mp": [
         "multifocal pneumonia",
-        "mucous plug",
         "mucous plugging",
-        "mucus plug",
         "multifocal pna",
         "mid portion",
         "mild prominence",
@@ -1069,13 +899,11 @@
         "moderate pneumothorax"
     ],
     "rb": [
-        "r base",
         "right base",
         "right basilar",
         "right basal",
         "recent baseline",
         "renal biopsy",
-        "rp bleed",
         "repeat bronchoscopy",
         "retroperitoneal bleed",
         "rigid bronchoscopy",
@@ -1083,39 +911,29 @@
         "right b/l"
     ],
     "ip": [
-        "infectious process",
         "interval placement",
         "interventional pulmonology",
         "interval progression",
-        "impression pa",
         "impression persistent",
-        "iv ppi",
         "inflammatory process",
         "interventional pulmonary",
         "initial presentation",
         "icd placement",
         "interstitial prominence",
         "infectious pneumonia",
-        "imaged portion",
         "interstitial process",
-        "invasive procedures",
         "increased prominence",
+        "invasive procedures",
         "insulin pump",
-        "iv protonix",
         "imaged portions",
         "infectious processes"
     ],
     "pv": [
-        "pulmonary vascular",
         "pulmonary vasculature",
-        "portal vein",
         "pulmonary vessels",
         "pulmonary vascularity",
         "portable view",
-        "po vanc",
-        "po vanco",
         "pulmonic valve",
-        "po vancomycin",
         "portal veins",
         "popliteal veins",
         "peroneal veins",
@@ -1124,15 +942,11 @@
     ],
     "pa": [
         "pulmonary artery",
-        "portable ap",
         "pulmonary arteries",
         "possible aspiration",
-        "prior admission",
-        "previous admission",
         "pea arrest",
         "pleural abnormality",
         "patchy atelectasis",
-        "patchy area",
         "prerenal azotemia",
         "pseudomonas aeruginosa",
         "poor appetite",
@@ -1141,11 +955,10 @@
         "pleural air",
         "perihepatic ascites",
         "parenchymal abnormalities",
-        "peripheral access",
         "paroxysmal afib",
+        "peripheral access",
         "patient afebrile",
         "posterior aspect",
-        "pt afebrile",
         "partial atelectasis",
         "persistent atelectasis",
         "portable abdomen",
@@ -1155,11 +968,8 @@
         "poor access"
     ],
     "sd": [
-        "s disease",
         "several days",
         "systolic dysfunction",
-        "st depression",
-        "st depressions",
         "support devices",
         "stress dose",
         "study date",
@@ -1201,10 +1011,8 @@
         "radiation oncology"
     ],
     "sr": [
-        "small r",
         "small right",
         "sinus rhythm",
-        "stable r",
         "showed resolution",
         "stable right",
         "staff radiologist",
@@ -1227,25 +1035,19 @@
         "normal study",
         "npo status",
         "nasal swab",
-        "normal stomach",
         "neurology service",
+        "normal stomach",
         "nipple shadow",
         "noxious stimuli",
         "nutritional support",
         "new stroke"
     ],
     "os": [
-        "ox sat",
-        "ox sats",
-        "oxygen saturation",
         "osseous structures",
         "oxygen saturations",
-        "ox saturation",
         "outpatient setting",
-        "ox saturations",
         "obvious source",
         "other signs",
-        "other source",
         "other symptoms",
         "oxygen sats",
         "oxygen supplementation",
@@ -1273,13 +1075,6 @@
         "trach tube",
         "tracheostomy tip"
     ],
-    "hr": [
-        "home regimen",
-        "heart rate",
-        "high risk",
-        "high residuals",
-        "heart rates"
-    ],
     "bo": [
         "basilar opacities",
         "bibasilar opacities",
@@ -1288,7 +1083,6 @@
         "basilar opacification",
         "bilateral opacities",
         "basal opacity",
-        "bibasilar opacification",
         "bibasal opacities",
         "bibasilar opacity",
         "biliary obstruction",
@@ -1296,7 +1090,6 @@
         "bibasilar opacifications"
     ],
     "lc": [
-        "lobe consolidation",
         "lateral chest",
         "lobe collapse",
         "left chest",
@@ -1315,34 +1108,25 @@
         "last check",
         "likely combination",
         "low concern",
-        "likely culprit",
         "legionella culture",
+        "likely culprit",
         "left collaterals",
         "lungs consistent"
     ],
     "or": [
-        "oxygen requirement",
-        "ox requirement",
         "other review",
         "outpatient regimen",
         "oxygen requirements",
         "operating room",
         "osh records",
-        "ox requirements",
         "oral regimen",
         "outpt regimen",
         "other ros"
     ],
     "st": [
-        "st t",
-        "s time",
-        "soft tissue",
-        "sinus tach",
-        "sinus tachy",
         "sinus tachycardia",
         "sinus tenderness",
         "soft tissues",
-        "severe tr",
         "sore throat",
         "steroid taper",
         "stress test",
@@ -1354,33 +1138,29 @@
         "same time",
         "speech therapy",
         "seizure threshold",
-        "subcutaneous tissues",
         "steroid therapy",
+        "subcutaneous tissues",
         "slow taper",
-        "swallow team",
-        "surgical team"
+        "surgical team",
+        "swallow team"
     ],
     "up": [
-        "u prbc",
         "unchanged position",
         "upright position",
         "underlying pneumonia",
         "upper pole",
         "upper portion",
-        "uti pt",
         "uti patient"
     ],
     "hf": [
         "heart failure",
         "hilar fullness",
         "hepatopetal flow",
-        "high fever",
         "high fevers",
         "hepatic flexure"
     ],
     "mf": [
         "medical floor",
-        "medicine floor",
         "minor fissure",
         "major fissure",
         "multiple foci",
@@ -1391,27 +1171,20 @@
         "mild failure"
     ],
     "ca": [
-        "ct abd",
-        "ct abdomen",
-        "costophrenic angle",
         "coronary artery",
-        "ct abd/pelvis",
         "compressive atelectasis",
-        "ct abdomen/pelvis",
         "costophrenic angles",
         "cardiac arrest",
         "contraction alkalosis",
         "coronary arteries",
         "chronic aspiration",
         "chronic anemia",
-        "ct a/p",
         "central adenopathy",
         "contrast administration",
         "calcium acetate",
         "central access",
         "confluent areas",
         "complete assessment",
-        "ct angiogram",
         "central airways",
         "cryptococcal antigen"
     ],
@@ -1429,7 +1202,6 @@
         "right heart",
         "right hemithorax",
         "right hip",
-        "recent hospitalization",
         "retroperitoneal hematoma",
         "right hilum",
         "relative hypotension",
@@ -1442,15 +1214,11 @@
         "recent hospitalizations"
     ],
     "cd": [
-        "c. diff",
-        "c diff",
         "color doppler",
         "chronic disease",
-        "code dnr",
         "code dnr/dni",
         "culture data",
         "cardiac decompensation",
-        "c. difficile",
         "cardiac diet",
         "coumadin dose",
         "continued diuresis",
@@ -1463,21 +1231,18 @@
         "couple days",
         "cardiac disease",
         "clinical diagnosis",
-        "clinical decisions",
-        "care discussion"
+        "care discussion",
+        "clinical decisions"
     ],
     "pf": [
         "pleural fluid",
         "pulmonary fibrosis",
         "peritoneal fluid",
         "pericholecystic fluid",
-        "prior film",
-        "persistent fever",
         "pericardial fluid",
         "patent foramen",
         "plain films",
         "persistent fevers",
-        "po flagyl",
         "portable findings",
         "pulmonary function",
         "previous film",
@@ -1489,7 +1254,6 @@
     ],
     "spe": [
         "sided pleural effusion",
-        "small pleural effusion",
         "small pleural effusions",
         "small pericardial effusion",
         "severe pulmonary edema",
@@ -1538,7 +1302,6 @@
     ],
     "dc": [
         "day course",
-        "degenerative change",
         "degenerative changes",
         "dialysis catheter",
         "diastolic chf",
@@ -1553,10 +1316,10 @@
         "dense consolidation",
         "direct comparison",
         "device clinic",
-        "diagnostic considerations",
         "diagnostic change",
-        "double coverage",
+        "diagnostic considerations",
         "decompensated chf",
+        "double coverage",
         "definite change",
         "direct communication"
     ],
@@ -1577,7 +1340,6 @@
         "cxr findings",
         "compression fracture",
         "congestive failure",
-        "ct findings",
         "copd flare",
         "cardiac function",
         "care facility",
@@ -1588,7 +1350,6 @@
         "continued fevers",
         "clavicular fracture",
         "clinical findings",
-        "ct face",
         "chf findings",
         "chronic findings"
     ],
@@ -1596,18 +1357,12 @@
         "interstitial markings",
         "impression mild",
         "impression moderate",
-        "iv morphine",
-        "iv metoprolol",
         "isosorbide mononitrate",
         "inferior margin"
     ],
     "if": [
-        "iv fluid",
-        "iv fluids",
         "ivc filter",
-        "iv flagyl",
         "impression findings",
-        "iv furosemide",
         "incidental finding",
         "intermittent fevers",
         "intravenous fluids"
@@ -1615,12 +1370,11 @@
     "nc": [
         "nasal cannula",
         "non contrast",
-        "new consolidation",
         "nasal canula",
         "non compliance",
         "normal colonoscopy",
-        "nutrition consult",
         "neurology consult",
+        "nutrition consult",
         "negative cultures",
         "nasal congestion",
         "normal course",
@@ -1629,22 +1383,15 @@
         "new consolidations",
         "nursing care",
         "new changes",
-        "neck ct",
         "new cough",
         "negative coverage"
     ],
     "ic": [
-        "interval change",
-        "ischemic change",
         "ischemic changes",
         "icu course",
-        "ij catheter",
-        "iv contrast",
-        "id consult",
         "intravenous contrast",
         "initial concern",
         "inflammatory changes",
-        "iv ceftriaxone",
         "interval changes",
         "impression cardiomegaly",
         "inr checks",
@@ -1652,7 +1399,6 @@
         "infectious cause",
         "infrahilar consolidation",
         "initial cxr",
-        "iv cefepime",
         "ischemic colitis",
         "infectious consolidation",
         "infectious colitis"
@@ -1660,19 +1406,14 @@
     "ls": [
         "left side",
         "limited study",
-        "l spine",
         "lumbar spine",
-        "l side",
-        "loose stool",
         "low svc",
         "loose stools",
         "left shift",
-        "lft s",
         "low suspicion",
         "low sodium",
         "left shoulder",
         "likely source",
-        "leni s",
         "low salt",
         "localizing symptoms",
         "leg swelling",
@@ -1680,13 +1421,8 @@
         "likely sepsis"
     ],
     "dd": [
-        "d/c d",
-        "d/c d.",
         "diastolic dysfunction",
         "differential diagnosis",
-        "d dimer",
-        "dc d",
-        "dc d.",
         "diabetic diet",
         "ductal dilatation",
         "diltiazem drip",
@@ -1713,15 +1449,11 @@
         "sinus bradycardia",
         "stomach body",
         "slow background",
-        "systolic bp",
-        "stable bp",
         "sodium bicarbonate",
         "slight blunting",
         "subsegmental branches"
     ],
     "ul": [
-        "upper lobe",
-        "upper lung",
         "upper lungs",
         "upper limits",
         "urine legionella",
@@ -1738,7 +1470,6 @@
         "vna services",
         "v/q scan",
         "ventilatory support",
-        "vp shunt",
         "vascular structures",
         "ventilator settings",
         "viral syndrome",
@@ -1746,24 +1477,19 @@
         "ventilator support"
     ],
     "id": [
-        "i d",
         "interval development",
-        "infectious disease",
         "insulin drip",
         "iron deficiency",
         "interval decrease",
         "increased density",
         "ischemic disease",
         "interstitial disease",
-        "iv diltiazem",
-        "i doubt",
         "icd device",
         "intrahepatic ducts",
         "influenza dfa",
         "infectious diseases"
     ],
     "cl": [
-        "central line",
         "cath lab",
         "cystic lesion",
         "cavitary lesion",
@@ -1822,8 +1548,8 @@
         "likely prerenal",
         "lidocaine patch",
         "likely pneumonia",
-        "lumbar puncture",
         "likely post",
+        "lumbar puncture",
         "likely present",
         "low probability",
         "lasix prn",
@@ -1841,8 +1567,6 @@
     ],
     "bs": [
         "broad spectrum",
-        "blood sugar",
-        "bp s",
         "blood sugars",
         "black stools",
         "borderline size",
@@ -1853,7 +1577,6 @@
         "breath sounds",
         "bubble study",
         "bloody stools",
-        "bp support",
         "bmt service",
         "bloody secretions",
         "bal sent",
@@ -1861,20 +1584,16 @@
     ],
     "pp": [
         "pulmonary process",
-        "poor po",
         "post procedure",
         "possible pneumonia",
         "poor prognosis",
         "possible pna",
-        "patient position",
         "pain patient",
         "pleural plaques",
         "peg placement",
         "picc placement",
-        "possible pe",
         "patient positioning",
         "ppx ppi",
-        "pain pt",
         "pulmonary parenchyma",
         "presumed pneumonia",
         "pcp prophylaxis",
@@ -1888,10 +1607,9 @@
         "pleuritic pain",
         "proximal portion",
         "pulmonary pressures",
-        "pa pressures",
         "pcp pneumonia",
-        "probable pneumonia",
         "pelvis port",
+        "probable pneumonia",
         "permanent pacer",
         "prolonged period"
     ],
@@ -1899,17 +1617,14 @@
         "cxr impression",
         "cardiac index",
         "contrast impression",
-        "ct impression",
         "clinical improvement",
-        "chronic issue",
         "chronic inflammation",
         "clear infiltrate",
         "chronic issues",
         "cardiac ischemia",
-        "ct imaging",
         "continued improvement",
-        "cxr improvement",
         "cardiac issues",
+        "cxr improvement",
         "critical illness",
         "cns infection",
         "clinical impression"
@@ -1929,7 +1644,6 @@
         "pulmonary congestion",
         "plt count",
         "portable chest",
-        "prior ct",
         "prior ct.",
         "platelet count",
         "positive cocci",
@@ -1939,27 +1653,23 @@
         "pneumonic consolidation",
         "pulmonary consult",
         "parenchymal consolidation",
-        "perihilar consolidation",
         "patient comfort",
-        "prostate cancer",
+        "perihilar consolidation",
         "pleurex catheter",
+        "prostate cancer",
         "prior cxr",
         "persistent cardiomegaly",
-        "pet ct",
         "patchy consolidation",
-        "previous ct",
         "patient cmo",
         "prior cabg",
         "postoperative changes",
         "pulmonary clinic",
         "partial collapse",
-        "primary cardiologist",
         "peribronchial cuffing",
+        "primary cardiologist",
         "possible consolidation",
         "persistent cough",
-        "pan cx",
         "positive cultures",
-        "pa catheter",
         "patient c/o",
         "possible causes",
         "possible component",
@@ -1972,7 +1682,6 @@
         "thoracic spine",
         "thoracic surgery",
         "tox screen",
-        "t spine",
         "third spacing",
         "thick secretions",
         "transplant surgery",
@@ -1987,30 +1696,24 @@
         "iron studies",
         "icu stay",
         "incentive spirometry",
-        "iv solumedrol",
         "infectious source",
         "induced sputum",
         "iron supplementation",
-        "iv steroids",
-        "ivf s",
         "interatrial septum",
         "increased secretions",
         "incentive spirometer",
         "increased signal",
         "intracardiac shunt",
-        "iron supplements",
         "ica stenosis",
-        "insulin ss",
+        "iron supplements",
         "inferior septum",
-        "id service",
         "incision site",
-        "incentive spirrometry",
         "ictal state",
+        "incentive spirrometry",
         "interventricular septum",
         "inhaled steroids"
     ],
     "tl": [
-        "thin liquid",
         "thin liquids",
         "thick liquids",
         "troponin leak",
@@ -2022,20 +1725,14 @@
         "temporal lobes"
     ],
     "ab": [
-        "active bleed",
         "active bleeding",
-        "air bronchogram",
         "air bronchograms",
-        "acute bleed",
         "aerobic bottle",
         "anaerobic bottle",
-        "av block",
         "acute bleeding",
         "appropriate bump"
     ],
     "ct": [
-        "chest tube",
-        "ct torso",
         "chest tubes",
         "catheter tip",
         "cath tip",
@@ -2062,9 +1759,6 @@
     ],
     "ec": [
         "ekg changes",
-        "ed course",
-        "e coli",
-        "e. coli",
         "echo conclusions",
         "empiric coverage",
         "ecg changes",
@@ -2079,27 +1773,23 @@
     "md": [
         "metastatic disease",
         "morphine drip",
-        "mediastinal drain",
         "metabolic disturbances",
         "metoprolol dose",
         "mild degree",
         "mild dilatation",
         "moderate degree",
-        "mild decrease",
         "maintenance dose",
+        "mild decrease",
         "mediastinal drains",
         "minimal decrease",
         "multiple discussions"
     ],
     "pi": [
-        "po intake",
         "pulmonary infiltrates",
         "post intubation",
-        "previous image",
         "previous images",
         "patchy infiltrates",
         "pulmonary infection",
-        "peripheral iv",
         "portable impression",
         "pneumonic infiltrate",
         "possible infiltrate",
@@ -2112,22 +1802,13 @@
         "poor inspiration",
         "presumptive identification"
     ],
-    "vt": [
-        "venous thrombosis",
-        "ventricular tachycardia",
-        "voiding trial",
-        "vancomycin trough",
-        "v tach"
-    ],
     "ld": [
-        "low dose",
         "lung disease",
         "liver disease",
         "lasix drip",
         "last day",
         "last dose",
         "lasix dose",
-        "le doppler",
         "low density",
         "liquid diet",
         "lasix diuresis",
@@ -2137,10 +1818,9 @@
         "laboratory data",
         "last discharge",
         "liver dysfunction",
-        "low doses",
         "later date",
+        "low doses",
         "levophed drip",
-        "le dopplers",
         "large doses"
     ],
     "es": [
@@ -2148,12 +1828,9 @@
         "electrographic seizures",
         "end stage",
         "esophageal stent",
-        "ed stay",
-        "early sepsis",
-        "ed staff"
+        "early sepsis"
     ],
     "po": [
-        "post op",
         "parenchymal opacities",
         "patchy opacities",
         "patchy opacity",
@@ -2169,8 +1846,6 @@
         "persistent opacity"
     ],
     "sw": [
-        "s wife",
-        "social work",
         "sternotomy wires",
         "sternal wires",
         "slight worsening",
@@ -2180,20 +1855,15 @@
     ],
     "ih": [
         "intracranial hemorrhage",
-        "iv hydration",
-        "iv heparin",
         "inferior hypokinesis",
         "intraparenchymal hemorrhage",
         "inguinal hernia",
         "ivf hydration",
         "inferolateral hypokinesis",
-        "iv hydralazine",
         "internal hemorrhoids"
     ],
     "so": [
-        "supplemental ox",
         "supplemental oxygen",
-        "s office",
         "subtle opacity",
         "streaky opacities",
         "several occasions",
@@ -2240,15 +1910,8 @@
         "tissue diagnosis"
     ],
     "se": [
-        "s examination",
-        "swallow eval",
-        "small effusion",
         "subcutaneous emphysema",
-        "swallow evaluation",
-        "st elevation",
         "sided effusion",
-        "st elevations",
-        "side effect",
         "small effusions",
         "severe emphysema",
         "subcutaneous edema",
@@ -2258,23 +1921,19 @@
         "superimposed edema",
         "severe encephalopathy",
         "substantial enlargement",
-        "slight elevation",
         "s/p extubation",
-        "second episode",
+        "slight elevation",
         "scrotal edema",
+        "second episode",
         "swallow exam",
         "superior endplate",
         "swallow evaluations"
     ],
     "ai": [
-        "ace i",
-        "acute infarct",
         "adrenal insufficiency",
-        "active issue",
         "ace inhibitor",
         "acute illness",
         "active issues",
-        "alveolar infiltrate",
         "acute infection",
         "acute infarction",
         "acute issues",
@@ -2283,7 +1942,6 @@
         "atypical infection",
         "alveolar infiltrates",
         "acute ischemia",
-        "acute infiltrate",
         "acute infarcts",
         "albuterol inhaler",
         "acute inflammation",
@@ -2295,12 +1953,9 @@
         "acute injury"
     ],
     "de": [
-        "d/c ed",
         "definite evidence",
         "distal esophagus",
         "diffuse encephalopathy",
-        "depressed ef",
-        "dc ed",
         "dependent edema",
         "definite effusion",
         "definitive evidence",
@@ -2308,10 +1963,8 @@
         "distal end"
     ],
     "lf": [
-        "lung field",
         "lung fields",
         "left frontal",
-        "lv function",
         "left foot",
         "liver failure",
         "liver function",
@@ -2321,8 +1974,8 @@
         "upper abdomen",
         "upon admission",
         "unchanged appearance",
-        "urinary antigen",
         "uric acid",
+        "urinary antigen",
         "upper airway",
         "underlying atelectasis"
     ],
@@ -2332,7 +1985,6 @@
         "final report",
         "final read",
         "fluid removal",
-        "followup radiograph",
         "followup radiographs",
         "fall risk",
         "frontal radiograph",
@@ -2344,26 +1996,15 @@
         "further recommendations"
     ],
     "hm": [
-        "home medication",
         "home medications",
         "hilar mass",
         "home meds",
         "home metoprolol",
         "head mri"
     ],
-    "ti": [
-        "transitional issues",
-        "therapeutic inr",
-        "thoracic inlet",
-        "type ii",
-        "traumatic injury"
-    ],
     "ri": [
-        "right ij",
         "renal insufficiency",
         "rll infiltrate",
-        "r ij",
-        "re intubation",
         "regular insulin",
         "repeat imaging",
         "required intubation",
@@ -2372,48 +2013,33 @@
         "rapid improvement",
         "resistive indices",
         "respiratory issues",
-        "recurrent infection",
-        "recent illness"
+        "recent illness",
+        "recurrent infection"
     ],
     "fi": [
-        "focal infiltrate",
         "final inpatient",
-        "further intervention",
         "fatty infiltration",
         "focal infiltrates",
         "further imaging",
         "fungal infection",
         "followup imaging",
         "fecal incontinence",
-        "further investigation",
         "further increase",
+        "further investigation",
         "further issues",
         "further interventions"
     ],
     "ia": [
         "improved aeration",
-        "iv antibiotics",
         "icu admission",
         "interstitial abnormality",
-        "iv access",
-        "iv abx",
         "initial abg",
         "inferior aspect",
-        "iv ativan",
         "inferolateral akinesis",
         "interval appearance",
         "indeterminate age"
     ],
-    "iv": [
-        "iv vanc",
-        "iv vanco",
-        "iv vancomycin",
-        "initial vs",
-        "initial vitals",
-        "improved ventilation"
-    ],
     "re": [
-        "repeat echo",
         "right effusion",
         "renal etiology",
         "radiographic evidence",
@@ -2421,8 +2047,6 @@
         "recent echo",
         "repeat egd",
         "rectal exam",
-        "re evaluation",
-        "re expansion",
         "replete electrolytes",
         "right eye",
         "repeat ercp",
@@ -2438,7 +2062,6 @@
         "amiodarone gtt"
     ],
     "be": [
-        "bilateral eff",
         "bilateral effusions",
         "bedside echo",
         "b/l effusions",
@@ -2454,8 +2077,8 @@
         "discharge teaching",
         "diagnostic thoracentesis",
         "distal tibia",
-        "drug toxicity",
-        "distal third"
+        "distal third",
+        "drug toxicity"
     ],
     "ma": [
         "metabolic acidosis",
@@ -2468,13 +2091,13 @@
         "mediastinal adenopathy",
         "mid abdomen",
         "medial aspect",
-        "multifocal areas",
         "mitral annulus",
+        "multifocal areas",
         "microcytic anemia",
         "multiple attempts",
         "macrocytic anemia",
-        "minimal amount",
         "micu admission",
+        "minimal amount",
         "multiple areas",
         "massive aspiration",
         "minor atelectasis",
@@ -2482,32 +2105,22 @@
         "medical advice"
     ],
     "le": [
-        "l effusion",
-        "le edema",
         "left effusion",
-        "limited exam",
         "likely etiology",
         "lung exam",
-        "large effusion",
         "limited examination",
         "last echo",
         "limited evaluation",
         "loculated effusion",
         "left eye",
-        "low ef",
         "likely explanation",
         "large effusions",
         "little effect"
     ],
     "li": [
         "lll infiltrate",
-        "lobe infiltrate",
-        "leads i",
-        "left ij",
-        "lasix iv",
         "line infection",
         "lobe infiltrates",
-        "l ij",
         "lul infiltrate",
         "low iron",
         "likely infection",
@@ -2515,9 +2128,7 @@
         "lead iii"
     ],
     "rm": [
-        "right mid",
         "right middle",
-        "renal mass",
         "respiratory motion",
         "right mainstem",
         "repeat mri",
@@ -2527,7 +2138,6 @@
         "slight increase",
         "slight improvement",
         "superimposed infection",
-        "s image",
         "supratherapeutic inr",
         "scale insulin",
         "significant improvement",
@@ -2539,8 +2149,7 @@
         "significant increase",
         "subtherapeutic inr",
         "sagittal images",
-        "slow improvement",
-        "ss insulin"
+        "slow improvement"
     ],
     "bi": [
         "bilateral infiltrates",
@@ -2558,7 +2167,6 @@
         "shock liver",
         "stat lab",
         "single lead",
-        "sclerotic lesion",
         "state lab",
         "sclerotic lesions",
         "single lumen",
@@ -2572,27 +2180,20 @@
         "insulin regimen",
         "interval resolution",
         "impaired relaxation",
-        "id recs",
         "interventional radiology",
         "ivf resuscitation",
-        "id recommendations",
         "interpolar region",
         "interval recurrence"
     ],
     "dp": [
         "dvt prophylaxis",
-        "decreased po",
         "discharge patient",
         "dvt ppx",
-        "dedicated pa",
         "definite pneumothorax",
         "discharge plan",
         "dilaudid pca",
         "diagnostic paracentesis",
         "dispo patient",
-        "dispo pt",
-        "discharge pt",
-        "dm pt",
         "distal portion",
         "drain placement",
         "definite pneumonia",
@@ -2613,7 +2214,6 @@
         "asthma exacerbation",
         "abnormal enhancement",
         "acute episode",
-        "acute event",
         "alveolar edema",
         "atrial ectopy",
         "acute events",
@@ -2626,7 +2226,6 @@
         "general surgery",
         "generalized slowing",
         "gallbladder sludge",
-        "gi source",
         "guaiac stools"
     ],
     "nd": [
@@ -2653,16 +2252,10 @@
         "difficult study"
     ],
     "ac": [
-        "ap chest",
-        "atelectatic change",
         "atelectatic changes",
         "antibiotic coverage",
-        "abdominal ct",
         "acute cholecystitis",
-        "acute change",
         "and/or consolidation",
-        "atherosclerotic calcification",
-        "abd ct",
         "airspace consolidation",
         "antibiotic course",
         "acute changes",
@@ -2671,33 +2264,24 @@
         "acute chf",
         "atherosclerotic calcifications",
         "abx coverage",
-        "appreciable change",
         "abx course",
+        "appreciable change",
         "acalculous cholecystitis",
         "atypical coverage",
         "assist control",
         "admission cxr",
         "anaerobic culture",
-        "abdominal/pelvic ct",
         "atypical cells",
         "atherosclerotic changes"
     ],
-    "ne": [
-        "normal ef",
-        "normal egd",
-        "neuro exam",
-        "neurologic exam",
-        "normal esophagus"
-    ],
     "cm": [
-        "ck mb",
         "comfort measures",
         "close monitoring",
         "cardiac mri",
         "contrast material",
         "case management",
-        "conservative management",
         "cardiac monitor",
+        "conservative management",
         "continued monitoring",
         "contrast medium",
         "continued management",
@@ -2707,7 +2291,6 @@
     "fw": [
         "free wall",
         "free water",
-        "further work",
         "further workup",
         "few weeks",
         "focal weakness",
@@ -2719,18 +2302,17 @@
         "hiatal hernia",
         "humeral head",
         "hiatus hernia",
-        "hypovolemic hyponatremia",
-        "home hospice"
+        "home hospice",
+        "hypovolemic hyponatremia"
     ],
     "nr": [
         "new right",
         "non rebreather",
-        "negative rod",
         "normal range",
         "negative rods",
         "nutrition recs",
-        "nuclear report",
         "new regimen",
+        "nuclear report",
         "non revealing",
         "normal rate"
     ],
@@ -2750,7 +2332,6 @@
     "rr": [
         "retrocardiac region",
         "respiratory rate",
-        "repeat radiograph",
         "regular rhythm",
         "recent radiograph",
         "repeat radiography",
@@ -2767,7 +2348,6 @@
         "finger sticks",
         "full sentences",
         "ferrous sulfate",
-        "fe studies",
         "functional status",
         "first set",
         "flu swab",
@@ -2782,7 +2362,6 @@
         "renal ultrasound",
         "renal u/s",
         "ruq ultrasound",
-        "repeat ua",
         "recurrent utis"
     ],
     "al": [
@@ -2795,7 +2374,6 @@
         "anterior leads"
     ],
     "pn": [
-        "pulmonary nodule",
         "pulmonary nodules",
         "please note",
         "poor nutrition",
@@ -2804,19 +2382,14 @@
         "possible need"
     ],
     "ss": [
-        "s s",
-        "s systolic",
         "swallow study",
         "septic shock",
-        "sphenoid sinus",
         "sleep study",
         "soft solids",
-        "sputum sample",
-        "sbp s",
         "spinal stenosis",
         "superior segment",
-        "stool studies",
         "speech swallow",
+        "stool studies",
         "sphenoid sinuses",
         "surgical site",
         "sputum samples",
@@ -2827,8 +2400,8 @@
         "severe sepsis",
         "steri strips",
         "superior svc",
-        "subcortical structures",
         "serotonin syndrome",
+        "subcortical structures",
         "stool samples",
         "surgical staples",
         "severe scoliosis",
@@ -2842,14 +2415,10 @@
         "good control",
         "glucose control",
         "glycemic control",
-        "gi consult",
-        "g csf",
         "good candidate"
     ],
     "hl": [
-        "hilar lymph",
         "home lasix",
-        "hd line",
         "hemolysis labs",
         "hilar lymphadenopathy",
         "home levothyroxine",
@@ -2862,9 +2431,7 @@
         "right port",
         "right perihilar",
         "rll pna",
-        "r ptx",
         "rll pneumonia",
-        "repeat pa",
         "required pressors",
         "ruq pain",
         "right pneumonectomy",
@@ -2884,19 +2451,14 @@
         "fentanyl patch",
         "floor patient",
         "foley placement",
-        "findings pa",
-        "fen pt",
         "fen patient",
-        "floor pt",
-        "flexed position",
         "fall precautions",
+        "flexed position",
         "first part"
     ],
     "na": [
-        "nl axis",
         "normocytic anemia",
         "normal axis",
-        "new area",
         "normal appearance",
         "new areas",
         "nodal agents",
@@ -2916,24 +2478,15 @@
     ],
     "ft": [
         "feeding tube",
-        "free tx",
         "further treatment",
         "face tent",
         "fistulous tract",
         "floor transfer",
         "floor team"
     ],
-    "mm": [
-        "medical management",
-        "multiple myeloma",
-        "mediastinal mass",
-        "mild mr",
-        "moderate mr"
-    ],
     "iw": [
         "interval worsening",
         "inferior wall",
-        "infectious work",
         "increased work",
         "infectious workup",
         "inferolateral walls",
@@ -2948,44 +2501,30 @@
     ],
     "oc": [
         "overt chf",
-        "other change",
         "oral contrast",
-        "other complaints",
         "other causes",
+        "other complaints",
         "operative changes",
-        "osh ct",
         "oral care",
         "outpatient cardiologist",
         "other changes",
         "outpatient colonoscopy",
-        "op course",
         "other considerations",
         "other cultures"
     ],
     "vd": [
         "volume depletion",
-        "vitamin d",
         "vessel disease",
         "vascular disease",
         "valvular disease",
-        "vit d",
         "vac dressing"
-    ],
-    "gi": [
-        "grade i",
-        "goal inr",
-        "grade ii",
-        "gentle ivf",
-        "gradual improvement"
     ],
     "pd": [
         "pulmonary disease",
         "patient denies",
         "prior day",
         "perfusion defect",
-        "po diet",
         "pleural drain",
-        "pt denies",
         "pancreatic duct",
         "pacemaker device",
         "pericardial drain",
@@ -2993,7 +2532,6 @@
         "previous day",
         "poor definition",
         "peripheral dopamine",
-        "po dilaudid",
         "positional differences"
     ],
     "el": [
@@ -3003,20 +2541,10 @@
         "elevated lipase",
         "echogenic liver",
         "endobronchial lesion",
-        "ex lap",
         "exploratory laparotomy",
         "empiric levofloxacin"
     ],
-    "psc": [
-        "patient s cr",
-        "patient s creatinine",
-        "patient s condition",
-        "patient s chin",
-        "patient s course",
-        "poor surgical candidate"
-    ],
     "fl": [
-        "fluid level",
         "femoral line",
         "fluid levels",
         "frontal lobe",
@@ -3026,7 +2554,6 @@
         "full liquids"
     ],
     "fb": [
-        "fluid bolus",
         "fluid boluses",
         "fluid balance",
         "foreign body",
@@ -3036,16 +2563,6 @@
         "frank blood",
         "focal basal",
         "frequent bursts"
-    ],
-    "psh": [
-        "patient s history",
-        "patient s hct",
-        "pt s hct",
-        "patient s hematocrit",
-        "ppx sc heparin",
-        "patient s hypotension",
-        "patient s hcp",
-        "patient s hypoxia"
     ],
     "rt": [
         "renal transplant",
@@ -3101,7 +2618,6 @@
         "antibiotic therapy",
         "atrial tachycardia",
         "antibiotic treatment",
-        "ap technique",
         "abdominal tenderness",
         "aortic tortuosity",
         "appropriate treatment",
@@ -3116,20 +2632,6 @@
         "small volume",
         "strep viridans",
         "seminal vesicles"
-    ],
-    "bv": [
-        "brachiocephalic vein",
-        "brachiocephalic veins",
-        "blurry vision",
-        "brachial veins",
-        "basilic veins"
-    ],
-    "he": [
-        "hepatic encephalopathy",
-        "hypotensive episode",
-        "head.no evidence",
-        "hypotensive episodes",
-        "hypertensive emergency"
     ],
     "tv": [
         "tricuspid valve",
@@ -3174,7 +2676,6 @@
         "distal lad"
     ],
     "ho": [
-        "home ox",
         "home oxygen",
         "hazy opacity",
         "heterogeneous opacification",
@@ -3184,30 +2685,13 @@
     ],
     "nf": [
         "normal flow",
-        "new finding",
         "near future",
         "nursing facility",
         "new findings",
         "nonspecific finding",
         "nondisplaced fracture",
-        "new fever",
-        "neutropenic fever"
-    ],
-    "ln": [
-        "l nc",
-        "lymph node",
-        "lymph nodes",
-        "lung nodule",
-        "lung nodules",
-        "last night"
-    ],
-    "ni": [
-        "new infiltrate",
-        "nl intervals",
-        "normal intervals",
-        "new infiltrates",
-        "neuro icu",
-        "nml intervals"
+        "neutropenic fever",
+        "new fever"
     ],
     "gd": [
         "gentle diuresis",
@@ -3234,19 +2718,15 @@
         "new opacification"
     ],
     "pm": [
-        "pain medication",
-        "po meds",
         "pain medications",
         "patient motion",
         "pain meds",
-        "po metoprolol",
         "pain management",
         "past month",
         "pulmonary metastases",
         "psych meds",
         "previous mri",
         "proteus mirabilis",
-        "po medications",
         "purulent material",
         "psychiatric medications"
     ],
@@ -3283,31 +2763,18 @@
     ],
     "hp": [
         "hypertension patient",
-        "htn pt",
         "htn patient",
         "hip pain",
-        "h. pylori",
-        "home pt",
         "heparin products",
         "hypotension patient",
         "hsv pcr",
-        "hypotension pt",
         "haldol prn",
         "home ppi",
         "hepatitis panel",
         "high peep",
-        "hypertension pt",
-        "hypothyroidism patient",
         "hypernatremia patient",
-        "hyponatremia patient",
-        "hd patient"
-    ],
-    "it": [
-        "icu team",
-        "icu transfer",
-        "impression.endotracheal tube",
-        "id team",
-        "intraventricular thrombus"
+        "hypothyroidism patient",
+        "hyponatremia patient"
     ],
     "ao": [
         "airspace opacities",
@@ -3326,9 +2793,7 @@
     ],
     "bm": [
         "bone marrow",
-        "bowel movement",
         "bowel movements",
-        "bp meds",
         "bronchovascular markings",
         "bipap mask",
         "brain mets",
@@ -3338,8 +2803,8 @@
         "extremity dvt",
         "epileptiform discharges",
         "emergency department",
-        "extensive discussion",
         "end diastolic",
+        "extensive discussion",
         "echo dense",
         "extremity dopplers",
         "echocardiographic data",
@@ -3349,24 +2814,19 @@
         "transverse colon",
         "trach collar",
         "total course",
-        "torso ct",
         "tip culture",
         "time course",
         "transplant candidate"
     ],
     "lr": [
-        "l r",
         "likely represent",
-        "large r",
         "large right",
-        "lateral radiograph",
         "likely reactive",
         "lateral radiographs",
         "low risk",
         "lab results"
     ],
     "ml": [
-        "middle lobe",
         "mid lung",
         "moderate left",
         "mediastinal lymphadenopathy",
@@ -3377,8 +2837,8 @@
         "mild leukocytosis",
         "metastatic lesions",
         "middle lobes",
-        "monitor lytes",
         "mitral leaflets",
+        "monitor lytes",
         "multiple lines"
     ],
     "mb": [
@@ -3387,35 +2847,20 @@
         "minimal blunting",
         "mild blunting",
         "many bacteria",
-        "mrsa bacteremia",
         "mini bal",
+        "mrsa bacteremia",
         "moderate bacteria",
         "major branches"
-    ],
-    "ot": [
-        "occlusive thrombus",
-        "orogastric tube",
-        "og tube",
-        "occupational therapy",
-        "other times"
     ],
     "of": [
         "oropharyngeal flora",
         "other findings",
-        "other forms",
         "organ failure",
+        "other forms",
         "outpatient f/u",
-        "op flora",
         "old films",
         "overt failure",
         "oral flora"
-    ],
-    "mh": [
-        "mri head",
-        "mr head",
-        "mild hypokinesis",
-        "mediastinal hematoma",
-        "mild hypoxia"
     ],
     "vr": [
         "ventricular response",
@@ -3426,14 +2871,6 @@
         "volume removal",
         "volume repletion"
     ],
-    "ib": [
-        "ivf bolus",
-        "ivf boluses",
-        "iv bid",
-        "intracranial bleed",
-        "iv boluses",
-        "ischemic bowel"
-    ],
     "db": [
         "difficulty breathing",
         "duodenal bulb",
@@ -3443,10 +2880,7 @@
         "deep breathing"
     ],
     "mt": [
-        "mg tid",
-        "moderate tr",
         "mucosal thickening",
-        "mild tr",
         "multiple times",
         "micu team",
         "metoprolol tartrate",
@@ -3477,8 +2911,7 @@
         "abdominal wound",
         "acute worsening",
         "afib w/rvr",
-        "anxiety w/haldol",
-        "ap window"
+        "anxiety w/haldol"
     ],
     "np": [
         "nebs prn",
@@ -3495,16 +2928,7 @@
         "neuropathic pain",
         "note patient",
         "nosocomial pneumonia",
-        "nutrition pt",
-        "note pt",
         "new pneumothorax"
-    ],
-    "er": [
-        "elevated right",
-        "emergency room",
-        "extensive right",
-        "ed resident",
-        "expected region"
     ],
     "bpo": [
         "bilateral parenchymal opacities",
@@ -3513,26 +2937,11 @@
         "bilateral patchy opacities",
         "bilateral pulmonary opacities"
     ],
-    "bt": [
-        "blood transfusion",
-        "blood transfusions",
-        "biliary tree",
-        "b test",
-        "bony thorax"
-    ],
-    "sm": [
-        "several months",
-        "superior mediastinum",
-        "shovel mask",
-        "severe mr",
-        "sedating medications"
-    ],
     "oe": [
         "other etiologies",
         "other evidence",
         "overt edema",
         "overt evidence",
-        "osh ed",
         "other etiology"
     ],
     "oa": [
@@ -3586,7 +2995,6 @@
         "biliary duct",
         "biliary dilatation",
         "bipolar disorder",
-        "bactrim ds",
         "blood draws",
         "baseline dementia",
         "bone destruction"
@@ -3600,7 +3008,6 @@
         "elective intubation"
     ],
     "vp": [
-        "visualized portion",
         "ventricular pacing",
         "visualized portions",
         "viral pneumonia",
@@ -3642,22 +3049,21 @@
         "transient episode",
         "transudative effusion"
     ],
-    "rcc": [
-        "repeat chest ct",
-        "right central catheter",
-        "repeat ct chest",
-        "renal cell carcinoma",
-        "recent chest ct"
-    ],
     "avl": [
         "aortic valve leaflets"
+    ],
+    "bpe": [
+        "b/l pleural effusions",
+        "bilat pleural effusions",
+        "bilateral pleural effusions",
+        "bilateral pulmonary edema"
     ],
     "mvl": [
         "mitral valve leaflets"
     ],
     "llv": [
-        "low lung volumes",
-        "left lateral ventricle"
+        "left lateral ventricle",
+        "low lung volumes"
     ],
     "rvcs": [
         "right ventricular chamber size"
@@ -3669,31 +3075,26 @@
         "free wall motion"
     ],
     "vh": [
+        "ventral hernia",
         "ventricular hypertrophy",
         "ventricular hypokinesis",
-        "visual hallucinations",
-        "ventral hernia"
+        "visual hallucinations"
     ],
     "sbpe": [
         "small bilateral pleural effusions",
-        "small bilateral pleural effusion",
         "stable bilateral pleural effusions"
     ],
     "rpe": [
-        "right pleural effusion",
-        "r pleural effusion",
         "right pleural effusions"
     ],
     "vo": [
         "volume overload"
     ],
     "xc": [
-        "xd course",
         "xday course"
     ],
     "acp": [
-        "acute cardiopulmonary process",
-        "aggressive chest pt"
+        "acute cardiopulmonary process"
     ],
     "mvp": [
         "mitral valve prolapse"
@@ -3702,44 +3103,42 @@
         "right upper lobe",
         "right upper lung"
     ],
+    "bb": [
+        "banana bag",
+        "beta blockade",
+        "beta blockers",
+        "bilateral basal"
+    ],
     "hg": [
-        "heparin gtt",
-        "hep gtt"
+        "hep gtt",
+        "heparin gtt"
     ],
     "rlb": [
-        "right lung base",
         "right lung bases"
-    ],
-    "xn": [
-        "xl nc",
-        "xl ns",
-        "x/x ns"
     ],
     "lvcs": [
         "left ventricular cavity size"
     ],
     "fo": [
         "fluid overload",
-        "focal opacity",
+        "focal opacification",
         "focal opacities",
-        "focal opacification"
+        "focal opacity"
     ],
     "tmr": [
         "trivial mitral regurgitation"
     ],
     "srpe": [
-        "small right pleural effusion",
         "small right pleural effusions"
     ],
     "llb": [
-        "left lung base",
         "left lung bases"
     ],
     "mpa": [
-        "moderate pulmonary artery",
-        "mild pulmonary artery",
+        "main pulmonary arteries",
         "main pulmonary artery",
-        "main pulmonary arteries"
+        "mild pulmonary artery",
+        "moderate pulmonary artery"
     ],
     "tvl": [
         "tricuspid valve leaflets"
@@ -3748,8 +3147,7 @@
         "pulmonary vascular congestion"
     ],
     "vwt": [
-        "ventricular wall thicknesses",
-        "ventricular wall thickness"
+        "ventricular wall thicknesses"
     ],
     "gle": [
         "good leaflet excursion"
@@ -3758,23 +3156,27 @@
         "right ventricular cavity"
     ],
     "br": [
-        "bowel regimen",
+        "background rhythm",
         "biopsy results",
-        "background rhythm"
+        "bowel regimen"
     ],
     "arf": [
         "acute renal failure",
         "acute respiratory failure"
     ],
+    "hr": [
+        "heart rates",
+        "high residuals",
+        "high risk",
+        "home regimen"
+    ],
     "ta": [
         "thoracic aorta",
         "tortuous aorta",
-        "trace ar",
         "trace ascites"
     ],
     "chf": [
-        "congestive heart failure",
-        "ct head findings"
+        "congestive heart failure"
     ],
     "uo": [
         "urine output"
@@ -3783,57 +3185,55 @@
         "atrial septal defect"
     ],
     "slpe": [
-        "small left pleural effusion",
-        "small l pleural effusion"
+        "small left pleural effusion"
     ],
     "fwma": [
         "focal wall motion abnormality"
     ],
     "vsd": [
-        "ventricular systolic dysfunction",
-        "ventricular septal defect"
+        "ventricular septal defect",
+        "ventricular systolic dysfunction"
     ],
     "dh": [
         "denies headache",
-        "discharge home",
         "diastolic hypertension",
+        "discharge home",
         "distal half"
     ],
     "cj": [
         "cavoatrial junction"
     ],
     "ncs": [
-        "normal cavity size",
         "non contrast study",
-        "normal cardiomediastinal silhouette"
+        "normal cardiomediastinal silhouette",
+        "normal cavity size"
     ],
     "tr": [
+        "therapeutic range",
         "tricuspid regurgitation",
-        "tube removal",
-        "therapeutic range"
+        "tube removal"
     ],
     "ge": [
         "good effect",
+        "good evidence",
         "gross effusion",
-        "gross evidence",
-        "good evidence"
+        "gross evidence"
     ],
     "av": [
         "aortic valve",
-        "azygos vein",
         "axillary vein",
-        "ap view"
+        "azygos vein"
     ],
     "rsf": [
-        "regional/global systolic function",
-        "regional systolic function"
+        "regional systolic function",
+        "regional/global systolic function"
     ],
     "tq": [
         "technical quality"
     ],
     "vl": [
-        "volume loss",
-        "viral load"
+        "viral load",
+        "volume loss"
     ],
     "ng": [
         "nitro gtt",
@@ -3846,37 +3246,35 @@
         "aortic valve stenosis"
     ],
     "bsa": [
-        "broad spectrum antibiotics",
-        "broad spectrum abx"
+        "broad spectrum abx",
+        "broad spectrum antibiotics"
     ],
     "lul": [
         "left upper lobe"
     ],
     "ntt": [
-        "ng tube tip",
         "nasogastric tube terminates",
         "nasogastric tube tip"
     ],
     "sic": [
-        "significant interval change",
-        "short interval change"
+        "short interval change",
+        "significant interval change"
     ],
     "mtr": [
         "moderate tricuspid regurgitation"
     ],
     "tpe": [
-        "trivial/physiologic pericardial effusion",
-        "trivial pericardial effusion"
+        "trivial pericardial effusion",
+        "trivial/physiologic pericardial effusion"
     ],
     "aip": [
+        "acute intracranial pathology",
         "acute intracranial process",
-        "acute intrathoracic process",
-        "acute intracranial pathology"
+        "acute intrathoracic process"
     ],
     "cx": [
         "chest xray",
-        "coumadin xmg",
-        "ceftriaxone xg"
+        "coumadin xmg"
     ],
     "vwm": [
         "ventricular wall motion"
@@ -3886,11 +3284,8 @@
         "left ventricular configuration"
     ],
     "rml": [
-        "right middle lobe",
-        "right mid lung"
-    ],
-    "iac": [
-        "impression ap chest"
+        "right mid lung",
+        "right middle lobe"
     ],
     "svc": [
         "superior vena cava"
@@ -3905,36 +3300,34 @@
         "denies nausea"
     ],
     "vv": [
-        "vx vx",
         "valvular vegetations"
     ],
     "aih": [
         "acute intracranial hemorrhage"
     ],
+    "vt": [
+        "vancomycin trough",
+        "venous thrombosis",
+        "ventricular tachycardia",
+        "voiding trial"
+    ],
     "fpo": [
         "focal parenchymal opacities",
         "focal parenchymal opacity"
     ],
-    "xi": [
-        "xl ivf",
-        "xmg iv",
-        "xl ivfs"
-    ],
     "acs": [
-        "appropriate clinical setting",
-        "acute coronary syndrome"
+        "acute coronary syndrome",
+        "appropriate clinical setting"
     ],
     "erap": [
         "estimated right atrial pressure"
     ],
     "ig": [
-        "insulin gtt",
-        "inr goal"
+        "inr goal",
+        "insulin gtt"
     ],
     "gp": [
-        "good position",
-        "good po",
-        "gi prophylaxis"
+        "good position"
     ],
     "rbsf": [
         "regional biventricular systolic function"
@@ -3943,10 +3336,7 @@
         "chronic renal failure"
     ],
     "gt": [
-        "g tube",
-        "granulation tissue",
-        "gj tube",
-        "gi team"
+        "granulation tissue"
     ],
     "rvsf": [
         "right ventricular systolic function"
@@ -3955,10 +3345,6 @@
         "mastoid air cells",
         "mild atelectatic changes",
         "mitral annular calcification"
-    ],
-    "xf": [
-        "xu ffp",
-        "xl fluid"
     ],
     "lk": [
         "left kidney"
@@ -3970,42 +3356,46 @@
         "paroxysmal nocturnal dyspnea"
     ],
     "ff": [
+        "focal findings",
         "free fluid",
         "further fevers",
-        "focal findings",
         "further followup"
+    ],
+    "ti": [
+        "therapeutic inr",
+        "thoracic inlet",
+        "transitional issues",
+        "traumatic injury"
     ],
     "gr": [
         "good response",
-        "good results",
-        "good result"
+        "good results"
     ],
     "jp": [
-        "joint pains",
-        "joint pain"
+        "joint pains"
     ],
     "rca": [
-        "right costophrenic angle",
         "right coronary artery",
-        "right cp angle"
+        "right costophrenic angle"
     ],
     "ams": [
         "altered mental status"
     ],
     "gb": [
-        "gi bleed",
-        "gi bleeding",
         "global biventricular"
     ],
+    "iv": [
+        "improved ventilation",
+        "initial vitals",
+        "iv vanc"
+    ],
     "ep": [
-        "evident pneumothorax",
         "early pneumonia",
         "epigastric pain",
-        "ed prior"
+        "evident pneumothorax"
     ],
     "rk": [
-        "right kidney",
-        "r knee"
+        "right kidney"
     ],
     "ve": [
         "vascular engorgement",
@@ -4015,25 +3405,24 @@
         "acute pulmonary process"
     ],
     "gj": [
-        "ge junction",
         "gastroesophageal junction"
     ],
     "rpl": [
-        "right picc line",
-        "right pic line"
+        "right pic line",
+        "right picc line"
     ],
     "eb": [
-        "exertional buttock",
-        "elevated bnp"
+        "elevated bnp",
+        "exertional buttock"
     ],
     "siq": [
         "suboptimal image quality"
     ],
     "aca": [
+        "acute cardiopulmonary abnormalities",
         "acute cardiopulmonary abnormality",
         "adjacent compressive atelectasis",
-        "associated compressive atelectasis",
-        "acute cardiopulmonary abnormalities"
+        "associated compressive atelectasis"
     ],
     "mmr": [
         "mild mitral regurgitation",
@@ -4043,34 +3432,34 @@
         "little overall change"
     ],
     "ee": [
-        "extremity edema",
         "echocardiographic evidence",
-        "exudative effusion",
-        "electrophysiologic evidence"
+        "electrophysiologic evidence",
+        "extremity edema",
+        "exudative effusion"
     ],
     "di": [
         "demand ischemia",
-        "discharge instructions",
-        "dietary indiscretion"
+        "dietary indiscretion",
+        "discharge instructions"
     ],
     "ett": [
-        "et tube tip",
-        "endotracheal tube tip",
-        "endotracheal tube terminates"
+        "endotracheal tube terminates",
+        "endotracheal tube tip"
     ],
-    "xp": [
-        "xu prbc",
-        "xu prbcs",
-        "xu plts"
+    "ne": [
+        "neuro exam",
+        "neurologic exam",
+        "normal egd",
+        "normal esophagus"
     ],
     "pcp": [
-        "primary care physician",
         "pleuritic chest pain",
+        "primary care physician",
         "primary care provider"
     ],
     "lro": [
-        "left retrocardiac opacity",
-        "large retrocardiac opacity"
+        "large retrocardiac opacity",
+        "left retrocardiac opacity"
     ],
     "hcp": [
         "health care proxy"
@@ -4079,10 +3468,10 @@
         "ventricular filling pressure"
     ],
     "nh": [
-        "nursing home",
-        "new hemorrhage",
+        "negative hbcab",
         "negative hbsab",
-        "negative hbcab"
+        "new hemorrhage",
+        "nursing home"
     ],
     "fpe": [
         "flash pulmonary edema",
@@ -4091,29 +3480,24 @@
     "mpvc": [
         "mild pulmonary vascular congestion"
     ],
-    "tx": [
-        "toprol xl"
-    ],
     "mfo": [
         "mild fluid overload"
     ],
     "afp": [
         "acute focal pneumonia",
-        "atrial fibrillation patient",
-        "atrial fibrillation pt"
+        "atrial fibrillation patient"
     ],
     "ur": [
-        "urinary retention",
         "unclear reasons",
+        "upper range",
         "upright radiograph",
-        "upper range"
+        "urinary retention"
     ],
     "mw": [
         "mediastinal widening"
     ],
     "lw": [
         "last week",
-        "lateral wall",
         "lateral walls"
     ],
     "msc": [
@@ -4131,15 +3515,13 @@
         "mild interstitial edema"
     ],
     "lgf": [
-        "low grade fevers",
-        "low grade fever"
+        "low grade fevers"
     ],
     "rds": [
         "right dominant system"
     ],
     "mbpe": [
-        "moderate bilateral pleural effusions",
-        "moderate bilateral pleural effusion"
+        "moderate bilateral pleural effusions"
     ],
     "ruq": [
         "right upper quadrant"
@@ -4159,9 +3541,6 @@
         "deep vein thrombosis",
         "deep venous thrombosis"
     ],
-    "jt": [
-        "j tube"
-    ],
     "mavs": [
         "mild aortic valve stenosis",
         "minimal aortic valve stenosis",
@@ -4173,35 +3552,31 @@
     "cvc": [
         "central venous catheter"
     ],
+    "mm": [
+        "mediastinal mass",
+        "medical management",
+        "multiple myeloma"
+    ],
     "mph": [
-        "moderate pulmonary hypertension",
-        "mild pulmonary hypertension"
+        "mild pulmonary hypertension",
+        "moderate pulmonary hypertension"
     ],
     "sgc": [
         "swan ganz catheter"
-    ],
-    "chi": [
-        "ct head impression"
     ],
     "lml": [
         "left mid lung"
     ],
     "nbc": [
-        "negative blood culture",
         "negative blood cultures",
         "normal biventricular cavity"
     ],
     "rct": [
-        "right chest tube",
         "right chest tubes"
     ],
     "tm": [
-        "trach mask",
-        "toxic megacolon"
-    ],
-    "vk": [
-        "vitamin k",
-        "vit k"
+        "toxic megacolon",
+        "trach mask"
     ],
     "pvp": [
         "pulmonary venous pressure"
@@ -4218,29 +3593,30 @@
     "nnpn": [
         "nitrite neg protein neg"
     ],
-    "xo": [
-        "xl ox",
-        "xl oxygen"
-    ],
     "uti": [
         "urinary tract infection"
     ],
     "oh": [
-        "outside hospital",
         "oral hypoglycemics",
         "orthostatic hypotension",
-        "other hand"
+        "other hand",
+        "outside hospital"
     ],
     "dw": [
         "daily weights",
         "dry weight"
     ],
+    "gi": [
+        "gentle ivf",
+        "goal inr",
+        "gradual improvement"
+    ],
     "lbv": [
         "left brachiocephalic vein"
     ],
     "rvr": [
-        "rapid ventricular response",
-        "rapid ventricular rate"
+        "rapid ventricular rate",
+        "rapid ventricular response"
     ],
     "scj": [
         "superior cavoatrial junction"
@@ -4251,6 +3627,10 @@
     "rkm": [
         "right kidney measures"
     ],
+    "psc": [
+        "patient s cr",
+        "poor surgical candidate"
+    ],
     "gsf": [
         "global systolic function"
     ],
@@ -4258,16 +3638,19 @@
         "interstitial lung disease"
     ],
     "od": [
-        "outpatient dose",
         "other day",
-        "op day"
+        "outpatient dose"
     ],
     "guo": [
         "good urine output"
     ],
     "hds": [
-        "high dose steroids",
-        "high dose statin"
+        "high dose statin",
+        "high dose steroids"
+    ],
+    "psh": [
+        "patient s hct",
+        "ppx sc heparin"
     ],
     "bpa": [
         "borderline pulmonary artery"
@@ -4288,16 +3671,16 @@
     ],
     "ws": [
         "water seal",
-        "whole stomach",
-        "white sputum"
+        "white sputum",
+        "whole stomach"
     ],
     "xb": [
         "x/x bottles"
     ],
     "ui": [
-        "underlying infection",
         "u/s impression",
         "ultrasound impression",
+        "underlying infection",
         "urinary incontinence"
     ],
     "mve": [
@@ -4308,31 +3691,40 @@
         "right subclavian line"
     ],
     "gh": [
-        "global hypokinesis",
-        "group home",
         "gentle hydration",
-        "gross hematuria"
+        "global hypokinesis",
+        "gross hematuria",
+        "group home"
     ],
     "epvp": [
         "elevated pulmonary venous pressure"
     ],
     "sg": [
+        "significant growth",
         "sparse growth",
-        "subcutaneous gas",
-        "significant growth"
+        "subcutaneous gas"
     ],
     "ubn": [
         "urine blood neg"
     ],
     "wr": [
-        "wet read",
-        "wedge resection"
+        "wedge resection",
+        "wet read"
     ],
     "xa": [
         "xmg ativan"
     ],
-    "ril": [
-        "right ij line"
+    "bv": [
+        "basilic veins",
+        "blurry vision",
+        "brachial veins",
+        "brachiocephalic veins"
+    ],
+    "he": [
+        "head.no evidence",
+        "hepatic encephalopathy",
+        "hypertensive emergency",
+        "hypotensive episodes"
     ],
     "sec": [
         "spontaneous echo contrast"
@@ -4357,9 +3749,6 @@
     "mrpe": [
         "moderate right pleural effusion"
     ],
-    "qw": [
-        "q waves"
-    ],
     "fwh": [
         "free wall hypokinesis"
     ],
@@ -4369,9 +3758,6 @@
     "msw": [
         "median sternotomy wires",
         "midline sternotomy wires"
-    ],
-    "pacr": [
-        "portable ap chest radiograph"
     ],
     "pve": [
         "pulmonary vascular engorgement"
@@ -4384,6 +3770,11 @@
     ],
     "luq": [
         "left upper quadrant"
+    ],
+    "ln": [
+        "last night",
+        "lung nodules",
+        "lymph nodes"
     ],
     "mvo": [
         "mild volume overload"
@@ -4398,9 +3789,15 @@
         "chronic kidney disease"
     ],
     "ev": [
-        "ext veins",
+        "empiric vancomycin",
         "esophageal varices",
-        "empiric vancomycin"
+        "ext veins"
+    ],
+    "ni": [
+        "neuro icu",
+        "new infiltrates",
+        "nml intervals",
+        "normal intervals"
     ],
     "sts": [
         "soft tissue structures"
@@ -4409,17 +3806,15 @@
         "aortic knob"
     ],
     "fv": [
-        "frontal view",
-        "fourth ventricle"
+        "fourth ventricle",
+        "frontal view"
     ],
     "in": [
-        "ipratropium nebs",
         "incidental note",
-        "ipratropium nebulizers",
-        "iv nurse"
+        "ipratropium nebs",
+        "ipratropium nebulizers"
     ],
     "nknb": [
-        "neg ketone neg bilirub",
         "neg ketone neg bilirubin"
     ],
     "spa": [
@@ -4428,26 +3823,15 @@
     "bpc": [
         "blood pressure control"
     ],
-    "ciac": [
-        "cxr impression ap chest"
-    ],
     "fwf": [
         "free water flushes"
     ],
     "igc": [
         "increased gradient consistent"
     ],
-    "pss": [
-        "patient s symptoms",
-        "patient s son",
-        "pt s son"
-    ],
-    "rict": [
-        "right ij catheter tip"
-    ],
     "gu": [
-        "good uop",
         "gait unsteadiness",
+        "good uop",
         "good urine"
     ],
     "nfd": [
@@ -4472,8 +3856,8 @@
         "large bilateral pleural effusions"
     ],
     "gpc": [
-        "gram positive cocci",
-        "good pain control"
+        "good pain control",
+        "gram positive cocci"
     ],
     "icu": [
         "intensive care unit"
@@ -4483,33 +3867,32 @@
     ],
     "pu": [
         "patient underwent",
-        "positive ua",
         "pelvic ultrasound"
     ],
     "pcd": [
         "primary care doctor"
     ],
-    "ric": [
-        "right ij catheter"
-    ],
     "cri": [
         "chronic renal insufficiency"
     ],
+    "it": [
+        "icu team",
+        "icu transfer",
+        "impression.endotracheal tube",
+        "intraventricular thrombus"
+    ],
     "ntp": [
-        "nasogastric tube passes",
-        "ng tube placement",
-        "ng tube passes"
+        "nasogastric tube passes"
     ],
     "pb": [
-        "po bid",
         "previous baseline",
         "prior baseline"
     ],
     "ub": [
-        "urinary bladder",
-        "underwent bronchoscopy",
         "unclear baseline",
-        "unknown baseline"
+        "underwent bronchoscopy",
+        "unknown baseline",
+        "urinary bladder"
     ],
     "aki": [
         "acute kidney injury"
@@ -4522,9 +3905,8 @@
     ],
     "pw": [
         "past week",
-        "posterior wall",
-        "posterior walls",
-        "pericardial window"
+        "pericardial window",
+        "posterior walls"
     ],
     "rij": [
         "right internal jugular"
@@ -4533,8 +3915,8 @@
         "ventricular function"
     ],
     "rba": [
-        "right basilar atelectasis",
-        "right basal atelectasis"
+        "right basal atelectasis",
+        "right basilar atelectasis"
     ],
     "rijl": [
         "right internal jugular line"
@@ -4560,8 +3942,8 @@
         "bone marrow biopsy"
     ],
     "dhf": [
-        "diastolic heart failure",
-        "decompensated heart failure"
+        "decompensated heart failure",
+        "diastolic heart failure"
     ],
     "hu": [
         "hypertensive urgency"
@@ -4595,8 +3977,7 @@
         "multiple opacities"
     ],
     "nsd": [
-        "next several days",
-        "new st depressions"
+        "next several days"
     ],
     "rulo": [
         "right upper lobe opacity"
@@ -4605,10 +3986,15 @@
         "status post sternotomy"
     ],
     "nb": [
-        "ns bolus",
-        "new baseline",
         "negative blood",
+        "new baseline",
         "non bloody"
+    ],
+    "ot": [
+        "occlusive thrombus",
+        "occupational therapy",
+        "orogastric tube",
+        "other times"
     ],
     "rvpo": [
         "right ventricular pressure/volume overload"
@@ -4617,7 +4003,6 @@
         "stable vital signs"
     ],
     "tw": [
-        "t waves",
         "tsh wnl"
     ],
     "dfwc": [
@@ -4629,23 +4014,25 @@
     "nfwc": [
         "normal free wall contractility"
     ],
-    "prwp": [
-        "poor r wave progression"
-    ],
     "lct": [
         "left chest tube"
     ],
+    "mh": [
+        "mediastinal hematoma",
+        "mild hypokinesis",
+        "mild hypoxia",
+        "mri head"
+    ],
     "cg": [
+        "calcified granuloma",
         "calcium gluconate",
-        "coffee grounds",
-        "calcified granuloma"
+        "coffee grounds"
     ],
     "fwb": [
         "free water boluses"
     ],
     "lca": [
-        "left costophrenic angle",
-        "left cp angle"
+        "left costophrenic angle"
     ],
     "lrr": [
         "left retrocardiac region"
@@ -4656,34 +4043,32 @@
     "rwma": [
         "regional wall motion abnormalities"
     ],
+    "ib": [
+        "intracranial bleed",
+        "ischemic bowel",
+        "ivf boluses"
+    ],
     "lcr": [
-        "lateral chest radiographs",
-        "lateral chest radiograph"
+        "lateral chest radiographs"
     ],
     "lgt": [
-        "low grade temps",
-        "low grade temp",
         "low grade temperatures",
-        "low grade temperature"
+        "low grade temps"
     ],
     "lsd": [
-        "low sodium diet",
+        "last several days",
         "low salt diet",
-        "lateral st depressions",
-        "last several days"
+        "low sodium diet"
     ],
     "psd": [
-        "patient s daughter",
-        "past several days",
-        "pt s daughter"
+        "past several days"
     ],
     "hrf": [
-        "hypoxic respiratory failure",
         "hypercarbic respiratory failure",
-        "hypoxemic respiratory failure"
+        "hypoxemic respiratory failure",
+        "hypoxic respiratory failure"
     ],
     "lz": [
-        "lung zone",
         "lung zones"
     ],
     "pbpe": [
@@ -4703,28 +4088,24 @@
         "anterior fascicular block"
     ],
     "cld": [
-        "chronic lung disease",
-        "chronic liver disease"
+        "chronic liver disease",
+        "chronic lung disease"
     ],
     "cns": [
-        "coag negative staph",
         "coag neg staph",
+        "coag negative staph",
         "coagulase negative staph"
     ],
     "cge": [
         "coffee ground emesis"
     ],
     "fh": [
-        "further history",
         "few hours",
-        "focal hypokinesis"
+        "focal hypokinesis",
+        "further history"
     ],
     "hv": [
         "hepatic veins"
-    ],
-    "psbp": [
-        "patient s blood pressure",
-        "patient s blood pressures"
     ],
     "rjl": [
         "right jugular line"
@@ -4737,9 +4118,6 @@
     ],
     "nce": [
         "negative cardiac enzymes"
-    ],
-    "vx": [
-        "vancomycin xg"
     ],
     "asm": [
         "abnormal septal motion/position"
@@ -4754,9 +4132,8 @@
         "right heart border"
     ],
     "sbp": [
-        "systolic blood pressure",
-        "systolic blood pressures",
-        "stable blood pressure"
+        "stable blood pressure",
+        "systolic blood pressures"
     ],
     "uzr": [
         "upper zone redistribution"
@@ -4774,6 +4151,12 @@
     "cbc": [
         "complete blood count"
     ],
+    "er": [
+        "elevated right",
+        "emergency room",
+        "expected region",
+        "extensive right"
+    ],
     "llpe": [
         "large left pleural effusion"
     ],
@@ -4787,6 +4170,11 @@
     "vps": [
         "visualized paranasal sinuses"
     ],
+    "bt": [
+        "biliary tree",
+        "blood transfusions",
+        "bony thorax"
+    ],
     "bbb": [
         "bundle branch block"
     ],
@@ -4794,14 +4182,20 @@
         "right heart strain"
     ],
     "rla": [
-        "right lung apex",
-        "retrocardiac lung areas"
+        "retrocardiac lung areas",
+        "right lung apex"
     ],
     "sfv": [
         "single frontal view"
     ],
     "sre": [
         "small right effusion"
+    ],
+    "sm": [
+        "sedating medications",
+        "several months",
+        "shovel mask",
+        "superior mediastinum"
     ],
     "cval": [
         "central venous access line"
@@ -4822,25 +4216,19 @@
     "laa": [
         "left atrial appendage"
     ],
-    "psp": [
-        "patient s pcp",
-        "pt s pcp",
-        "patient s pain"
-    ],
     "au": [
-        "abdominal ultrasound",
-        "abdominal u/s"
+        "abdominal u/s",
+        "abdominal ultrasound"
     ],
     "cn": [
-        "ct neck",
         "combivent nebs"
     ],
     "mln": [
         "mediastinal lymph nodes"
     ],
     "rbo": [
-        "right basilar opacity",
-        "right basal opacity"
+        "right basal opacity",
+        "right basilar opacity"
     ],
     "dlp": [
         "dual lead pacemaker"
@@ -4852,21 +4240,19 @@
         "last year"
     ],
     "lpl": [
-        "left picc line",
-        "left parietal lobe"
+        "left parietal lobe",
+        "left picc line"
     ],
     "luo": [
         "low urine output"
     ],
     "rhc": [
-        "repeat head ct",
-        "right heart cath",
         "right heart catheterization"
     ],
     "tg": [
         "thyroid gland",
-        "transvalvular gradients",
-        "transaortic gradient"
+        "transaortic gradient",
+        "transvalvular gradients"
     ],
     "tns": [
         "top normal size"
@@ -4875,8 +4261,8 @@
         "video swallow study"
     ],
     "esr": [
-        "ekg sinus rhythm",
-        "ecg sinus rhythm"
+        "ecg sinus rhythm",
+        "ekg sinus rhythm"
     ],
     "gnr": [
         "gram negative rods"
@@ -4916,8 +4302,7 @@
         "renal artery stenosis"
     ],
     "vi": [
-        "viral infection",
-        "vancomycin iv"
+        "viral infection"
     ],
     "aaw": [
         "anterior abdominal wall"
@@ -4933,15 +4318,14 @@
         "endotracheal tube projects"
     ],
     "gf": [
-        "gout flare",
+        "gallbladder fossa",
         "gastric fundus",
-        "gallbladder fossa"
+        "gout flare"
     ],
     "hir": [
         "home insulin regimen"
     ],
     "hb": [
-        "hx blocker",
         "heparin bridge"
     ],
     "pfo": [
@@ -4951,35 +4335,26 @@
         "severe pulmonary hypertension"
     ],
     "we": [
+        "w/o evidence",
         "wall edema",
-        "widespread encephalopathy",
-        "w/o evidence"
-    ],
-    "xe": [
-        "xd echo",
-        "xd echocardiography"
+        "widespread encephalopathy"
     ],
     "am": [
         "accessory muscles",
         "aggressive measures",
-        "antihypertensive medications",
-        "acute mi"
+        "antihypertensive medications"
     ],
     "dfc": [
-        "drainable fluid collection",
-        "definite focal consolidation"
+        "definite focal consolidation",
+        "drainable fluid collection"
     ],
     "msl": [
         "mild symmetric lvh"
     ],
-    "psa": [
-        "patient s age",
-        "patient s antibiotics"
-    ],
     "rg": [
-        "right groin",
+        "rare gram",
         "rare growth",
-        "rare gram"
+        "right groin"
     ],
     "rijlt": [
         "right internal jugular line tip"
@@ -4997,7 +4372,6 @@
         "valvular aortic stenosis"
     ],
     "dpe": [
-        "definite pleural effusion",
         "definite pleural effusions"
     ],
     "lcw": [
@@ -5018,18 +4392,11 @@
     "paf": [
         "paroxysmal atrial fibrillation"
     ],
-    "ptw": [
-        "peaked t waves"
-    ],
     "ut": [
         "upon transfer",
         "urine tox"
     ],
-    "asv": [
-        "ap single view"
-    ],
     "nuc": [
-        "negative urine culture",
         "negative urine cultures"
     ],
     "ow": [
@@ -5058,20 +4425,14 @@
     "rijv": [
         "right internal jugular vein"
     ],
-    "sstwc": [
-        "specific st t wave changes"
-    ],
-    "ubl": [
-        "urine blood lg"
-    ],
     "avp": [
-        "atelectasis versus pneumonia",
-        "aortic valve prosthesis"
+        "aortic valve prosthesis",
+        "atelectasis versus pneumonia"
     ],
     "fn": [
+        "febrile neutropenia",
         "fen npo",
-        "first night",
-        "febrile neutropenia"
+        "first night"
     ],
     "pwm": [
         "periventricular white matter"
@@ -5092,13 +4453,12 @@
         "bright red blood"
     ],
     "cb": [
-        "code blue",
         "cardiac biomarkers",
+        "code blue",
         "core biopsy"
     ],
     "ccs": [
-        "correct clinical setting",
-        "ct c spine"
+        "correct clinical setting"
     ],
     "lijv": [
         "left internal jugular vein"
@@ -5131,22 +4491,18 @@
     "grc": [
         "good rate control"
     ],
-    "jd": [
-        "jp drain"
-    ],
     "lic": [
         "little interval change"
     ],
     "lbp": [
-        "low blood pressures",
-        "low blood pressure"
+        "low blood pressures"
     ],
     "ntc": [
         "nasogastric tube courses"
     ],
     "on": [
-        "operative note",
-        "omr notes"
+        "omr notes",
+        "operative note"
     ],
     "pmr": [
         "physiologic mitral regurgitation"
@@ -5158,18 +4514,18 @@
         "right picc line tip"
     ],
     "sii": [
-        "slight interval increase",
+        "significant interval improvement",
         "slight interval improvement",
-        "significant interval improvement"
+        "slight interval increase"
     ],
     "srp": [
         "small right pneumothorax"
     ],
     "vb": [
-        "vertebral bodies",
-        "vertebral body",
+        "variceal bleed",
         "venodyne boots",
-        "variceal bleed"
+        "vertebral bodies",
+        "vertebral body"
     ],
     "wma": [
         "wall motion abnormalities",
@@ -5182,24 +4538,13 @@
         "chronic pulmonary disease"
     ],
     "dg": [
-        "dopamine gtt",
+        "dilt gtt",
         "diltiazem gtt",
         "distended gallbladder",
-        "dilt gtt"
+        "dopamine gtt"
     ],
     "lps": [
         "lateral pleural sinuses"
-    ],
-    "psbh": [
-        "patient s body habitus"
-    ],
-    "psb": [
-        "patient s bp",
-        "patient s baseline",
-        "pt s bp"
-    ],
-    "psrs": [
-        "patient s respiratory status"
     ],
     "rsct": [
         "right subclavian catheter tip"
@@ -5211,10 +4556,10 @@
         "transitional issues patient"
     ],
     "um": [
-        "upper mediastinum",
         "underlying malignancy",
+        "underlying mass",
         "upper margin",
-        "underlying mass"
+        "upper mediastinum"
     ],
     "lcfv": [
         "left common femoral vein"
@@ -5223,19 +4568,16 @@
         "left subclavian line tip"
     ],
     "mdc": [
-        "multilevel degenerative changes",
+        "mild degenerative changes",
         "moderate degenerative changes",
-        "mild degenerative changes"
-    ],
-    "nu": [
-        "negative ua"
+        "multilevel degenerative changes"
     ],
     "rijcvc": [
         "right internal jugular central venous catheter"
     ],
     "rpt": [
-        "right picc tip",
-        "right picc terminates"
+        "right picc terminates",
+        "right picc tip"
     ],
     "rvp": [
         "right ventricular pacer"
@@ -5258,14 +4600,8 @@
     "dic": [
         "diagnostic interim change"
     ],
-    "lsf": [
-        "lv systolic function"
-    ],
     "msb": [
         "main stem bronchus"
-    ],
-    "ncd": [
-        "negative c diff"
     ],
     "nv": [
         "normal variant"
@@ -5277,13 +4613,10 @@
         "severe tricuspid regurgitation",
         "short term rehab"
     ],
-    "sav": [
-        "single ap view"
-    ],
     "va": [
-        "vertebral arteries",
         "valve area",
-        "ventricular aneurysm"
+        "ventricular aneurysm",
+        "vertebral arteries"
     ],
     "css": [
         "cardiac silhouette size"
@@ -5306,9 +4639,6 @@
     "niv": [
         "non invasive ventilation"
     ],
-    "pso": [
-        "pcp s office"
-    ],
     "ppc": [
         "post pull cxr"
     ],
@@ -5316,8 +4646,8 @@
         "restrictive filling abnormality"
     ],
     "rfl": [
-        "right frontal lobe",
-        "right femoral line"
+        "right femoral line",
+        "right frontal lobe"
     ],
     "rpr": [
         "right perihilar region"
@@ -5335,8 +4665,8 @@
         "small hiatal hernia"
     ],
     "uv": [
-        "upright view",
-        "understanding verbalized"
+        "understanding verbalized",
+        "upright view"
     ],
     "bao": [
         "bibasilar airspace opacities",
@@ -5369,26 +4699,25 @@
         "present bibasilar consolidations"
     ],
     "svd": [
-        "small vessel disease",
-        "significant valvular disease"
+        "significant valvular disease",
+        "small vessel disease"
     ],
     "ulo": [
         "upper lobe opacity"
     ],
     "uz": [
-        "upper zone",
         "upper zones"
     ],
     "bsc": [
         "broad spectrum coverage"
     ],
     "bwt": [
-        "bronchial wall thickening",
-        "bowel wall thickening"
+        "bowel wall thickening",
+        "bronchial wall thickening"
     ],
     "bw": [
-        "bronchial washings",
-        "bowel wall"
+        "bowel wall",
+        "bronchial washings"
     ],
     "gw": [
         "gallbladder wall"
@@ -5415,12 +4744,12 @@
         "right ventricular pacer leads"
     ],
     "rms": [
-        "rightward mediastinal shift",
-        "right maxillary sinus"
+        "right maxillary sinus",
+        "rightward mediastinal shift"
     ],
     "tn": [
-        "top normal/borderline",
-        "thyroid nodule"
+        "thyroid nodule",
+        "top normal/borderline"
     ],
     "to": [
         "total occlusion",
@@ -5430,33 +4759,28 @@
         "transient hypotension"
     ],
     "wm": [
-        "widened mediastinum",
-        "white matter"
+        "white matter",
+        "widened mediastinum"
     ],
     "abi": [
         "anoxic brain injury"
     ],
     "bac": [
-        "bibasilar atelectatic change",
         "bibasilar atelectatic changes",
         "broad antibiotic coverage"
-    ],
-    "cdt": [
-        "c. diff toxin",
-        "c diff toxin"
     ],
     "fibcbc": [
         "final inpatient blood culture blood culture"
     ],
     "ht": [
-        "hypothyroidism tsh",
         "haart therapy",
+        "head trauma",
         "hiv test",
-        "head trauma"
+        "hypothyroidism tsh"
     ],
     "lba": [
-        "left basilar atelectasis",
-        "left basal atelectasis"
+        "left basal atelectasis",
+        "left basilar atelectasis"
     ],
     "lla": [
         "left lung apex"
@@ -5477,14 +4801,11 @@
         "portal hypertensive gastropathy"
     ],
     "pra": [
-        "proximal right atrium",
-        "pre renal azotemia"
+        "pre renal azotemia",
+        "proximal right atrium"
     ],
     "raa": [
         "right atrial appendage"
-    ],
-    "ricvc": [
-        "right ij central venous catheter"
     ],
     "sds": [
         "stress dose steroids"
@@ -5496,35 +4817,23 @@
         "apical free wall"
     ],
     "bpi": [
-        "bilateral pulmonary infiltrates",
-        "bilateral patchy infiltrates"
+        "bilateral patchy infiltrates",
+        "bilateral pulmonary infiltrates"
     ],
     "bsf": [
         "biventricular systolic function"
     ],
     "gps": [
-        "guaiac positive stool",
         "guaiac positive stools"
     ],
     "ldm": [
         "low dose metoprolol"
     ],
-    "mpb": [
-        "mg po bid"
-    ],
-    "nnpt": [
-        "nitrite neg protein tr"
-    ],
-    "psi": [
-        "patient s inr"
-    ],
     "plp": [
         "picc line placement"
     ],
     "pq": [
-        "poor quality",
-        "po qd",
-        "prolonged qt"
+        "poor quality"
     ],
     "ract": [
         "right apical chest tubes"
@@ -5533,11 +4842,8 @@
         "right subclavian central venous catheter"
     ],
     "rulc": [
-        "right upper lobe consolidation",
-        "right upper lobe collapse"
-    ],
-    "un": [
-        "ua neg"
+        "right upper lobe collapse",
+        "right upper lobe consolidation"
     ],
     "ulp": [
         "upper lobe pneumonia"
@@ -5546,48 +4852,32 @@
         "blood pressure support"
     ],
     "cu": [
-        "complicated uti",
-        "cardiomegaly unchange"
-    ],
-    "chwc": [
-        "ct head w/o contrast"
+        "cardiomegaly unchange",
+        "complicated uti"
     ],
     "go": [
         "good oxygenation"
-    ],
-    "iz": [
-        "iv zosyn"
     ],
     "lam": [
         "left atrial mass/thrombus"
     ],
     "pcr": [
         "portable chest radiograph",
-        "prior chest radiographs",
-        "prior chest radiograph"
+        "prior chest radiographs"
     ],
     "pms": [
-        "post median sternotomy",
         "poor mental status",
+        "post median sternotomy",
         "prior median sternotomy"
-    ],
-    "rec": [
-        "r effusion cxr"
     ],
     "rbv": [
         "right brachiocephalic vein"
-    ],
-    "ricl": [
-        "right ij central line"
     ],
     "rsv": [
         "right subclavian vein"
     ],
     "sgh": [
         "severe global hypokinesis"
-    ],
-    "tss": [
-        "today s study"
     ],
     "wg": [
         "weight gain"
@@ -5623,18 +4913,11 @@
     "pmv": [
         "passy muir valve"
     ],
-    "phs": [
-        "ppx heparin sc"
-    ],
-    "rwp": [
-        "r wave progression"
-    ],
     "sac": [
         "staph aureus coag"
     ],
     "tb": [
         "total bilirubin",
-        "t bili",
         "total body"
     ],
     "vm": [
@@ -5642,9 +4925,9 @@
         "venti mask"
     ],
     "aia": [
+        "acute intracranial abnormalities",
         "acute intracranial abnormality",
-        "acute intrathoracic abnormality",
-        "acute intracranial abnormalities"
+        "acute intrathoracic abnormality"
     ],
     "bmpe": [
         "bilateral moderate pleural effusions"
@@ -5656,8 +4939,7 @@
         "chronic respiratory acidosis"
     ],
     "cac": [
-        "coronary artery calcifications",
-        "cxr ap chest"
+        "coronary artery calcifications"
     ],
     "eo": [
         "extensive opacification"
@@ -5668,20 +4950,14 @@
     "ibcbc": [
         "inpatient blood culture blood culture"
     ],
-    "lvb": [
-        "lx vertebral body"
-    ],
     "navl": [
         "normal.the aortic valve leaflets"
     ],
     "pg": [
-        "propofol gtt",
-        "protonix gtt",
         "portal gastropathy",
-        "prostate gland"
-    ],
-    "qti": [
-        "q t interval"
+        "propofol gtt",
+        "prostate gland",
+        "protonix gtt"
     ],
     "rmlz": [
         "right mid lung zone"
@@ -5698,11 +4974,7 @@
     "swm": [
         "subcortical white matter"
     ],
-    "bcc": [
-        "blood cx coag"
-    ],
     "gos": [
-        "good ox sats",
         "good oxygen saturation"
     ],
     "ipvp": [
@@ -5738,9 +5010,9 @@
     "oss": [
         "outpatient sleep study"
     ],
-    "psw": [
-        "patient s wbc",
-        "patient s wishes"
+    "rcc": [
+        "renal cell carcinoma",
+        "right central catheter"
     ],
     "rijvc": [
         "right internal jugular vein catheter"
@@ -5749,12 +5021,7 @@
         "right ventricular diastolic collapse"
     ],
     "tvb": [
-        "tx vertebral body",
-        "thoracic vertebral body",
-        "tx vertebral bodies"
-    ],
-    "ugb": [
-        "upper gi bleed"
+        "thoracic vertebral body"
     ],
     "ava": [
         "aortic valve area"
@@ -5763,8 +5030,8 @@
         "bilateral chest tubes"
     ],
     "bf": [
-        "bowel function",
-        "bmt floor"
+        "bmt floor",
+        "bowel function"
     ],
     "cwa": [
         "contrast w/in abdomen"
@@ -5773,8 +5040,8 @@
         "internal carotid arteries"
     ],
     "lu": [
-        "low uop",
-        "left upper"
+        "left upper",
+        "low uop"
     ],
     "nbnb": [
         "neg bnzodzp neg barbitr"
@@ -5782,13 +5049,10 @@
     "nena": [
         "neg ethanol neg acetmnp"
     ],
-    "pscs": [
-        "patient s code status"
-    ],
     "pro": [
+        "patchy retrocardiac opacity",
         "persistent retrocardiac opacity",
-        "possible retrocardiac opacity",
-        "patchy retrocardiac opacity"
+        "possible retrocardiac opacity"
     ],
     "raf": [
         "rapid atrial fibrillation"
@@ -5800,20 +5064,8 @@
         "small apical pneumothorax",
         "strict aspiration precautions"
     ],
-    "ssc": [
-        "st segment changes"
-    ],
-    "stc": [
-        "st t changes"
-    ],
     "ulc": [
         "upper lobe consolidation"
-    ],
-    "ucc": [
-        "urine cx citrobacter"
-    ],
-    "uce": [
-        "urine cx enterococcus"
     ],
     "cpe": [
         "c/w pulmonary edema",
@@ -5841,15 +5093,15 @@
         "mild luminal irregularities"
     ],
     "mlpe": [
-        "moderate left pleural effusion",
-        "minimal left pleural effusion"
+        "minimal left pleural effusion",
+        "moderate left pleural effusion"
     ],
     "pfc": [
         "pleural fluid cytology"
     ],
     "rfb": [
-        "radiopaque foreign body",
-        "radiopaque foreign bodies"
+        "radiopaque foreign bodies",
+        "radiopaque foreign body"
     ],
     "rcv": [
         "right cephalic vein"
@@ -5864,14 +5116,13 @@
         "soft tissue mass"
     ],
     "su": [
-        "steroid use",
-        "several units"
+        "several units",
+        "steroid use"
     ],
     "wbcc": [
         "white blood cell count"
     ],
     "ys": [
-        "y stent",
         "yellow sputum"
     ],
     "aves": [
@@ -5885,9 +5136,9 @@
         "cephalic veins"
     ],
     "dv": [
-        "dominant vessel",
+        "density values",
         "discrete vegetation",
-        "density values"
+        "dominant vessel"
     ],
     "eac": [
         "ethmoid air cells"
@@ -5895,14 +5146,8 @@
     "fwr": [
         "free water restriction"
     ],
-    "hbm": [
-        "home bp meds"
-    ],
     "ivd": [
         "intravascular volume depletion"
-    ],
-    "ifb": [
-        "iv fluid boluses"
     ],
     "lbc": [
         "left base consistent"
@@ -5923,7 +5168,6 @@
         "multiple pulmonary nodules"
     ],
     "nor": [
-        "new ox requirement",
         "new oxygen requirement"
     ],
     "ob": [
@@ -5935,24 +5179,11 @@
     "pfm": [
         "past few months"
     ],
-    "psf": [
-        "patient s family",
-        "patient s foley"
-    ],
-    "psms": [
-        "patient s mental status"
-    ],
-    "ppi": [
-        "poor po intake"
-    ],
     "pae": [
         "prior asbestos exposure"
     ],
     "prv": [
         "pulmonic regurgitation velocity"
-    ],
-    "rgb": [
-        "recent gi bleed"
     ],
     "rbc": [
         "red blood cells",
@@ -5968,9 +5199,6 @@
     "spv": [
         "single portable view"
     ],
-    "stwc": [
-        "st t wave changes"
-    ],
     "tu": [
         "thyroid ultrasound"
     ],
@@ -5980,13 +5208,10 @@
     "arfp": [
         "acute renal failure patient"
     ],
-    "cpmpe": [
-        "cxr persistent mod pl effusions"
-    ],
     "du": [
-        "duodenal ulcer",
+        "distal ureters",
         "doppler u/s",
-        "distal ureters"
+        "duodenal ulcer"
     ],
     "em": [
         "early morning"
@@ -6005,15 +5230,11 @@
         "left portal vein"
     ],
     "mvti": [
-        "major vascular territorial infarct",
         "major vascular territorial infarction"
     ],
     "mrd": [
         "medical renal disease",
         "mild respiratory distress"
-    ],
-    "mpt": [
-        "mg po tid"
     ],
     "mas": [
         "mild aortic stenosis",
@@ -6037,20 +5258,11 @@
     "ste": [
         "soft tissue edema"
     ],
-    "sstwa": [
-        "specific st t wave abnormalities"
-    ],
-    "ssd": [
-        "st segment depressions"
-    ],
     "scdt": [
         "stool clostridium difficile toxin"
     ],
     "tnhs": [
         "top normal heart size"
-    ],
-    "ug": [
-        "upper gi"
     ],
     "wct": [
         "wide complex tachycardia"
@@ -6072,9 +5284,6 @@
     ],
     "fwt": [
         "free wall thickness"
-    ],
-    "fq": [
-        "fs qid"
     ],
     "hfo": [
         "high flow oxygen"
@@ -6120,9 +5329,6 @@
     "nmp": [
         "normal major papilla"
     ],
-    "psbs": [
-        "patient s blood sugar"
-    ],
     "rcval": [
         "right central venous access line"
     ],
@@ -6154,9 +5360,6 @@
     "wi": [
         "wound infection"
     ],
-    "xnc": [
-        "xl nasal cannula"
-    ],
     "ais": [
         "anemia iron studies"
     ],
@@ -6168,8 +5371,8 @@
         "cardiac catheterization.selective coronary angiography"
     ],
     "cpv": [
-        "central pulmonary vessels",
-        "central pulmonary vasculature"
+        "central pulmonary vasculature",
+        "central pulmonary vessels"
     ],
     "cvp": [
         "central venous pressure"
@@ -6180,12 +5383,9 @@
     "csi": [
         "cross sectional imaging"
     ],
-    "ccwc": [
-        "ct chest w/o contrast"
-    ],
     "ccc": [
-        "cxr cardiomediastinal contours",
-        "continued clinical concern"
+        "continued clinical concern",
+        "cxr cardiomediastinal contours"
     ],
     "cet": [
         "cxr endotracheal tube"
@@ -6262,12 +5462,11 @@
         "tenuous respiratory status"
     ],
     "tk": [
-        "transplant kidney",
-        "trace ketones"
+        "trace ketones",
+        "transplant kidney"
     ],
     "ubs": [
-        "unchanged borderline size",
-        "urine blood sm"
+        "unchanged borderline size"
     ],
     "are": [
         "abnormal routine eeg"
@@ -6280,9 +5479,6 @@
     ],
     "bmo": [
         "bilateral multifocal opacities"
-    ],
-    "csm": [
-        "c spine mri"
     ],
     "duo": [
         "decreased urine output"
@@ -6298,9 +5494,6 @@
     ],
     "hld": [
         "home lasix dose"
-    ],
-    "ict": [
-        "ij catheter tip"
     ],
     "lpp": [
         "left pectoral pacemaker"
@@ -6326,21 +5519,15 @@
     "npi": [
         "new parenchymal infiltrates"
     ],
-    "ncc": [
-        "non contrast ct"
-    ],
     "osc": [
         "other significant change"
-    ],
-    "par": [
-        "portable ap radiograph"
     ],
     "pce": [
         "possible copd exacerbation"
     ],
     "psbpe": [
-        "probable small bilateral pleural effusions",
-        "persistent small bilateral pleural effusions"
+        "persistent small bilateral pleural effusions",
+        "probable small bilateral pleural effusions"
     ],
     "psrpe": [
         "probable small right pleural effusion"
@@ -6360,9 +5547,6 @@
     "scpe": [
         "small circumferential pericardial effusion"
     ],
-    "stwa": [
-        "st t wave abnormalities"
-    ],
     "sbc": [
         "subsequent blood cultures"
     ],
@@ -6372,15 +5556,12 @@
     "tft": [
         "thyroid function tests"
     ],
-    "uav": [
-        "upright ap view"
-    ],
     "ud": [
         "urgent dialysis"
     ],
     "wd": [
-        "worsening diffuse",
-        "warfarin dose"
+        "warfarin dose",
+        "worsening diffuse"
     ],
     "wcn": [
         "wound care nurse"
@@ -6462,11 +5643,8 @@
         "mild nausea"
     ],
     "ol": [
-        "oral levofloxacin",
-        "oral lasix"
-    ],
-    "pav": [
-        "portable ap view"
+        "oral lasix",
+        "oral levofloxacin"
     ],
     "pbr": [
         "ppx bowel regimen"
@@ -6485,14 +5663,10 @@
         "right mid zone"
     ],
     "rpv": [
-        "right portal vein",
         "right portal veins"
     ],
     "ruz": [
         "right upper zone"
-    ],
-    "saupv": [
-        "single ap upright portable view"
     ],
     "sto": [
         "soft tissue opacification"
@@ -6532,9 +5706,6 @@
     ],
     "eu": [
         "extremity ultrasounds"
-    ],
-    "giv": [
-        "grade ii varices"
     ],
     "hdm": [
         "high density material"
@@ -6585,8 +5756,8 @@
         "new pulmonary edema"
     ],
     "oo": [
-        "outpatient oncologist",
-        "ostomy output"
+        "ostomy output",
+        "outpatient oncologist"
     ],
     "pba": [
         "persistent bibasilar atelectasis"
@@ -6598,7 +5769,6 @@
         "preserved global biventricular"
     ],
     "pcc": [
-        "prior chest ct",
         "palliative care consult"
     ],
     "rad": [
@@ -6623,12 +5793,6 @@
     "rrf": [
         "right rib fractures"
     ],
-    "rcs": [
-        "rv chamber size"
-    ],
-    "sms": [
-        "s mental status"
-    ],
     "swd": [
         "slow wave discharges"
     ],
@@ -6636,8 +5800,8 @@
         "small left pneumothorax"
     ],
     "scvc": [
-        "subclavian central venous catheter",
-        "sided central venous catheter"
+        "sided central venous catheter",
+        "subclavian central venous catheter"
     ],
     "tbv": [
         "total body volume"
@@ -6693,9 +5857,6 @@
     "fig": [
         "free intraperitoneal gas"
     ],
-    "gjt": [
-        "g j tube"
-    ],
     "gwt": [
         "gallbladder wall thickening"
     ],
@@ -6710,9 +5871,6 @@
     ],
     "ial": [
         "intra abdominal loops"
-    ],
-    "kbl": [
-        "kerley b lines"
     ],
     "kc": [
         "known cirrhosis"
@@ -6740,9 +5898,6 @@
     ],
     "pfw": [
         "past few weeks"
-    ],
-    "pac": [
-        "portable ap chest"
     ],
     "ppp": [
         "primary pulmonary process"
@@ -6792,9 +5947,6 @@
     "upv": [
         "upright portable view"
     ],
-    "ubt": [
-        "urine blood tr"
-    ],
     "vpl": [
         "ventricular pacer leads"
     ],
@@ -6834,12 +5986,6 @@
     "ggc": [
         "good glycemic control"
     ],
-    "hst": [
-        "heparin sc tid"
-    ],
-    "icvc": [
-        "ij central venous catheter"
-    ],
     "ifp": [
         "impaired fillling/tamponade physiology"
     ],
@@ -6851,9 +5997,6 @@
     ],
     "iec": [
         "ischemic ekg changes"
-    ],
-    "icn": [
-        "iv contrast none"
     ],
     "lcv": [
         "lateral chest views"
@@ -6876,9 +6019,6 @@
     "msec": [
         "mild spontaneous echo contrast"
     ],
-    "mxi": [
-        "morphine xmg iv"
-    ],
     "nbo": [
         "new bibasilar opacities"
     ],
@@ -6891,9 +6031,6 @@
     "ncf": [
         "normal color flow"
     ],
-    "nrcs": [
-        "normal rv chamber size"
-    ],
     "nst": [
         "nuclear stress test"
     ],
@@ -6902,12 +6039,6 @@
     ],
     "pcs": [
         "palliative care service"
-    ],
-    "psl": [
-        "patient s lfts"
-    ],
-    "pear": [
-        "portable erect ap radiograph"
     ],
     "pse": [
         "portable semi erect"
@@ -6932,9 +6063,6 @@
     ],
     "rvpdl": [
         "right ventricular pacer defibrillator leads"
-    ],
-    "scp": [
-        "s condition permits"
     ],
     "srf": [
         "sided rib fractures"
