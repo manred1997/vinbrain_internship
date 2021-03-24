@@ -50,6 +50,9 @@ class AcronymExpansionModel:
         an acronym in a list of options
         """
         if self.model is None:
+            for key, value in self.acn_dict.items():
+                if len(value) > 5:
+                    self.acn_dict[key] = value[:5]
             return self.acn_dict.get(acronym, '')
         else:
             return self.model(acronym) # Model Acronym Disambiguation

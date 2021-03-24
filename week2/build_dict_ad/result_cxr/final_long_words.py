@@ -47,13 +47,9 @@ for key in list(filter_long_dict.keys()):
     tmp = sorted(tmp, key=lambda x: x["freq"], reverse=True)
     # tmp = tmp[:5]
     # print(tmp)
-    filtered_long_dict[key] =[tmp[0]["expansion"],
-                                tmp[1]["expansion"],
-                                tmp[2]["expansion"],
-                                tmp[3]["expansion"],
-                                tmp[4]["expansion"]]
+    filtered_long_dict[key] =[i["expansion"] for i in tmp]
 
-filtered_long_dict = filtered_long_dict.update(no_filter_long_dict)
+filtered_long_dict.update(no_filter_long_dict)
 
 with open("final_long_dict.json", "w") as f:
     json.dump(filtered_long_dict, f)
