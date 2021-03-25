@@ -1,12 +1,13 @@
+import argparse
+import os
+import json
+
 import numpy as np
-
-
-
 
 def normalize(list_token):
     return list(map(lambda x: x.lower(), list_token))
 
-def preprocessing(data, mode="train"):
+def preprocessing(data: list, mode="train"):
     if mode in ["train", "val"]:
         for sample in data:
             sample["tokens"] = normalize(sample["tokens"])
@@ -39,3 +40,24 @@ def create_inputs_targets(examples):
     X = [dataset_dict["input_ids"], dataset_dict["token_type_ids"], dataset_dict["attention_mask"]]
     Y = [dataset_dict["start_token_idx"], dataset_dict["end_token_idx"]]
     return X, Y
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--data", type=str, default="../AAAI-21-SDU-shared-task-2-AD/dataset/train.json", 
+                        help= "Dataset for Acronym Disambiguation")
+    parser.add_argument("--data_pos", type=str, default="./pos_data",
+                        help= "Folder for sampling positive dataset")
+    parser.add_argument("--mode", type=str, default="train",
+                        help= "Mode of dataset")
+    args = parser.parse_args()
+
+    with open(args.data, "r", encoding="UTF-8") as f:
+        data = json.load(f)
+    
+    if not os.path.isdir(args.data_pos): os.mkdir(args.data_pos)
+
+    data_pos = preprocessing(data, args.mode)
+
+    with open(os.path.join(args.data_pos, f"{args.mode}_pos_data.json"), "w", encoding="UTF-8") as f:
+        json.dump(data_pos, f)
