@@ -15,7 +15,7 @@
 ### Result:
 
 #### 1. Write script inference for eng and vn
-
+#### Usage `python inference.py --text "tt"`
 #### 2. Improve acronym dictionary dataset
 
 

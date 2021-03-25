@@ -64,5 +64,3 @@ if __name__ == "__main__":
     
     expansion_acr = AcronymExpansion.expand_acronym(args.text)
     print(expansion_acr)
-
-
