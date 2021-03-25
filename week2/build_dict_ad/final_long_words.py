@@ -2,11 +2,11 @@ import json
 import re
 
 data_cxr = []
-with open("cxrv2.txt", "r") as f:
+with open("../data/cleaned_data.txt", "r", encoding="utf8") as f:
     for line in f.readlines():
         data_cxr.append(line)
 
-with open("filtered_long_dict.json", "r") as f:
+with open("./result_vn_2/long_dict.json", "r", encoding="utf8") as f:
     long_dict_data = json.load(f)
 
 for key, value in long_dict_data.items():
@@ -20,7 +20,7 @@ for key, value in long_dict_data.items():
 no_filter_long_dict = {}
 filter_long_dict = {}
 for key, value in long_dict_data.items():
-    if len(value) >= 5:
+    if len(value) >= 4:
         filter_long_dict[key] = value
     else: no_filter_long_dict[key] = value
 freq_expansion = []
@@ -62,11 +62,11 @@ for key, value in filtered_long_dict.items():
     for sample in tmp_2:
         token = sample.split(" ")
         len_token = [len(s) for s in token]
-        if sum([1 for i in len_token if i < 3]) > 0:
+        if sum([1 for i in len_token if i < 2]) > 0:
             tmp_2.remove(sample)
     if tmp_2:
         tmp[key] = tmp_2
 filtered_long_dict = tmp
 
-with open("final_long_dict.json", "w") as f:
+with open("./result_vn_2/final_long_dict.json", "w", encoding="utf8") as f:
     json.dump(filtered_long_dict, f)

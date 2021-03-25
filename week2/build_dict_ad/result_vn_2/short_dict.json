@@ -1,0 +1,3002 @@
+{
+    "None_0": [
+        "kho\u1ea3ng"
+    ],
+    "None_1": [
+        "nang"
+    ],
+    "None_2": [
+        "d\u1ecbch"
+    ],
+    "None_3": [
+        "b\u00ean"
+    ],
+    "None_4": [
+        "th\u1eadn"
+    ],
+    "None_5": [
+        "thai"
+    ],
+    "None_6": [
+        "gan"
+    ],
+    "None_7": [
+        "bu\u1ed3ng"
+    ],
+    "None_8": [
+        "hadlock"
+    ],
+    "None_9": [
+        "b\u1edd"
+    ],
+    "None_10": [
+        "s\u1ecfi"
+    ],
+    "None_11": [
+        "n\u1ed1t"
+    ],
+    "None_12": [
+        "kh\u1ed1i"
+    ],
+    "None_13": [
+        "\u0111\u1ed9"
+    ],
+    "None_14": [
+        "r\u1ed1n"
+    ],
+    "None_15": [
+        "n\u00e3o"
+    ],
+    "None_16": [
+        "tr\u00e1n"
+    ],
+    "None_17": [
+        "\u0111\u00e0i"
+    ],
+    "None_18": [
+        "t\u00fai"
+    ],
+    "None_19": [
+        "douglas"
+    ],
+    "None_20": [
+        "tuy\u1ebfn"
+    ],
+    "None_21": [
+        "ph\u1ed5i"
+    ],
+    "None_22": [
+        "h\u1ea1ch"
+    ],
+    "None_23": [
+        "nh\u00e2n"
+    ],
+    "None_24": [
+        "l\u00f2ng"
+    ],
+    "None_25": [
+        "chi\u1ec1u"
+    ],
+    "None_26": [
+        "m\u00e1u"
+    ],
+    "None_27": [
+        "ng\u00e0y"
+    ],
+    "None_28": [
+        "ng\u1ea3"
+    ],
+    "None_29": [
+        "x\u0129"
+    ],
+    "None_30": [
+        "hi\u1ec7n"
+    ],
+    "None_31": [
+        "tr\u1ee5c"
+    ],
+    "None_32": [
+        "th\u00f9y"
+    ],
+    "None_33": [
+        "m\u00e0u"
+    ],
+    "None_34": [
+        "m\u1ee9c"
+    ],
+    "None_35": [
+        "m\u1ea1ch"
+    ],
+    "None_36": [
+        "v\u00f9ng"
+    ],
+    "None_37": [
+        "sau"
+    ],
+    "None_38": [
+        "score"
+    ],
+    "None_39": [
+        "thu\u1ed1c"
+    ],
+    "None_40": [
+        "x\u01b0\u01a1ng"
+    ],
+    "None_41": [
+        "tscore"
+    ],
+    "None_42": [
+        "sng"
+    ],
+    "None_43": [
+        "c\u00e1ch"
+    ],
+    "None_44": [
+        "quai"
+    ],
+    "None_45": [
+        "\u0111\u1ea7u"
+    ],
+    "None_46": [
+        "ch\u1ed7"
+    ],
+    "None_47": [
+        "th\u00e2n"
+    ],
+    "None_48": [
+        "h\u00ecnh"
+    ],
+    "None_49": [
+        "pi"
+    ],
+    "None_50": [
+        "tr\u01b0\u1edbc"
+    ],
+    "None_51": [
+        "ngo\u00e0i"
+    ],
+    "None_52": [
+        "\u1ed5"
+    ],
+    "None_53": [
+        "diameter"
+    ],
+    "None_54": [
+        "doppler"
+    ],
+    "None_55": [
+        "gi\u00e3n"
+    ],
+    "None_56": [
+        "\u0111\u00e1y"
+    ],
+    "None_57": [
+        "gi\u1eefa"
+    ],
+    "None_58": [
+        "ph\u1ea7n"
+    ],
+    "None_59": [
+        "v\u00fa"
+    ],
+    "None_60": [
+        "phim"
+    ],
+    "None_61": [
+        "th\u1ea5t"
+    ],
+    "None_62": [
+        "tu\u1ea7n"
+    ],
+    "None_63": [
+        "k\u1ebd"
+    ],
+    "None_64": [
+        "polyp"
+    ],
+    "None_65": [
+        "c"
+    ],
+    "None_66": [
+        "m\u1eb7t"
+    ],
+    "None_67": [
+        "length"
+    ],
+    "None_68": [
+        "l"
+    ],
+    "None_69": [
+        "g\u00e1y"
+    ],
+    "None_70": [
+        "ph\u00eda"
+    ],
+    "None_71": [
+        "b\u1ee5ng"
+    ],
+    "None_72": [
+        "c\u01a1"
+    ],
+    "None_73": [
+        "x"
+    ],
+    "None_74": [
+        "\u0111o\u1ea1n"
+    ],
+    "None_75": [
+        "m\u1ee1"
+    ],
+    "None_76": [
+        "abdminal"
+    ],
+    "None_77": [
+        "circumference"
+    ],
+    "None_78": [
+        "v\u00e1ch"
+    ],
+    "None_79": [
+        "x\u1eb9p"
+    ],
+    "None_80": [
+        "m\u1eadt"
+    ],
+    "None_81": [
+        "t\u1ecfa"
+    ],
+    "None_82": [
+        "ph\u00f4i"
+    ],
+    "None_83": [
+        "tim"
+    ],
+    "None_84": [
+        "th\u00e1ng"
+    ],
+    "None_85": [
+        "c\u1ea3nh"
+    ],
+    "None_86": [
+        "eo"
+    ],
+    "None_87": [
+        "l\u00e1"
+    ],
+    "None_88": [
+        "kh\u00ed"
+    ],
+    "None_89": [
+        "khung"
+    ],
+    "None_90": [
+        "ti\u00eam"
+    ],
+    "None_91": [
+        "\u0111\u0129a"
+    ],
+    "None_92": [
+        "tr\u00ean"
+    ],
+    "None_93": [
+        "ng\u1ef1c"
+    ],
+    "None_94": [
+        "l\u1ed3ng"
+    ],
+    "None_95": [
+        "l\u1ed7"
+    ],
+    "None_96": [
+        "r\u0103ng"
+    ],
+    "None_97": [
+        "nh\u1ecbp"
+    ],
+    "None_98": [
+        "gr"
+    ],
+    "None_99": [
+        "tu\u1ed5i"
+    ],
+    "None_100": [
+        "occipito"
+    ],
+    "None_101": [
+        "\u0111\u01b0\u1eddng"
+    ],
+    "None_102": [
+        "ch\u1ee7"
+    ],
+    "None_103": [
+        "\u0111\u00f2n"
+    ],
+    "None_104": [
+        "\u1ed1i"
+    ],
+    "None_105": [
+        "tr\u00e1i"
+    ],
+    "None_106": [
+        "d\u1ea3i"
+    ],
+    "None_107": [
+        "nhau"
+    ],
+    "None_108": [
+        "rau"
+    ],
+    "None_109": [
+        "h\u00e0m"
+    ],
+    "None_110": [
+        "\u0111\u00e1m"
+    ],
+    "None_111": [
+        "ml"
+    ],
+    "None_112": [
+        "t\u1ee5y"
+    ],
+    "None_113": [
+        "d\u01b0\u1edbi"
+    ],
+    "None_114": [
+        "s\u00e1ng"
+    ],
+    "None_115": [
+        "\u00e2m"
+    ],
+    "None_116": [
+        "nh\u00e1nh"
+    ],
+    "None_117": [
+        "c\u1eeda"
+    ],
+    "None_118": [
+        "d\u1ea1ng"
+    ],
+    "None_119": [
+        "gai"
+    ],
+    "None_120": [
+        "v\u1ecf"
+    ],
+    "None_121": [
+        "\u0111\u1ed1t"
+    ],
+    "None_122": [
+        "k\u00ednh"
+    ],
+    "None_123": [
+        "da"
+    ],
+    "None_124": [
+        "g\u00e2n"
+    ],
+    "None_125": [
+        "trong"
+    ],
+    "None_126": [
+        "van"
+    ],
+    "None_127": [
+        "flair"
+    ],
+    "None_128": [
+        "x\u1ea5p"
+    ],
+    "None_129": [
+        "c\u1ed5"
+    ],
+    "None_130": [
+        "\u1ea3nh"
+    ],
+    "None_131": [
+        "xoang"
+    ],
+    "None_132": [
+        "the"
+    ],
+    "None_133": [
+        "\u1ed1ng"
+    ],
+    "None_134": [
+        "ch\u00e2n"
+    ],
+    "None_135": [
+        "x\u01a1"
+    ],
+    "None_136": [
+        "l\u00e1ch"
+    ],
+    "None_137": [
+        "nh\u1eb5n"
+    ],
+    "None_138": [
+        "l\u1ea7n"
+    ],
+    "None_139": [
+        "\u0111i\u1ec3m"
+    ],
+    "None_140": [
+        "nrmal"
+    ],
+    "None_141": [
+        "m\u00e0ng"
+    ],
+    "None_142": [
+        "khi"
+    ],
+    "None_143": [
+        "h\u01a1i"
+    ],
+    "None_144": [
+        "s"
+    ],
+    "None_145": [
+        "kh\u1edbp"
+    ],
+    "None_146": [
+        "t"
+    ],
+    "None_147": [
+        "b\u00f3ng"
+    ],
+    "None_148": [
+        "ti\u1ec1n"
+    ],
+    "None_149": [
+        "nh\u0129"
+    ],
+    "None_150": [
+        "th\u01b0\u1edbc"
+    ],
+    "None_151": [
+        "ch\u1ea5t"
+    ],
+    "None_152": [
+        "vi\u1ec1n"
+    ],
+    "None_153": [
+        "d"
+    ],
+    "None_154": [
+        "b\u00ecu"
+    ],
+    "None_155": [
+        "vi"
+    ],
+    "None_156": [
+        "type"
+    ],
+    "None_157": [
+        "\u0111\u00f9i"
+    ],
+    "None_158": [
+        "cung"
+    ],
+    "None_159": [
+        "vi\u00eam"
+    ],
+    "None_160": [
+        "khoang"
+    ],
+    "None_161": [
+        "t\u1ea7ng"
+    ],
+    "None_162": [
+        "rate"
+    ],
+    "None_163": [
+        "ph\u00ecnh"
+    ],
+    "None_164": [
+        "v\u1ebft"
+    ],
+    "None_165": [
+        "ii"
+    ],
+    "None_166": [
+        "l\u1ec1u"
+    ],
+    "None_167": [
+        "d\u00f2ng"
+    ],
+    "None_168": [
+        "quanh"
+    ],
+    "None_169": [
+        "h\u01b0\u1edbng"
+    ],
+    "None_170": [
+        "c\u1ed9t"
+    ],
+    "None_171": [
+        "c\u1ea1nh"
+    ],
+    "None_172": [
+        "r\u00e3nh"
+    ],
+    "None_173": [
+        "s\u1ee5n"
+    ],
+    "None_174": [
+        "hoo"
+    ],
+    "None_175": [
+        "m\u1ea3ng"
+    ],
+    "None_176": [
+        "tr\u1ee9ng"
+    ],
+    "None_177": [
+        "ph\u1ed5"
+    ],
+    "None_178": [
+        "s\u01b0\u1eddn"
+    ],
+    "None_179": [
+        "dwi"
+    ],
+    "None_180": [
+        "kt"
+    ],
+    "None_181": [
+        "l\u1ed3i"
+    ],
+    "None_182": [
+        "\u0111\u1ec9nh"
+    ],
+    "None_183": [
+        "lu\u1ed3ng"
+    ],
+    "None_184": [
+        "n\u01b0\u1edbc"
+    ],
+    "None_185": [
+        "conclusin"
+    ],
+    "None_186": [
+        "g\u00f3c"
+    ],
+    "None_187": [
+        "ru\u1ed9t"
+    ],
+    "None_188": [
+        "l\u00e1t"
+    ],
+    "None_189": [
+        "cereb"
+    ],
+    "None_190": [
+        "teo"
+    ],
+    "None_191": [
+        "v\u1ecb"
+    ],
+    "None_192": [
+        "l\u1ec7ch"
+    ],
+    "None_193": [
+        "\u2022"
+    ],
+    "None_194": [
+        "with"
+    ],
+    "None_195": [
+        "ng\u00f4i"
+    ],
+    "None_196": [
+        "n\u1eeda"
+    ],
+    "None_197": [
+        "kinh"
+    ],
+    "None_198": [
+        "h\u1ec7"
+    ],
+    "None_199": [
+        "chambers"
+    ],
+    "None_200": [
+        "g\u1ed1c"
+    ],
+    "None_201": [
+        "con"
+    ],
+    "None_202": [
+        "fetal"
+    ],
+    "None_203": [
+        "presence"
+    ],
+    "None_204": [
+        "th\u00f4ng"
+    ],
+    "None_205": [
+        "bn"
+    ],
+    "None_206": [
+        "vai"
+    ],
+    "None_207": [
+        "v"
+    ],
+    "None_208": [
+        "s\u00e0ng"
+    ],
+    "None_209": [
+        "a"
+    ],
+    "None_210": [
+        "heart"
+    ],
+    "None_211": [
+        "k\u00edch"
+    ],
+    "None_212": [
+        "ng\u00f3n"
+    ],
+    "None_213": [
+        "ch\u1eadu"
+    ],
+    "None_214": [
+        "ventricle"
+    ],
+    "None_215": [
+        "l\u1edbp"
+    ],
+    "None_216": [
+        "artery"
+    ],
+    "None_217": [
+        "th\u00e0nh"
+    ],
+    "None_218": [
+        "u"
+    ],
+    "None_219": [
+        "khoeo"
+    ],
+    "None_220": [
+        "left"
+    ],
+    "None_221": [
+        "cholesterol"
+    ],
+    "None_222": [
+        "i"
+    ],
+    "None_223": [
+        "shunt"
+    ],
+    "None_224": [
+        "\u208b"
+    ],
+    "None_225": [
+        "uterus"
+    ],
+    "None_226": [
+        "m\u1ecfm"
+    ],
+    "None_227": [
+        "m\u0169"
+    ],
+    "None_228": [
+        "r"
+    ],
+    "None_229": [
+        "t\u1ee7y"
+    ],
+    "None_230": [
+        "m\u00e1y"
+    ],
+    "None_231": [
+        "c\u1ef1c"
+    ],
+    "None_232": [
+        "fssa"
+    ],
+    "None_233": [
+        "bao"
+    ],
+    "None_234": [
+        "t\u00f9"
+    ],
+    "None_235": [
+        "tirm"
+    ],
+    "None_236": [
+        "trimester"
+    ],
+    "None_237": [
+        "cm"
+    ],
+    "None_238": [
+        "xe"
+    ],
+    "None_239": [
+        "\u0111u\u00f4i"
+    ],
+    "None_240": [
+        "d\u00e2y"
+    ],
+    "None_241": [
+        "age"
+    ],
+    "None_242": [
+        "diffusin"
+    ],
+    "None_243": [
+        "b\u01b0\u1edbm"
+    ],
+    "None_244": [
+        "iii"
+    ],
+    "None_245": [
+        "clearly"
+    ],
+    "None_246": [
+        "seen"
+    ],
+    "None_247": [
+        "b\u00f9n"
+    ],
+    "None_248": [
+        "mnths"
+    ],
+    "None_249": [
+        "\u0111\u1ed9ng"
+    ],
+    "None_250": [
+        "s\u1eebng"
+    ],
+    "None_251": [
+        "valve"
+    ],
+    "None_252": [
+        "notch"
+    ],
+    "None_253": [
+        "size"
+    ],
+    "None_254": [
+        "b\u1ea3n"
+    ],
+    "None_255": [
+        "sac"
+    ],
+    "None_256": [
+        "s\u1ef1"
+    ],
+    "None_257": [
+        "ch\u00eam"
+    ],
+    "None_258": [
+        "h\u1ed1"
+    ],
+    "None_259": [
+        "lma"
+    ],
+    "None_260": [
+        "st"
+    ],
+    "None_261": [
+        "t\u1eafc"
+    ],
+    "None_262": [
+        "s\u1ecd"
+    ],
+    "None_263": [
+        "s\u1ed1"
+    ],
+    "None_264": [
+        "th\u01b0\u1edbckho\u1ea3ng"
+    ],
+    "None_265": [
+        "ng\u00e1ch"
+    ],
+    "None_266": [
+        "psterir"
+    ],
+    "None_267": [
+        "b\u1ec1"
+    ],
+    "None_268": [
+        "wall"
+    ],
+    "None_269": [
+        "v\u1eb9o"
+    ],
+    "None_270": [
+        "spectrum"
+    ],
+    "None_271": [
+        "gls"
+    ],
+    "None_272": [
+        "abnrmal"
+    ],
+    "None_273": [
+        "di"
+    ],
+    "None_274": [
+        "ph\u00f9"
+    ],
+    "None_275": [
+        "tai"
+    ],
+    "None_276": [
+        "m\u00fai"
+    ],
+    "None_277": [
+        "vp"
+    ],
+    "None_278": [
+        "lad"
+    ],
+    "None_279": [
+        "nh\u00f3m"
+    ],
+    "None_280": [
+        "h"
+    ],
+    "None_281": [
+        "m\u0169i"
+    ],
+    "None_282": [
+        "l\u01b0\u1ee1i"
+    ],
+    "None_283": [
+        "stir"
+    ],
+    "None_284": [
+        "ch\u00eanh"
+    ],
+    "None_285": [
+        "lv"
+    ],
+    "None_286": [
+        "functin"
+    ],
+    "None_287": [
+        "s\u1eb9o"
+    ],
+    "None_288": [
+        "iv"
+    ],
+    "None_289": [
+        "right"
+    ],
+    "None_290": [
+        "fluid"
+    ],
+    "None_291": [
+        "interocular"
+    ],
+    "None_292": [
+        "cu\u1ed1ng"
+    ],
+    "None_293": [
+        "structure"
+    ],
+    "None_294": [
+        "x\u1ea1"
+    ],
+    "None_295": [
+        "at"
+    ],
+    "None_296": [
+        "m\u00e1c"
+    ],
+    "None_297": [
+        "carina"
+    ],
+    "None_298": [
+        "viii"
+    ],
+    "None_299": [
+        "b\u00e8o"
+    ],
+    "None_300": [
+        "b"
+    ],
+    "None_301": [
+        "ch\u1ea5m"
+    ],
+    "None_302": [
+        "k\u00e9n"
+    ],
+    "None_303": [
+        "nhi"
+    ],
+    "None_304": [
+        "g\u1ed1i"
+    ],
+    "None_305": [
+        "ng\u0103n"
+    ],
+    "None_306": [
+        "l\u00e1ph\u1ea7n"
+    ],
+    "None_307": [
+        "l\u00fac"
+    ],
+    "None_308": [
+        "gram"
+    ],
+    "None_309": [
+        "sonde"
+    ],
+    "None_310": [
+        "m\u1ea1c"
+    ],
+    "None_311": [
+        "tay"
+    ],
+    "None_312": [
+        "ct"
+    ],
+    "None_313": [
+        "m\u00e9p"
+    ],
+    "None_314": [
+        "khe"
+    ],
+    "None_315": [
+        "s\u00f3ng"
+    ],
+    "None_316": [
+        "n\u0103m"
+    ],
+    "None_317": [
+        "khuy\u1ebfch"
+    ],
+    "None_318": [
+        "vary"
+    ],
+    "None_319": [
+        "r\u1ec5"
+    ],
+    "None_320": [
+        "h\u1edf"
+    ],
+    "None_321": [
+        "di\u1ec7n"
+    ],
+    "None_322": [
+        "fold"
+    ],
+    "None_323": [
+        "uterine"
+    ],
+    "None_324": [
+        "chrin"
+    ],
+    "None_325": [
+        "\u0111k"
+    ],
+    "None_326": [
+        "develped"
+    ],
+    "None_327": [
+        "s\u00f9i"
+    ],
+    "None_328": [
+        "b\u1ed9t"
+    ],
+    "None_329": [
+        "ph\u00fat"
+    ],
+    "None_330": [
+        "mri"
+    ],
+    "None_331": [
+        "ng\u00e3"
+    ],
+    "None_332": [
+        "adc"
+    ],
+    "None_333": [
+        "nh\u1ec7n"
+    ],
+    "None_334": [
+        "vii"
+    ],
+    "None_335": [
+        "shows"
+    ],
+    "None_336": [
+        "v\u00e0nh"
+    ],
+    "None_337": [
+        "c\u1eb1m"
+    ],
+    "None_338": [
+        "c\u1eb7n"
+    ],
+    "None_339": [
+        "gi\u1edd"
+    ],
+    "None_340": [
+        "is"
+    ],
+    "None_341": [
+        "m\u1eaft"
+    ],
+    "None_342": [
+        "f"
+    ],
+    "None_343": [
+        "chai"
+    ],
+    "None_344": [
+        "v\u00f2ng"
+    ],
+    "None_345": [
+        "ng\u00e0ythai"
+    ],
+    "None_346": [
+        "tr\u1ee5"
+    ],
+    "None_347": [
+        "m\u1ea3nh"
+    ],
+    "None_348": [
+        "h\u1ed1c"
+    ],
+    "None_349": [
+        "cc"
+    ],
+    "None_350": [
+        "ms"
+    ],
+    "None_351": [
+        "weeks"
+    ],
+    "None_352": [
+        "pdfs"
+    ],
+    "None_353": [
+        "n\u00e9t"
+    ],
+    "None_354": [
+        "regurgitatin"
+    ],
+    "None_355": [
+        "v\u1ea9n"
+    ],
+    "None_356": [
+        "mild"
+    ],
+    "None_357": [
+        "hypertensin"
+    ],
+    "None_358": [
+        "b\u1eb9n"
+    ],
+    "None_359": [
+        "lo\u1ea1i"
+    ],
+    "None_360": [
+        "ls"
+    ],
+    "None_361": [
+        "n\u1ec1n"
+    ],
+    "None_362": [
+        "years"
+    ],
+    "None_363": [
+        "there"
+    ],
+    "None_364": [
+        "ts"
+    ],
+    "None_365": [
+        "c\u1ea5u"
+    ],
+    "None_366": [
+        "hmogeneous"
+    ],
+    "None_367": [
+        "thickness"
+    ],
+    "None_368": [
+        "v\u00f4i"
+    ],
+    "None_369": [
+        "l\u01b0ng"
+    ],
+    "None_370": [
+        "stent"
+    ],
+    "None_371": [
+        "chrinic"
+    ],
+    "None_372": [
+        "artic"
+    ],
+    "None_373": [
+        "pulmnary"
+    ],
+    "None_374": [
+        "m\u00e2m"
+    ],
+    "None_375": [
+        "ng\u01b0\u1ee3c"
+    ],
+    "None_376": [
+        "bne"
+    ],
+    "None_377": [
+        "max"
+    ],
+    "None_378": [
+        "chu\u1ed7i"
+    ],
+    "None_379": [
+        "p"
+    ],
+    "None_380": [
+        "t\u1ed5n"
+    ],
+    "None_381": [
+        "enlargement"
+    ],
+    "None_382": [
+        "m\u1ea5u"
+    ],
+    "None_383": [
+        "d\u00e3n"
+    ],
+    "None_384": [
+        "tr\u1ebb"
+    ],
+    "None_385": [
+        "ge"
+    ],
+    "None_386": [
+        "pyle"
+    ],
+    "None_387": [
+        "sagittal"
+    ],
+    "None_388": [
+        "iui"
+    ],
+    "None_389": [
+        "h\u00f3a"
+    ],
+    "None_390": [
+        "mci"
+    ],
+    "None_391": [
+        "ho\u00e0nh"
+    ],
+    "None_392": [
+        "bpm"
+    ],
+    "None_393": [
+        "hang"
+    ],
+    "None_394": [
+        "mass"
+    ],
+    "None_395": [
+        "presentatin"
+    ],
+    "None_396": [
+        "\u1ee9"
+    ],
+    "None_397": [
+        "th\u01b0\u1edbcb\u00ecnh"
+    ],
+    "None_398": [
+        "pregnancy"
+    ],
+    "None_399": [
+        "n\u00f4ng"
+    ],
+    "None_400": [
+        "pet"
+    ],
+    "None_401": [
+        "\u0111\u1ea3o"
+    ],
+    "None_402": [
+        "cerebral"
+    ],
+    "None_403": [
+        "intergrowth"
+    ],
+    "None_404": [
+        "angio"
+    ],
+    "None_405": [
+        "mlo"
+    ],
+    "None_406": [
+        "lo\u1ea1n"
+    ],
+    "None_407": [
+        "xenetix"
+    ],
+    "None_408": [
+        "keo"
+    ],
+    "None_409": [
+        "no\u00e3n"
+    ],
+    "None_410": [
+        "ph\u00e2n"
+    ],
+    "None_411": [
+        "ultrasound"
+    ],
+    "None_412": [
+        "="
+    ],
+    "None_413": [
+        "\u00e1p"
+    ],
+    "None_414": [
+        "cul"
+    ],
+    "None_415": [
+        "crl"
+    ],
+    "None_416": [
+        "rv"
+    ],
+    "None_417": [
+        "cu\u1ed1i"
+    ],
+    "None_418": [
+        "systolic"
+    ],
+    "None_419": [
+        "siphn"
+    ],
+    "None_420": [
+        "range"
+    ],
+    "None_421": [
+        "suvmax"
+    ],
+    "None_422": [
+        "l\u00e1doppler"
+    ],
+    "None_423": [
+        "\u0111\u1ed3ng"
+    ],
+    "None_424": [
+        "t\u00edn"
+    ],
+    "None_425": [
+        "c\u01a1l\u00e2n"
+    ],
+    "None_426": [
+        "deviatins"
+    ],
+    "None_427": [
+        "dilated"
+    ],
+    "None_428": [
+        "without"
+    ],
+    "None_429": [
+        "crrectin"
+    ],
+    "None_430": [
+        "nhu"
+    ],
+    "None_431": [
+        "echogenicity"
+    ],
+    "None_432": [
+        "tr\u01b0\u1eddng"
+    ],
+    "None_433": [
+        "g\u1eaby"
+    ],
+    "None_434": [
+        "b\u00f3"
+    ],
+    "None_435": [
+        "lan"
+    ],
+    "None_436": [
+        "findings"
+    ],
+    "None_437": [
+        "upn"
+    ],
+    "None_438": [
+        "arteries"
+    ],
+    "None_439": [
+        "chu"
+    ],
+    "None_440": [
+        "greulich"
+    ],
+    "None_441": [
+        "n"
+    ],
+    "None_442": [
+        "pressure"
+    ],
+    "None_443": [
+        "tr\u00e0ng"
+    ],
+    "None_444": [
+        "cavity"
+    ],
+    "None_445": [
+        "c\u00e0nh"
+    ],
+    "None_446": [
+        "rigin"
+    ],
+    "None_447": [
+        "ng\u00e0nh"
+    ],
+    "None_448": [
+        "ch\u00e0y"
+    ],
+    "None_449": [
+        "cyst"
+    ],
+    "None_450": [
+        "majr"
+    ],
+    "None_451": [
+        "ch\u1ecfm"
+    ],
+    "None_452": [
+        "n\u00e1ch"
+    ],
+    "None_453": [
+        "density"
+    ],
+    "None_454": [
+        "diastolic"
+    ],
+    "None_455": [
+        "isthmus"
+    ],
+    "None_456": [
+        "abnrmality"
+    ],
+    "None_457": [
+        "c\u1ea7u"
+    ],
+    "None_458": [
+        "flowxu\u1ea5t"
+    ],
+    "None_459": [
+        "ef"
+    ],
+    "None_460": [
+        "nrmalph\u1ed5"
+    ],
+    "None_461": [
+        "ch\u1ea9m"
+    ],
+    "None_462": [
+        "c\u1ee5m"
+    ],
+    "None_463": [
+        "rca"
+    ],
+    "None_464": [
+        "b\u00e0n"
+    ],
+    "None_465": [
+        "mi\u1ec7ng"
+    ],
+    "None_466": [
+        "n\u1ebfp"
+    ],
+    "None_467": [
+        "side"
+    ],
+    "None_468": [
+        "thin"
+    ],
+    "None_469": [
+        "anterir"
+    ],
+    "None_470": [
+        "dkho\u1ea3ng"
+    ],
+    "None_471": [
+        "shape"
+    ],
+    "None_472": [
+        "sme"
+    ],
+    "None_473": [
+        "stne"
+    ],
+    "None_474": [
+        "kh\u00f4ngt\u0103ng\u00e1p"
+    ],
+    "None_475": [
+        "l\u1eafng"
+    ],
+    "None_476": [
+        "doppler.ri"
+    ],
+    "None_477": [
+        "bt"
+    ],
+    "None_478": [
+        "fdg"
+    ],
+    "None_479": [
+        "avf"
+    ],
+    "None_480": [
+        "ph\u1ed3ng"
+    ],
+    "None_481": [
+        "modic"
+    ],
+    "None_482": [
+        "btc"
+    ],
+    "None_483": [
+        "jj"
+    ],
+    "None_484": [
+        "small"
+    ],
+    "None_485": [
+        "b\u00f3c"
+    ],
+    "None_486": [
+        "c\u1ea5p"
+    ],
+    "None_487": [
+        "figo"
+    ],
+    "None_488": [
+        "placenta"
+    ],
+    "None_489": [
+        "days"
+    ],
+    "None_490": [
+        "ng\u1ecdn"
+    ],
+    "None_491": [
+        "bladder"
+    ],
+    "None_492": [
+        "gi\u00e1p"
+    ],
+    "None_493": [
+        "pd"
+    ],
+    "None_494": [
+        "tmc"
+    ],
+    "None_495": [
+        "adequate"
+    ],
+    "None_496": [
+        "calcificatin"
+    ],
+    "None_497": [
+        "dysfunctin"
+    ],
+    "None_498": [
+        "b\u00ecnh"
+    ],
+    "None_499": [
+        "cephalic"
+    ],
+    "None_500": [
+        "mineral"
+    ],
+    "None_501": [
+        "polype"
+    ],
+    "None_502": [
+        "rads"
+    ],
+    "None_503": [
+        "moderate"
+    ],
+    "None_504": [
+        "\u00e2mph\u1ea7n"
+    ],
+    "None_505": [
+        "mitral"
+    ],
+    "None_506": [
+        "nh\u00fa"
+    ],
+    "None_507": [
+        "vessels"
+    ],
+    "None_508": [
+        "lateral"
+    ],
+    "None_509": [
+        "weight"
+    ],
+    "None_510": [
+        "rest"
+    ],
+    "None_511": [
+        "clip"
+    ],
+    "None_512": [
+        "m\u00f3ng"
+    ],
+    "None_513": [
+        "plica"
+    ],
+    "None_514": [
+        "sigma"
+    ],
+    "None_515": [
+        "v\u00e0ng"
+    ],
+    "None_516": [
+        "n\u1eef"
+    ],
+    "None_517": [
+        "thickening"
+    ],
+    "None_518": [
+        "bi"
+    ],
+    "None_519": [
+        "d\u1eb9t"
+    ],
+    "None_520": [
+        "khuy\u1ebft"
+    ],
+    "None_521": [
+        "hypertrphy"
+    ],
+    "None_522": [
+        "gallbladder"
+    ],
+    "None_523": [
+        "gi\u01b0\u1eddng"
+    ],
+    "None_524": [
+        "grade"
+    ],
+    "None_525": [
+        "cervical"
+    ],
+    "None_526": [
+        "gi\u1eadp"
+    ],
+    "None_527": [
+        "h\u1ea1"
+    ],
+    "None_528": [
+        "ascending"
+    ],
+    "None_529": [
+        "evidence"
+    ],
+    "None_530": [
+        "b\u00e9"
+    ],
+    "None_531": [
+        "liver"
+    ],
+    "None_532": [
+        "g\u00e1i"
+    ],
+    "None_533": [
+        "clsed"
+    ],
+    "None_534": [
+        "h\u1ed3i"
+    ],
+    "None_535": [
+        "not"
+    ],
+    "None_536": [
+        "stensis"
+    ],
+    "None_537": [
+        "val"
+    ],
+    "None_538": [
+        "cysts"
+    ],
+    "None_539": [
+        "film"
+    ],
+    "None_540": [
+        "thu\u1eadn"
+    ],
+    "None_541": [
+        "tissue"
+    ],
+    "None_542": [
+        "are"
+    ],
+    "None_543": [
+        "spine"
+    ],
+    "None_544": [
+        "\u0111\u00eam"
+    ],
+    "None_545": [
+        "d\u1ea7y"
+    ],
+    "None_546": [
+        "thi\u1ec3u"
+    ],
+    "None_547": [
+        "diagnsis"
+    ],
+    "None_548": [
+        "bloc"
+    ],
+    "None_549": [
+        "single"
+    ],
+    "None_550": [
+        "psv"
+    ],
+    "None_551": [
+        "b\u00edt"
+    ],
+    "None_552": [
+        "dilatin"
+    ],
+    "None_553": [
+        "visualizedk\u1ebft"
+    ],
+    "None_554": [
+        "\u0111i\u1ec7n"
+    ],
+    "None_555": [
+        "baker"
+    ],
+    "None_556": [
+        "khu"
+    ],
+    "None_557": [
+        "xung"
+    ],
+    "None_558": [
+        "catheter"
+    ],
+    "None_559": [
+        "cmments"
+    ],
+    "None_560": [
+        "s\u01b0ng"
+    ],
+    "None_561": [
+        "phase"
+    ],
+    "None_562": [
+        "psitin"
+    ],
+    "None_563": [
+        "varies"
+    ],
+    "None_564": [
+        "du\u1ed7i"
+    ],
+    "None_565": [
+        "m\u00f4ng"
+    ],
+    "None_566": [
+        "sa"
+    ],
+    "None_567": [
+        "y\u00ean"
+    ],
+    "None_568": [
+        "c\u00f3nang"
+    ],
+    "None_569": [
+        "kh\u1ed1ib\u1ea5t"
+    ],
+    "None_570": [
+        "multiple"
+    ],
+    "None_571": [
+        "fs"
+    ],
+    "None_572": [
+        "c\u01a1n"
+    ],
+    "None_573": [
+        "level"
+    ],
+    "None_574": [
+        "naboth"
+    ],
+    "None_575": [
+        "ph\u1ea3ith\u1eadn"
+    ],
+    "None_576": [
+        "th\u1ec3"
+    ],
+    "None_577": [
+        "dap"
+    ],
+    "None_578": [
+        "hpt"
+    ],
+    "None_579": [
+        "carotid"
+    ],
+    "None_580": [
+        "g\u00f9"
+    ],
+    "None_581": [
+        "v\u00edt"
+    ],
+    "None_582": [
+        "which"
+    ],
+    "None_583": [
+        "\u0111\u1ed9kh\u00f4ng"
+    ],
+    "None_584": [
+        "arta"
+    ],
+    "None_585": [
+        "gestatinal"
+    ],
+    "None_586": [
+        "nh\u1ea5tkho\u1ea3ng"
+    ],
+    "None_587": [
+        "contrast"
+    ],
+    "None_588": [
+        "signal"
+    ],
+    "None_589": [
+        "c\u00e2n"
+    ],
+    "None_590": [
+        "soft"
+    ],
+    "None_591": [
+        "follicles"
+    ],
+    "None_592": [
+        "n\u1eb9p"
+    ],
+    "None_593": [
+        "td"
+    ],
+    "None_594": [
+        "t\u00ednh"
+    ],
+    "None_595": [
+        "ch\u1eeda"
+    ],
+    "None_596": [
+        "estimated"
+    ],
+    "None_597": [
+        "k\u1ef3"
+    ],
+    "None_598": [
+        "kh\u00fac"
+    ],
+    "None_599": [
+        "s\u1ee9c"
+    ],
+    "None_600": [
+        "yet"
+    ],
+    "None_601": [
+        "z"
+    ],
+    "None_602": [
+        "about"
+    ],
+    "None_603": [
+        "c\u1ee7"
+    ],
+    "None_604": [
+        "femur.tscore"
+    ],
+    "None_605": [
+        "nmtc"
+    ],
+    "None_606": [
+        "of"
+    ],
+    "None_607": [
+        "phi\u1ebfu"
+    ],
+    "None_608": [
+        "anatmical"
+    ],
+    "None_609": [
+        "ch\u00f9m"
+    ],
+    "None_610": [
+        "visualised"
+    ],
+    "None_611": [
+        "adcmap"
+    ],
+    "None_612": [
+        "both"
+    ],
+    "None_613": [
+        "nonag"
+    ],
+    "None_614": [
+        "disease"
+    ],
+    "None_615": [
+        "fibroid"
+    ],
+    "None_616": [
+        "finding"
+    ],
+    "None_617": [
+        "meniscus"
+    ],
+    "None_618": [
+        "noted"
+    ],
+    "None_619": [
+        "l\u00fan"
+    ],
+    "None_620": [
+        "r\u00eca"
+    ],
+    "None_621": [
+        "canal"
+    ],
+    "None_622": [
+        "ch\u0169m"
+    ],
+    "None_623": [
+        "gi\u1edbi"
+    ],
+    "None_624": [
+        "fracture"
+    ],
+    "None_625": [
+        "kidneys"
+    ],
+    "None_626": [
+        "h\u1ea1n"
+    ],
+    "None_627": [
+        "n\u1ec1"
+    ],
+    "None_628": [
+        "structures"
+    ],
+    "None_629": [
+        "th\u00e9p"
+    ],
+    "None_630": [
+        "t\u1ed5ng"
+    ],
+    "None_631": [
+        "l\u01b0\u1ee3ng"
+    ],
+    "None_632": [
+        "m\u00f4i"
+    ],
+    "None_633": [
+        "sack\u1ebft"
+    ],
+    "None_634": [
+        "tendn"
+    ],
+    "None_635": [
+        "translucency"
+    ],
+    "None_636": [
+        "b\u00e8"
+    ],
+    "None_637": [
+        "hand"
+    ],
+    "None_638": [
+        "several"
+    ],
+    "None_639": [
+        "v\u00f2m"
+    ],
+    "None_640": [
+        "be"
+    ],
+    "None_641": [
+        "cungtype"
+    ],
+    "None_642": [
+        "fat"
+    ],
+    "None_643": [
+        "h\u1ecdng"
+    ],
+    "None_644": [
+        "subchrinic"
+    ],
+    "None_645": [
+        "b\u00e1nh"
+    ],
+    "None_646": [
+        "endmetrium"
+    ],
+    "None_647": [
+        "cephalocervical"
+    ],
+    "None_648": [
+        "free"
+    ],
+    "None_649": [
+        "lm"
+    ],
+    "None_650": [
+        "maxillofacial"
+    ],
+    "None_651": [
+        "nh\u1ea7y"
+    ],
+    "None_652": [
+        "\u0111inh"
+    ],
+    "None_653": [
+        "acr"
+    ],
+    "None_654": [
+        "block"
+    ],
+    "None_655": [
+        "femur"
+    ],
+    "None_656": [
+        "lung"
+    ],
+    "None_657": [
+        "n\u00fam"
+    ],
+    "None_658": [
+        "severe"
+    ],
+    "None_659": [
+        "crnal"
+    ],
+    "None_660": [
+        "lesin"
+    ],
+    "None_661": [
+        "mymetrium"
+    ],
+    "None_662": [
+        "m\u1eb9"
+    ],
+    "None_663": [
+        "th\u1ee9"
+    ],
+    "None_664": [
+        "anechoic"
+    ],
+    "None_665": [
+        "maximum"
+    ],
+    "None_666": [
+        "vein"
+    ],
+    "None_667": [
+        "rhythm"
+    ],
+    "None_668": [
+        "vertebral"
+    ],
+    "None_669": [
+        "cervix"
+    ],
+    "None_670": [
+        "collectin"
+    ],
+    "None_671": [
+        "dilatatin"
+    ],
+    "None_672": [
+        "s\u00ean"
+    ],
+    "None_673": [
+        "tr\u1eadt"
+    ],
+    "None_674": [
+        "t\u0103ng\u00e1p"
+    ],
+    "None_675": [
+        "\u0111\u1ea1o"
+    ],
+    "None_676": [
+        "\u0111\u1ed1m"
+    ],
+    "None_677": [
+        "li\u1ec1m"
+    ],
+    "None_678": [
+        "pattern"
+    ],
+    "None_679": [
+        "t\u1ea1ng"
+    ],
+    "None_680": [
+        "effusin"
+    ],
+    "None_681": [
+        "joint"
+    ],
+    "None_682": [
+        "measured"
+    ],
+    "None_683": [
+        "relaxatin"
+    ],
+    "None_684": [
+        "tracking"
+    ],
+    "None_685": [
+        "t\u01b0\u1eddng"
+    ],
+    "None_686": [
+        "t\u1ef7"
+    ],
+    "None_687": [
+        "umbilical"
+    ],
+    "None_688": [
+        "abnrmalities"
+    ],
+    "None_689": [
+        "cungkho\u1ea3ng"
+    ],
+    "None_690": [
+        "fetus"
+    ],
+    "None_691": [
+        "gs"
+    ],
+    "None_692": [
+        "hu"
+    ],
+    "None_693": [
+        "image"
+    ],
+    "None_694": [
+        "l\u00f3c"
+    ],
+    "None_695": [
+        "l\u00f5m"
+    ],
+    "None_696": [
+        "qu\u1ea7ng"
+    ],
+    "None_697": [
+        "upper"
+    ],
+    "None_698": [
+        "zscore"
+    ],
+    "None_699": [
+        "arch"
+    ],
+    "None_700": [
+        "bilateral"
+    ],
+    "None_701": [
+        "b\u00fai"
+    ],
+    "None_702": [
+        "lao"
+    ],
+    "None_703": [
+        "ti\u1ec3u"
+    ],
+    "None_704": [
+        "an"
+    ],
+    "None_705": [
+        "ch\u1ea1c"
+    ],
+    "None_706": [
+        "g\u00f3t"
+    ],
+    "None_707": [
+        "measuring"
+    ],
+    "None_708": [
+        "pdff"
+    ],
+    "None_709": [
+        "tr\u1ed9i"
+    ],
+    "None_710": [
+        "enhancement"
+    ],
+    "None_711": [
+        "khu\u1ef7u"
+    ],
+    "None_712": [
+        "ne"
+    ],
+    "None_713": [
+        "s\u1eefa"
+    ],
+    "None_714": [
+        "tho\u00e1i"
+    ],
+    "None_715": [
+        "vensus"
+    ],
+    "None_716": [
+        "within"
+    ],
+    "None_717": [
+        "crd"
+    ],
+    "None_718": [
+        "embryo"
+    ],
+    "None_719": [
+        "g\u1edd"
+    ],
+    "None_720": [
+        "k"
+    ],
+    "None_721": [
+        "lmo"
+    ],
+    "None_722": [
+        "main"
+    ],
+    "None_723": [
+        "ng\u1ea5n"
+    ],
+    "None_724": [
+        "parenchyma"
+    ],
+    "None_725": [
+        "quan"
+    ],
+    "None_726": [
+        "s\u1ea3n"
+    ],
+    "None_727": [
+        "vkho\u1ea3ng"
+    ],
+    "None_728": [
+        "day"
+    ],
+    "None_729": [
+        "lav"
+    ],
+    "None_730": [
+        "nodes"
+    ],
+    "None_731": [
+        "patent"
+    ],
+    "None_732": [
+        "signs"
+    ],
+    "None_733": [
+        "simpson"
+    ],
+    "None_734": [
+        "test"
+    ],
+    "None_735": [
+        "urine"
+    ],
+    "None_736": [
+        "b\u1ec7nh"
+    ],
+    "None_737": [
+        "ligament"
+    ],
+    "None_738": [
+        "measurement"
+    ],
+    "None_739": [
+        "quadrant"
+    ],
+    "None_740": [
+        "visualizatin"
+    ],
+    "None_741": [
+        "crnary"
+    ],
+    "None_742": [
+        "edema"
+    ],
+    "None_743": [
+        "ha"
+    ],
+    "None_744": [
+        "hypoechoic"
+    ],
+    "None_745": [
+        "ma"
+    ],
+    "None_746": [
+        "nhip"
+    ],
+    "None_747": [
+        "o"
+    ],
+    "None_748": [
+        "observed"
+    ],
+    "None_749": [
+        "ti\u1ebft"
+    ],
+    "None_750": [
+        "area"
+    ],
+    "None_751": [
+        "cartilage"
+    ],
+    "None_752": [
+        "ch\u1ed3ng"
+    ],
+    "None_753": [
+        "clear"
+    ],
+    "None_754": [
+        "huy\u1ebft"
+    ],
+    "None_755": [
+        "imaging"
+    ],
+    "None_756": [
+        "ray"
+    ],
+    "None_757": [
+        "tr\u00ed"
+    ],
+    "None_758": [
+        "\u0111\u01a1n"
+    ],
+    "None_759": [
+        "bng"
+    ],
+    "None_760": [
+        "calcificatins"
+    ],
+    "None_761": [
+        "cardimypathy"
+    ],
+    "None_762": [
+        "hepatic"
+    ],
+    "None_763": [
+        "hi\u1ec3n"
+    ],
+    "None_764": [
+        "inside"
+    ],
+    "None_765": [
+        "nodule"
+    ],
+    "None_766": [
+        "gi\u00e2y"
+    ],
+    "None_767": [
+        "nangno\u00e3n"
+    ],
+    "None_768": [
+        "ng\u01b0\u1eddi"
+    ],
+    "None_769": [
+        "th"
+    ],
+    "None_770": [
+        "\u00bc"
+    ],
+    "None_771": [
+        "b\u1ed9"
+    ],
+    "None_772": [
+        "equivalent"
+    ],
+    "None_773": [
+        "gian"
+    ],
+    "None_774": [
+        "khu\u00f4n"
+    ],
+    "None_775": [
+        "manh"
+    ],
+    "None_776": [
+        "medial"
+    ],
+    "None_777": [
+        "m\u00f4n"
+    ],
+    "None_778": [
+        "qu\u1ea5y"
+    ],
+    "None_779": [
+        "root"
+    ],
+    "None_780": [
+        "segment"
+    ],
+    "None_781": [
+        "very"
+    ],
+    "None_782": [
+        "arterisus"
+    ],
+    "None_783": [
+        "chrnic"
+    ],
+    "None_784": [
+        "examinatin"
+    ],
+    "None_785": [
+        "lower"
+    ],
+    "None_786": [
+        "lu\u1eadnc\u1ed9t"
+    ],
+    "None_787": [
+        "r\u00e1c"
+    ],
+    "None_788": [
+        "t\u1ed5"
+    ],
+    "None_789": [
+        "veins"
+    ],
+    "None_790": [
+        "avl"
+    ],
+    "None_791": [
+        "axis"
+    ],
+    "None_792": [
+        "body"
+    ],
+    "None_793": [
+        "b\u00ea"
+    ],
+    "None_794": [
+        "n\u1ed9i"
+    ],
+    "None_795": [
+        "total"
+    ],
+    "None_796": [
+        "echo"
+    ],
+    "None_797": [
+        "intensity"
+    ],
+    "None_798": [
+        "pqrst"
+    ],
+    "None_799": [
+        "pr"
+    ],
+    "None_800": [
+        "tear"
+    ],
+    "None_801": [
+        "thaitu\u1ea7nong\u00e0y"
+    ],
+    "None_802": [
+        "bpd"
+    ],
+    "None_803": [
+        "b\u00e0o"
+    ],
+    "None_804": [
+        "ch\u1ed3i"
+    ],
+    "None_805": [
+        "concentric"
+    ],
+    "None_806": [
+        "h\u00ecnhval"
+    ],
+    "None_807": [
+        "khng"
+    ],
+    "None_808": [
+        "ranh"
+    ],
+    "None_809": [
+        "thrmbsis"
+    ],
+    "None_810": [
+        "b\u00eankh\u00f4ng"
+    ],
+    "None_811": [
+        "dexxum"
+    ],
+    "None_812": [
+        "dich"
+    ],
+    "None_813": [
+        "due"
+    ],
+    "None_814": [
+        "d\u00e0ykho\u1ea3ng"
+    ],
+    "None_815": [
+        "lnmtc"
+    ],
+    "None_816": [
+        "map"
+    ],
+    "None_817": [
+        "menisci"
+    ],
+    "None_818": [
+        "m\u1ecfngph\u1ea7n"
+    ],
+    "None_819": [
+        "pocket"
+    ],
+    "None_820": [
+        "q"
+    ],
+    "None_821": [
+        "quanguang"
+    ],
+    "None_822": [
+        "round"
+    ],
+    "None_823": [
+        "tapse"
+    ],
+    "None_824": [
+        "t\u1eed"
+    ],
+    "None_825": [
+        "vessel"
+    ],
+    "None_826": [
+        "cungkh\u00f4ng"
+    ],
+    "None_827": [
+        "inphase"
+    ],
+    "None_828": [
+        "kidney"
+    ],
+    "None_829": [
+        "mediastinum"
+    ],
+    "None_830": [
+        "motin"
+    ],
+    "None_831": [
+        "mu"
+    ],
+    "None_832": [
+        "umbillical"
+    ],
+    "None_833": [
+        "\u0111\u1ed3"
+    ],
+    "None_834": [
+        "amniotic"
+    ],
+    "None_835": [
+        "b\u00e0i"
+    ],
+    "None_836": [
+        "head"
+    ],
+    "None_837": [
+        "h\u1ea1t"
+    ],
+    "None_838": [
+        "mc"
+    ],
+    "None_839": [
+        "nghi"
+    ],
+    "None_840": [
+        "bpmtr\u1ee5c"
+    ],
+    "None_841": [
+        "ivf"
+    ],
+    "None_842": [
+        "lb"
+    ],
+    "None_843": [
+        "quang"
+    ],
+    "None_844": [
+        "rb"
+    ],
+    "None_845": [
+        "s\u1ea1n"
+    ],
+    "None_846": [
+        "tof"
+    ],
+    "None_847": [
+        "t\u1ee5"
+    ],
+    "None_848": [
+        "was"
+    ],
+    "None_849": [
+        "and"
+    ],
+    "None_850": [
+        "atrial"
+    ],
+    "None_851": [
+        "defect"
+    ],
+    "None_852": [
+        "enlarged"
+    ],
+    "None_853": [
+        "hemo"
+    ],
+    "None_854": [
+        "heterogeneous"
+    ],
+    "None_855": [
+        "h\u1ea7u"
+    ],
+    "None_856": [
+        "inferir"
+    ],
+    "None_857": [
+        "k\u00e9o"
+    ],
+    "None_858": [
+        "nh\u1ed9ng"
+    ],
+    "None_859": [
+        "remodeling"
+    ],
+    "None_860": [
+        "visualized"
+    ],
+    "None_861": [
+        "changes"
+    ],
+    "None_862": [
+        "ch\u1ebfch"
+    ],
+    "None_863": [
+        "excluded"
+    ],
+    "None_864": [
+        "fr"
+    ],
+    "None_865": [
+        "hypertensive"
+    ],
+    "None_866": [
+        "h\u00e1ng"
+    ],
+    "None_867": [
+        "nh\u1ecft\u00fai"
+    ],
+    "None_868": [
+        "scw"
+    ],
+    "None_869": [
+        "secondary"
+    ],
+    "None_870": [
+        "septal"
+    ],
+    "None_871": [
+        "t\u00ed"
+    ],
+    "None_872": [
+        "v\u00e0inang"
+    ],
+    "None_873": [
+        "v\u00f2i"
+    ],
+    "None_874": [
+        "\u01b0\u1ee1n"
+    ],
+    "None_875": [
+        "breast"
+    ],
+    "None_876": [
+        "change"
+    ],
+    "None_877": [
+        "ch\u00edt"
+    ],
+    "None_878": [
+        "delta"
+    ],
+    "None_879": [
+        "distended"
+    ],
+    "None_880": [
+        "distributin"
+    ],
+    "None_881": [
+        "hcg"
+    ],
+    "None_882": [
+        "mamography"
+    ],
+    "None_883": [
+        "nangth\u00e0nh"
+    ],
+    "None_884": [
+        "outphase"
+    ],
+    "None_885": [
+        "persence"
+    ],
+    "None_886": [
+        "protein"
+    ],
+    "None_887": [
+        "regular"
+    ],
+    "None_888": [
+        "shadow"
+    ],
+    "None_889": [
+        "sign"
+    ],
+    "None_890": [
+        "sinus"
+    ],
+    "None_891": [
+        "th\u01b0"
+    ],
+    "None_892": [
+        "tkho\u1ea3ng"
+    ],
+    "None_893": [
+        "v\u00f9ngm\u1eb7t"
+    ],
+    "None_894": [
+        "b\u0103ng"
+    ],
+    "None_895": [
+        "co"
+    ],
+    "None_896": [
+        "c\u00f4"
+    ],
+    "None_897": [
+        "gi\u1ed1ng"
+    ],
+    "None_898": [
+        "kh\u01b0"
+    ],
+    "None_899": [
+        "knee"
+    ],
+    "None_900": [
+        "mode"
+    ],
+    "None_901": [
+        "ng\u1ef1a"
+    ],
+    "None_902": [
+        "ni\u00eam"
+    ],
+    "None_903": [
+        "spine.tscore"
+    ],
+    "None_904": [
+        "s\u1ee3i"
+    ],
+    "None_905": [
+        "ti\u1ebfng"
+    ],
+    "None_906": [
+        "ventricular"
+    ],
+    "None_907": [
+        "view"
+    ],
+    "None_908": [
+        "v\u1ed3ng"
+    ],
+    "None_909": [
+        "\u1ee9c"
+    ],
+    "None_910": [
+        "c\u00e1i"
+    ],
+    "None_911": [
+        "fluidk\u1ebft"
+    ],
+    "None_912": [
+        "hrn"
+    ],
+    "None_913": [
+        "muscle"
+    ],
+    "None_914": [
+        "myma"
+    ],
+    "None_915": [
+        "notchdoppler"
+    ],
+    "None_916": [
+        "r\u1ed1i"
+    ],
+    "None_917": [
+        "technique"
+    ],
+    "None_918": [
+        "truc"
+    ],
+    "None_919": [
+        "tr\u1ea7n"
+    ],
+    "None_920": [
+        "t\u1ef3"
+    ],
+    "None_921": [
+        "vis"
+    ],
+    "None_922": [
+        "cu\u1ed9n"
+    ],
+    "None_923": [
+        "c\u1ed1t"
+    ],
+    "None_924": [
+        "c\u1ee5"
+    ],
+    "None_925": [
+        "dopplers"
+    ],
+    "None_926": [
+        "hc"
+    ],
+    "None_927": [
+        "iib"
+    ],
+    "None_928": [
+        "kh"
+    ],
+    "None_929": [
+        "l\u01b0\u1edbi"
+    ],
+    "None_930": [
+        "pocketkho\u1ea3ng"
+    ],
+    "None_931": [
+        "s\u00e1tt\u00fai"
+    ],
+    "None_932": [
+        "tm"
+    ],
+    "None_933": [
+        "valsava"
+    ],
+    "None_934": [
+        "v\u00fakho\u1ea3ng"
+    ],
+    "None_935": [
+        "\u01b0u"
+    ],
+    "None_936": [
+        "continuous"
+    ],
+    "None_937": [
+        "cungph\u1ea7n"
+    ],
+    "None_938": [
+        "dislocatin"
+    ],
+    "None_939": [
+        "flow"
+    ],
+    "None_940": [
+        "hematma"
+    ],
+    "None_941": [
+        "hyperechoic"
+    ],
+    "None_942": [
+        "layer"
+    ],
+    "None_943": [
+        "n\u0103ng"
+    ],
+    "None_944": [
+        "swv"
+    ],
+    "None_945": [
+        "t\u01b0\u01a1ng"
+    ],
+    "None_946": [
+        "t\u1ea7m"
+    ],
+    "None_947": [
+        "vi\u1ec7c"
+    ],
+    "None_948": [
+        "\u0111\u00edch"
+    ],
+    "None_949": [
+        "avg"
+    ],
+    "None_950": [
+        "brder"
+    ],
+    "None_951": [
+        "ce"
+    ],
+    "None_952": [
+        "dw"
+    ],
+    "None_953": [
+        "frm"
+    ],
+    "None_954": [
+        "iph\u1ea7n"
+    ],
+    "None_955": [
+        "lngitudinal"
+    ],
+    "None_956": [
+        "nangnh\u1ecf"
+    ],
+    "None_957": [
+        "n\u00fat"
+    ],
+    "None_958": [
+        "pcwp"
+    ],
+    "None_959": [
+        "pikho\u1ea3ng"
+    ],
+    "None_960": [
+        "rikho\u1ea3ng"
+    ],
+    "None_961": [
+        "segments"
+    ],
+    "None_962": [
+        "suspicious"
+    ],
+    "None_963": [
+        "sv"
+    ],
+    "None_964": [
+        "c\u00e1nh"
+    ],
+    "None_965": [
+        "c\u1ea3n"
+    ],
+    "None_966": [
+        "ductus"
+    ],
+    "None_967": [
+        "fsh"
+    ],
+    "None_968": [
+        "has"
+    ],
+    "None_969": [
+        "have"
+    ],
+    "None_970": [
+        "increased"
+    ],
+    "None_971": [
+        "insertin"
+    ],
+    "None_972": [
+        "it"
+    ],
+    "None_973": [
+        "myelin"
+    ],
+    "None_974": [
+        "prximal"
+    ],
+    "None_975": [
+        "qrs"
+    ],
+    "None_976": [
+        "renal"
+    ],
+    "None_977": [
+        "result"
+    ],
+    "None_978": [
+        "septum"
+    ],
+    "None_979": [
+        "stepenia"
+    ],
+    "None_980": [
+        "suggestive"
+    ],
+    "None_981": [
+        "ti"
+    ],
+    "None_982": [
+        "valsalva"
+    ],
+    "None_983": [
+        "ankle"
+    ],
+    "None_984": [
+        "been"
+    ],
+    "None_985": [
+        "c\u00e1"
+    ],
+    "None_986": [
+        "double"
+    ],
+    "None_987": [
+        "d\u00e0ikho\u1ea3ng"
+    ],
+    "None_988": [
+        "g\u00e3y"
+    ],
+    "None_989": [
+        "kasai"
+    ],
+    "None_990": [
+        "line"
+    ],
+    "None_991": [
+        "m\u00e1"
+    ],
+    "None_992": [
+        "n\u00f4t"
+    ],
+    "None_993": [
+        "n\u1ee5"
+    ],
+    "None_994": [
+        "th\u00f3p"
+    ],
+    "None_995": [
+        "va"
+    ],
+    "None_996": [
+        "vpvdrivpvdri"
+    ],
+    "None_997": [
+        "\u0111\u1ec7m"
+    ],
+    "None_998": [
+        "ac\u1ea3"
+    ],
+    "None_999": [
+        "atlas"
+    ]
+}

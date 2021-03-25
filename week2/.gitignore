@@ -1,3 +1,6 @@
 AAAI-21-SDU-shared-task-1-AI/
 AAAI-21-SDU-shared-task-2-AD/   
 build_dict_ad/__pycache__/
+data/
+pos_tag/
+../week3/
