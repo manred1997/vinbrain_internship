@@ -1,5 +1,10 @@
 week3/data/
 week3/pos_tag/
-
+week3/learning_base_acronym_disambiguation/__pycache__/
+week3/learning_base_acronym_disambiguation/neg_data/
 week3/AAAI-21-SDU-shared-task-1-AI/
 week3/AAAI-21-SDU-shared-task-2-AD/
+week2/data/
+week2/build_dict_ad/
+week2/
+

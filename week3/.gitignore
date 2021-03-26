@@ -1,2 +1,9 @@
 data/
 pos_tag/
+learning_base_acronym_disambiguation/__pycache__/
+learning_base_acronym_disambiguation/neg_data/
+learning_base_acronym_disambiguation/pos_data/
+AAAI-21-SDU-shared-task-1-AI/
+AAAI-21-SDU-shared-task-2-AD/
+bert-base-uncased/
+learning_base_acronym_disambiguation/slow_token/
