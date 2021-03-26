@@ -13,6 +13,7 @@ from Sample import Sample, create_examples
 from preprocessing import create_inputs_targets
 
 import torch
+import torch.nn as nn
 from torch.utils.data import TensorDataset, DataLoader, RandomSampler, SequentialSampler
 
 from tokenizers import BertWordPieceTokenizer
@@ -42,7 +43,7 @@ train_data = TensorDataset(torch.tensor(X[0], dtype=torch.int64),  #input_ids
                             torch.tensor(X[2], dtype=torch.float), #attention_mask
                             torch.tensor(Y[0], dtype=torch.int64), #start_token_acr
                             torch.tensor(Y[1], dtype=torch.int64), #end_token_acr
-                            torch.tensor(Y[2], dtype=torch.int64)) #label
+                            torch.tensor(Y[2], dtype=torch.float)) #label
 
 train_sampler = RandomSampler(train_data)
 train_data_loader = DataLoader(train_data, sampler=train_sampler, batch_size=16)
@@ -64,22 +65,22 @@ optimizer_grouped_parameters = [
 
 optimizer = torch.optim.Adam(lr=1e-5, betas=(0.9, 0.98), eps=1e-9, params=optimizer_grouped_parameters)
 
-loss_fn = 
+loss_fn = nn.BCELoss()
 
 for epoch in range(1, 10):
     print("Training epoch ", str(epoch))
     training_pbar = tqdm(total=len(train_data),
                          position=0, leave=True,
                          file=sys.stdout, bar_format="{l_bar}%s{bar}%s{r_bar}" % (Fore.GREEN, Fore.RESET))
-    
     model.train()
     tr_loss = 0
     nb_tr_steps = 0
+    
     for step, batch in enumerate(train_data_loader):
         batch = tuple(t.to(device) for t in batch)
         input_word_ids, input_type_ids, input_mask, start_token_idx, end_token_idx, label= batch
         optimizer.zero_grad()
-        output = model(input_ids=input_word_ids,
+        output, _ = model(input_ids=input_word_ids,
                         token_type_ids=input_type_ids,
                         attention_mask=input_mask,
                         start_token_idx=start_token_idx,
@@ -89,6 +90,8 @@ for epoch in range(1, 10):
         loss.backward()
         optimizer.step()
         tr_loss += loss.item()
+        nb_tr_steps += 1
         training_pbar.update(input_word_ids.size(0))
     training_pbar.close()
+    print(f"\nTraining Binary Cross Entropy loss = {tr_loss/ nb_tr_steps:.4f}")
     torch.save(model.state_dict(), "./weights_" + str(epoch) + ".pth")
