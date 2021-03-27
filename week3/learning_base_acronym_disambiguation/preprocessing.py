@@ -4,10 +4,20 @@ import json
 
 import numpy as np
 
-def normalize(list_token):
+def normalize(list_token: list):
+    """
+    Function: Lower string
+    """
     return list(map(lambda x: x.lower(), list_token))
 
-def preprocessing(data: list, mode="train"):
+def preprocessing(data: list, mode: list, label: str):
+    """
+    Function: Preprocessing data
+    args:
+        data: Raw data
+        mode: train or dev
+        label: pos or neg
+    """
     if mode in ["train", "dev"]:
         for sample in data:
             sample["tokens"] = normalize(sample["tokens"])
@@ -18,11 +28,16 @@ def preprocessing(data: list, mode="train"):
                 start_char_idx += 1
             sample["start_char_idx"] = start_char_idx
             sample["lenght_acronym"] = len(sample["tokens"][sample["acronym"]])
+            if label == "pos": sample["label"] = 1
+            else: sample["label"] = 0
     else:
         return None
     return data
 
 def create_inputs_targets(examples):
+    """
+    Function: Create dictionary dataset for training
+    """
     dataset_dict = {
         "input_ids": [],
         "token_type_ids": [],
@@ -58,7 +73,7 @@ if __name__ == "__main__":
     
     if not os.path.isdir(args.data_folder): os.mkdir(args.data_folder)
 
-    data_pos = preprocessing(data, args.mode)
+    data_pos = preprocessing(data, args.mode, "pos")
 
-    with open(os.path.join(args.data_folder, f"{args.mode}_data.json"), "w", encoding="UTF-8") as f:
+    with open(os.path.join(args.data_folder, f"{args.mode}_pos_data.json"), "w", encoding="UTF-8") as f:
         json.dump(data_pos, f)

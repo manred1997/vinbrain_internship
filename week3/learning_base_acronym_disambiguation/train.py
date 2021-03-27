@@ -30,13 +30,13 @@ with open("pos_data/train_pos_data.json", "r", encoding="UTF-8") as f:
 with open("neg_data/train_neg_data.json", "r", encoding="UTF-8") as f:
     neg_train = json.load(f)
 
-examples_pos = create_examples(pos_train, "pos", "Create pos training points", tokenizer)
+examples_pos = create_examples(pos_train, "Create pos training points", tokenizer)
 
-examples = create_examples(neg_train, "neg", "Create neg training points", tokenizer)
+examples = create_examples(neg_train, "Create neg training points", tokenizer)
 
 examples.extend(examples_pos)
 
-X, Y = create_inputs_targets(examples_pos)
+X, Y = create_inputs_targets(examples)
 
 train_data = TensorDataset(torch.tensor(X[0], dtype=torch.int64),  #input_ids
                             torch.tensor(X[1], dtype=torch.int64), #input_type_ids
@@ -67,6 +67,8 @@ optimizer = torch.optim.Adam(lr=1e-5, betas=(0.9, 0.98), eps=1e-9, params=optimi
 
 loss_fn = nn.BCELoss()
 
+loss_fn = nn.BCELoss()
+
 for epoch in range(1, 10):
     print("Training epoch ", str(epoch))
     training_pbar = tqdm(total=len(train_data),
@@ -90,8 +92,9 @@ for epoch in range(1, 10):
         loss.backward()
         optimizer.step()
         tr_loss += loss.item()
-        
+        if step % 10000 == 0:
+          print(f"Loss = {loss} / step {step}")
         training_pbar.update(input_word_ids.size(0))
     training_pbar.close()
-    print(f"\nTraining Binary Cross Entropy loss = {tr_loss:.4f}")
+    print(f"\n Binary Cross Entropy loss = {tr_loss:.8f}/ epoch {epoch}")
     torch.save(model.state_dict(), "./weights_" + str(epoch) + ".pth")

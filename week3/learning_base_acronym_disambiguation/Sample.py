@@ -3,7 +3,7 @@ import sys
 from colorama import Fore
 
 class Sample:
-    def __init__(self, tokenizer, expansion, context, start_char_idx, len_acronym, type_class, max_seq_lenght=384):
+    def __init__(self, tokenizer, expansion, context, start_char_idx, len_acronym, label, max_seq_lenght=384):
         self.tokenizer = tokenizer #tokenizer BertWordPieceTokenizer
         self.expansion = expansion
         self.context = context
@@ -15,8 +15,7 @@ class Sample:
         self.start_token_idx = -1
         self.end_token_idx = -1
 
-        if type_class.lower() == "pos": self.label = 1
-        else: self.label = 0
+        self.label = int(label)
         
     def preprocess(self):
         tokenized_expansion = self.tokenizer.encode(self.expansion)
@@ -59,7 +58,7 @@ class Sample:
         self.attention_mask = attention_mask
 
 
-def create_examples(raw_data, type_class, desc, tokenizer):
+def create_examples(raw_data, desc, tokenizer):
     p_bar = tqdm(total=len(raw_data), desc=desc,
                  position=0, leave=True,
                  file=sys.stdout, bar_format="{l_bar}%s{bar}%s{r_bar}" % (Fore.BLUE, Fore.RESET))
@@ -69,7 +68,8 @@ def create_examples(raw_data, type_class, desc, tokenizer):
         context = item["text"]
         start_char_idx = item["start_char_idx"]
         lenght_acronym = item["lenght_acronym"]
-        example = Sample(tokenizer, expansion, context, start_char_idx, lenght_acronym, type_class)
+        label = item["label"]
+        example = Sample(tokenizer, expansion, context, start_char_idx, lenght_acronym, label)
         example.preprocess()
         examples.append(example)
         p_bar.update(1)

@@ -60,7 +60,7 @@ if __name__ == "__main__":
     
     if not os.path.isdir(args.data_neg): os.mkdir(args.data_neg)
 
-    data_pos = preprocessing(data_pos)
+    data_pos = preprocessing(data_pos, args.mode, "neg")
     data_neg = negative_data(data_pos, diction)
     print(f"Number of samples: {len(data_neg)}")
 
