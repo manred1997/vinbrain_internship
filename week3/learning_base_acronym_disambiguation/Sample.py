@@ -23,7 +23,7 @@ class Sample:
         tokenized_context = self.tokenizer.encode(self.context)
         
         end_char_idx = self.start_char_idx + self.len_acronym
-        if end_char_idx >= len(self.context): 
+        if end_char_idx > len(self.context): 
             self.skip = True
             return
         
