@@ -9,3 +9,4 @@ learning_base_acronym_disambiguation/slow_token/
 learning_base_acronym_disambiguation/bert_base
 learning_base_acronym_disambiguation/dev_data/
 learning_base_acronym_disambiguation/results/model_inference_on_dev.json
+result_vn_2
