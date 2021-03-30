@@ -13,6 +13,8 @@
 
 - Evaluate model `python evaluate.py`
 
+- Inference model `python inference.py`
+
 ##### Results of model in dev set
 ![](image/results.PNG)
 

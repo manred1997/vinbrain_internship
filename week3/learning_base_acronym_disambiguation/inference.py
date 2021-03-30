@@ -62,7 +62,7 @@ class AcronymExpansionModel:
         return tokenized_context, start_token_idx.unsqueeze(0), end_token_idx.unsqueeze(0)
 
     def predict(self, input_ids, token_type_ids, attention_mask, start_token_idx, end_token_idx):
-        prop, tmp = self.model(input_ids=input_ids,
+        prop, _ = self.model(input_ids=input_ids,
                         token_type_ids=token_type_ids,
                         attention_mask=attention_mask,
                         start_token_idx=start_token_idx,
@@ -102,7 +102,7 @@ class AcronymExpansionModel:
                     token_type_ids = torch.tensor(token_type_ids, dtype=torch.int64).unsqueeze(0)
                     attention_mask = torch.tensor(attention_mask, dtype=torch.float).unsqueeze(0)
                     # prop = self.predict(input_ids, token_type_ids, attention_mask, start_token_idx, end_token_idx)
-                    props.append(int(self.predict(input_ids, token_type_ids, attention_mask, start_token_idx, end_token_idx)))
+                    props.append(float(self.predict(input_ids, token_type_ids, attention_mask, start_token_idx, end_token_idx)))
                 return list_expansion[int(np.argmax(props))]
 
             else: return ""
