@@ -8,6 +8,7 @@ import numpy as np
 from model import AcrBertModel
 from tokenizers import BertWordPieceTokenizer
 
+import time
 
 class AcronymExpansionModel:
     def __init__(self, acronym_long_dict="../AAAI-21-SDU-shared-task-2-AD/dataset/diction.json", 
@@ -103,6 +104,7 @@ class AcronymExpansionModel:
                 inference_sampler = SequentialSampler(inference_data)
                 inference_loader = DataLoader(inference_data, batch_size=32, sampler=inference_sampler)
                 self.model.eval()
+                start = time.time()
                 with torch.no_grad():
                     for batch in inference_loader:
                         input_word_ids, input_type_ids, input_mask, start_token_idx, end_token_idx = batch
@@ -111,6 +113,7 @@ class AcronymExpansionModel:
                                                 attention_mask=input_mask,
                                                 start_token_idx=start_token_idx,
                                                 end_token_idx=end_token_idx)
+                print(f"inference time: {time.time() - start}")
                 return  expansions[int(torch.argmax(props))]
 
             else: return ""
