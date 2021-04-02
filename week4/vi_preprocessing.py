@@ -46,9 +46,9 @@ def create_inputs_targets(examples):
     
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--data", type=str, default="../AAAI-21-SDU-shared-task-2-AD/dataset/train.json", 
+    parser.add_argument("--data", type=str, default="./data_vi/vi_final_train_data_small.json", 
                         help= "Dataset for Acronym Disambiguation")
-    parser.add_argument("--data_folder", type=str, default="./pos_data",
+    parser.add_argument("--data_folder", type=str, default="./data_vi",
                         help= "Folder for sampling positive dataset")
     parser.add_argument("--mode", type=str, default="train",
                         help= "Mode of dataset")
@@ -60,6 +60,7 @@ if __name__ == "__main__":
     if not os.path.isdir(args.data_folder): os.mkdir(args.data_folder)
 
     data_pos = preprocessing(data, "pos")
+    print(data_pos[:2])
 
     with open(os.path.join(args.data_folder, f"{args.mode}_pos_data.json"), "w", encoding="UTF-8") as f:
         json.dump(data_pos, f)
